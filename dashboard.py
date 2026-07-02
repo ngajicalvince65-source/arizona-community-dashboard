@@ -7,6 +7,9 @@ from streamlit_folium import st_folium
 import plotly.express as px
 import warnings
 import os
+import urllib.request
+import zipfile
+import requests
 warnings.filterwarnings("ignore")
 
 st.set_page_config(
@@ -15,30 +18,50 @@ st.set_page_config(
     layout="wide"
 )
 
-# Relative paths — works both locally and on Streamlit Cloud
 BASE = os.path.dirname(os.path.abspath(__file__))
 
 @st.cache_data
 def load_data():
-    unemp = pd.read_csv(os.path.join(BASE, "USA_Unemployment_data.csv"))
-    az_u = unemp[(unemp["State"]=="Arizona") &
-                 (unemp["Year"]==unemp[unemp["State"]=="Arizona"]["Year"].max()) &
-                 (unemp["Month"]=="January")].copy()
+    # ── Unemployment data (from GitHub) ───────────────────────────────────────
+    unemp_path = os.path.join(BASE, "arizona_unemployment.csv")
+    az_u_full = pd.read_csv(unemp_path)
+    az_u = az_u_full[
+        (az_u_full["Year"] == az_u_full["Year"].max()) &
+        (az_u_full["Month"] == "January")
+    ].copy()
     az_u["County_Name"] = az_u["County"].str.replace(" County","",regex=False).str.strip()
 
+    # ── Education and crime (already in repo, small files) ───────────────────
     edu   = pd.read_csv(os.path.join(BASE, "arizona_education.csv"))
     crime = pd.read_csv(os.path.join(BASE, "arizona_crime.csv"))
 
-    counties = gpd.read_file(os.path.join(BASE, "tl_2023_us_county.shp"))
+    # ── County shapefile (download from Census if not present) ───────────────
+    shp_path = os.path.join(BASE, "tl_2023_us_county.shp")
+    if not os.path.exists(shp_path):
+        zip_url  = "https://www2.census.gov/geo/tiger/TIGER2023/COUNTY/tl_2023_us_county.zip"
+        zip_path = os.path.join(BASE, "county.zip")
+        urllib.request.urlretrieve(zip_url, zip_path)
+        with zipfile.ZipFile(zip_path, "r") as z:
+            z.extractall(BASE)
+        os.remove(zip_path)
+
+    counties = gpd.read_file(shp_path)
     az_c = counties[counties["STATEFP"]=="04"].copy().to_crs(epsg=4326)
     az_c["NAME"] = az_c["NAME"].str.strip()
 
+    # ── Merge all into master ─────────────────────────────────────────────────
     master = az_c.merge(az_u[["County_Name","Rate"]], left_on="NAME", right_on="County_Name", how="left")
     master = master.rename(columns={"Rate":"Unemployment_Rate"})
     master = master.merge(edu,   left_on="NAME", right_on="County", how="left")
     master = master.merge(crime, left_on="NAME", right_on="County", how="left")
 
-    resources = gpd.read_file(os.path.join(BASE, "phoenix_community_resources.geojson"))
+    # ── Community resources (download from GitHub) ────────────────────────────
+    geo_path = os.path.join(BASE, "phoenix_community_resources.geojson")
+    if not os.path.exists(geo_path):
+        geo_url = "https://raw.githubusercontent.com/ngajicalvince65-source/arizona-community-dashboard/main/phoenix_community_resources.geojson"
+        urllib.request.urlretrieve(geo_url, geo_path)
+
+    resources = gpd.read_file(geo_path)
     res_clean = resources[["amenity","name","geometry"]].copy()
     res_clean["amenity"] = res_clean["amenity"].fillna("unknown")
     res_clean = res_clean.to_crs(epsg=4326)
@@ -57,21 +80,19 @@ def load_data():
 
     return master, res_clean
 
-master, res_clean = load_data()
+with st.spinner("Loading data, please wait..."):
+    master, res_clean = load_data()
 
 # ── Sidebar ───────────────────────────────────────────────────────────────────
 st.sidebar.title("Dashboard Filters")
 all_counties = sorted(master["NAME"].dropna().tolist())
 selected_counties = st.sidebar.multiselect("Select Counties", all_counties, default=all_counties)
-
 layer = st.sidebar.radio(
     "Map Data Layer",
     ["Unemployment Rate","Vulnerability Score","Violent Crime Rate",
      "Less than HS Education %","Bachelors Degree %"]
 )
-
 show_resources = st.sidebar.checkbox("Show Community Resources on Map", value=True)
-
 st.sidebar.markdown("---")
 st.sidebar.markdown("**Data Sources**")
 st.sidebar.markdown("- Bureau of Labor Statistics (2016)")
@@ -87,19 +108,18 @@ st.markdown("Explore unemployment, education, crime, and community resource acce
 
 # ── KPI Row ───────────────────────────────────────────────────────────────────
 k1, k2, k3, k4 = st.columns(4)
-k1.metric("Avg Unemployment Rate",    f"{filtered['Unemployment_Rate'].mean():.1f}%")
-k2.metric("Avg Violent Crime Rate",   f"{filtered['Violent_Crime_Rate'].mean():.0f} per 100k")
-k3.metric("Avg HS Graduate or Higher",f"{filtered['HS_graduate_pct'].mean():.1f}%")
-k4.metric("Total Community Resources",f"{filtered['Resource_Count'].sum():,}")
-
+k1.metric("Avg Unemployment Rate",     f"{filtered['Unemployment_Rate'].mean():.1f}%")
+k2.metric("Avg Violent Crime Rate",    f"{filtered['Violent_Crime_Rate'].mean():.0f} per 100k")
+k3.metric("Avg HS Graduate or Higher", f"{filtered['HS_graduate_pct'].mean():.1f}%")
+k4.metric("Total Community Resources", f"{filtered['Resource_Count'].sum():,}")
 st.markdown("---")
 
 layer_col_map = {
-    "Unemployment Rate":        ("Unemployment_Rate",        "YlOrRd"),
-    "Vulnerability Score":      ("Vulnerability_Score",      "OrRd"),
-    "Violent Crime Rate":       ("Violent_Crime_Rate",       "PuRd"),
-    "Less than HS Education %": ("Less_than_HS_pct",         "YlOrBr"),
-    "Bachelors Degree %":       ("Bachelors_or_higher_pct",  "BuGn"),
+    "Unemployment Rate":        ("Unemployment_Rate",       "YlOrRd"),
+    "Vulnerability Score":      ("Vulnerability_Score",     "OrRd"),
+    "Violent Crime Rate":       ("Violent_Crime_Rate",      "PuRd"),
+    "Less than HS Education %": ("Less_than_HS_pct",        "YlOrBr"),
+    "Bachelors Degree %":       ("Bachelors_or_higher_pct", "BuGn"),
 }
 col_name, colorscale = layer_col_map[layer]
 
@@ -109,7 +129,6 @@ col1, col2 = st.columns([3, 2])
 with col1:
     st.subheader(f"Map: {layer}")
     m = folium.Map(location=[34.0, -111.5], zoom_start=6, tiles="CartoDB positron")
-
     folium.Choropleth(
         geo_data=filtered.__geo_interface__,
         data=filtered,
@@ -121,7 +140,6 @@ with col1:
         legend_name=layer,
         nan_fill_color="lightgrey"
     ).add_to(m)
-
     folium.GeoJson(
         filtered.__geo_interface__,
         style_function=lambda x: {"fillColor":"transparent","color":"#444","weight":1},
@@ -132,7 +150,6 @@ with col1:
                      "Less than HS %","Resources","Vulnerability Score"]
         )
     ).add_to(m)
-
     if show_resources:
         color_map = {"clinic":"blue","hospital":"red","school":"green",
                      "place_of_worship":"purple","unknown":"gray"}
@@ -146,7 +163,6 @@ with col1:
                 fill_color=color, fill_opacity=0.6,
                 tooltip=f"{amenity}: {name}"
             ).add_to(m)
-
     st_folium(m, width=700, height=480)
 
 with col2:
@@ -203,10 +219,8 @@ display_df = filtered[show_cols].rename(columns={
     "Violent_Crime_Rate":"Violent Crime Rate","Property_Crime_Rate":"Property Crime Rate",
     "Resource_Count":"Resources","Vulnerability_Score":"Vulnerability Score"
 }).sort_values("Vulnerability Score", ascending=False).reset_index(drop=True)
-
 st.dataframe(display_df, use_container_width=True)
 csv = display_df.to_csv(index=False).encode("utf-8")
 st.download_button("Download Data as CSV", csv, "arizona_community_data.csv", "text/csv")
-
 st.markdown("---")
 st.caption("Dashboard developed for GCU Geospatial Computing | Data: BLS, Census ACS 2022, OpenStreetMap, FBI UCR")
