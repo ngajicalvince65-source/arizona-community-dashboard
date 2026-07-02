@@ -1,0 +1,4861 @@
+Year,Month,State,County,Rate
+2015,February,Arizona,Pinal County,6.5
+2015,February,Arizona,Greenlee County,7.9
+2015,February,Arizona,La Paz County,8.4
+2015,February,Arizona,Mohave County,8.7
+2015,February,Arizona,Yuma County,19.0
+2015,February,Arizona,Gila County,8.3
+2015,February,Arizona,Maricopa County,5.3
+2015,February,Arizona,Navajo County,10.7
+2015,February,Arizona,Graham County,7.7
+2015,February,Arizona,Pima County,5.5
+2015,February,Arizona,Apache County,14.4
+2015,February,Arizona,Coconino County,6.9
+2015,February,Arizona,Cochise County,7.8
+2015,February,Arizona,Santa Cruz County,10.6
+2015,February,Arizona,Yavapai County,5.9
+2015,October,Arizona,Pinal County,6.1
+2015,October,Arizona,Greenlee County,8.6
+2015,October,Arizona,La Paz County,7.3
+2015,October,Arizona,Mohave County,7.6
+2015,October,Arizona,Yuma County,22.3
+2015,October,Arizona,Gila County,7.8
+2015,October,Arizona,Maricopa County,5.0
+2015,October,Arizona,Navajo County,8.9
+2015,October,Arizona,Graham County,7.3
+2015,October,Arizona,Pima County,5.4
+2015,October,Arizona,Apache County,12.4
+2015,October,Arizona,Coconino County,6.2
+2015,October,Arizona,Cochise County,7.0
+2015,October,Arizona,Santa Cruz County,13.4
+2015,October,Arizona,Yavapai County,5.2
+2015,March,Arizona,Pinal County,6.4
+2015,March,Arizona,Greenlee County,7.6
+2015,March,Arizona,La Paz County,7.6
+2015,March,Arizona,Mohave County,8.3
+2015,March,Arizona,Yuma County,17.9
+2015,March,Arizona,Gila County,8.0
+2015,March,Arizona,Maricopa County,5.2
+2015,March,Arizona,Navajo County,10.2
+2015,March,Arizona,Graham County,7.5
+2015,March,Arizona,Pima County,5.4
+2015,March,Arizona,Apache County,13.8
+2015,March,Arizona,Coconino County,6.6
+2015,March,Arizona,Cochise County,7.6
+2015,March,Arizona,Santa Cruz County,9.9
+2015,March,Arizona,Yavapai County,5.7
+2015,August,Arizona,Pinal County,6.7
+2015,August,Arizona,Greenlee County,8.1
+2015,August,Arizona,La Paz County,7.8
+2015,August,Arizona,Mohave County,8.3
+2015,August,Arizona,Yuma County,26.1
+2015,August,Arizona,Gila County,8.2
+2015,August,Arizona,Maricopa County,5.5
+2015,August,Arizona,Navajo County,9.8
+2015,August,Arizona,Graham County,7.7
+2015,August,Arizona,Pima County,6.0
+2015,August,Arizona,Apache County,13.4
+2015,August,Arizona,Coconino County,6.8
+2015,August,Arizona,Cochise County,7.8
+2015,August,Arizona,Santa Cruz County,14.2
+2015,August,Arizona,Yavapai County,5.9
+2015,May,Arizona,Pinal County,6.1
+2015,May,Arizona,Greenlee County,7.4
+2015,May,Arizona,La Paz County,7.6
+2015,May,Arizona,Mohave County,7.6
+2015,May,Arizona,Yuma County,24.3
+2015,May,Arizona,Gila County,7.6
+2015,May,Arizona,Maricopa County,4.9
+2015,May,Arizona,Navajo County,9.2
+2015,May,Arizona,Graham County,7.1
+2015,May,Arizona,Pima County,5.3
+2015,May,Arizona,Apache County,13.3
+2015,May,Arizona,Coconino County,6.1
+2015,May,Arizona,Cochise County,7.3
+2015,May,Arizona,Santa Cruz County,9.8
+2015,May,Arizona,Yavapai County,5.2
+2015,January,Arizona,Pinal County,6.9
+2015,January,Arizona,Greenlee County,8.2
+2015,January,Arizona,La Paz County,8.5
+2015,January,Arizona,Mohave County,9.0
+2015,January,Arizona,Yuma County,19.3
+2015,January,Arizona,Gila County,8.8
+2015,January,Arizona,Maricopa County,5.7
+2015,January,Arizona,Navajo County,11.3
+2015,January,Arizona,Graham County,8.1
+2015,January,Arizona,Pima County,5.9
+2015,January,Arizona,Apache County,14.9
+2015,January,Arizona,Coconino County,7.5
+2015,January,Arizona,Cochise County,8.3
+2015,January,Arizona,Santa Cruz County,11.1
+2015,January,Arizona,Yavapai County,6.4
+2015,June,Arizona,Pinal County,6.6
+2015,June,Arizona,Greenlee County,7.5
+2015,June,Arizona,La Paz County,7.5
+2015,June,Arizona,Mohave County,8.0
+2015,June,Arizona,Yuma County,22.4
+2015,June,Arizona,Gila County,7.9
+2015,June,Arizona,Maricopa County,5.4
+2015,June,Arizona,Navajo County,9.7
+2015,June,Arizona,Graham County,7.5
+2015,June,Arizona,Pima County,6.0
+2015,June,Arizona,Apache County,13.8
+2015,June,Arizona,Coconino County,6.7
+2015,June,Arizona,Cochise County,7.6
+2015,June,Arizona,Santa Cruz County,10.5
+2015,June,Arizona,Yavapai County,5.8
+2015,September,Arizona,Pinal County,6.3
+2015,September,Arizona,Greenlee County,8.4
+2015,September,Arizona,La Paz County,7.8
+2015,September,Arizona,Mohave County,7.9
+2015,September,Arizona,Yuma County,24.7
+2015,September,Arizona,Gila County,7.8
+2015,September,Arizona,Maricopa County,5.1
+2015,September,Arizona,Navajo County,9.1
+2015,September,Arizona,Graham County,7.5
+2015,September,Arizona,Pima County,5.5
+2015,September,Arizona,Apache County,12.6
+2015,September,Arizona,Coconino County,6.2
+2015,September,Arizona,Cochise County,7.3
+2015,September,Arizona,Santa Cruz County,14.2
+2015,September,Arizona,Yavapai County,5.4
+2015,April,Arizona,Pinal County,6.1
+2015,April,Arizona,Greenlee County,7.2
+2015,April,Arizona,La Paz County,7.7
+2015,April,Arizona,Mohave County,7.7
+2015,April,Arizona,Yuma County,22.3
+2015,April,Arizona,Gila County,7.7
+2015,April,Arizona,Maricopa County,4.9
+2015,April,Arizona,Navajo County,9.2
+2015,April,Arizona,Graham County,6.8
+2015,April,Arizona,Pima County,5.3
+2015,April,Arizona,Apache County,13.1
+2015,April,Arizona,Coconino County,5.9
+2015,April,Arizona,Cochise County,7.3
+2015,April,Arizona,Santa Cruz County,9.5
+2015,April,Arizona,Yavapai County,5.4
+2015,December,Arizona,Pinal County,5.7
+2015,December,Arizona,Greenlee County,8.3
+2015,December,Arizona,La Paz County,6.9
+2015,December,Arizona,Mohave County,7.5
+2015,December,Arizona,Yuma County,17.6
+2015,December,Arizona,Gila County,7.6
+2015,December,Arizona,Maricopa County,4.7
+2015,December,Arizona,Navajo County,9.2
+2015,December,Arizona,Graham County,7.0
+2015,December,Arizona,Pima County,5.0
+2015,December,Arizona,Apache County,12.6
+2015,December,Arizona,Coconino County,6.6
+2015,December,Arizona,Cochise County,6.6
+2015,December,Arizona,Santa Cruz County,10.2
+2015,December,Arizona,Yavapai County,5.0
+2015,July,Arizona,Pinal County,6.6
+2015,July,Arizona,Greenlee County,7.9
+2015,July,Arizona,La Paz County,7.4
+2015,July,Arizona,Mohave County,8.2
+2015,July,Arizona,Yuma County,25.5
+2015,July,Arizona,Gila County,8.2
+2015,July,Arizona,Maricopa County,5.5
+2015,July,Arizona,Navajo County,10.2
+2015,July,Arizona,Graham County,7.8
+2015,July,Arizona,Pima County,6.0
+2015,July,Arizona,Apache County,14.4
+2015,July,Arizona,Coconino County,7.0
+2015,July,Arizona,Cochise County,7.6
+2015,July,Arizona,Santa Cruz County,13.8
+2015,July,Arizona,Yavapai County,5.9
+2015,November,Arizona,Pinal County,5.8
+2015,November,Arizona,Greenlee County,8.1
+2015,November,Arizona,La Paz County,7.0
+2015,November,Arizona,Mohave County,7.5
+2015,November,Arizona,Yuma County,19.3
+2015,November,Arizona,Gila County,7.6
+2015,November,Arizona,Maricopa County,4.8
+2015,November,Arizona,Navajo County,8.8
+2015,November,Arizona,Graham County,7.0
+2015,November,Arizona,Pima County,5.2
+2015,November,Arizona,Apache County,12.1
+2015,November,Arizona,Coconino County,6.2
+2015,November,Arizona,Cochise County,6.8
+2015,November,Arizona,Santa Cruz County,11.1
+2015,November,Arizona,Yavapai County,5.1
+2014,February,Arizona,Pinal County,7.4
+2014,February,Arizona,Greenlee County,4.7
+2014,February,Arizona,La Paz County,8.3
+2014,February,Arizona,Mohave County,9.3
+2014,February,Arizona,Yuma County,21.8
+2014,February,Arizona,Gila County,9.1
+2014,February,Arizona,Maricopa County,6.0
+2014,February,Arizona,Navajo County,12.3
+2014,February,Arizona,Graham County,7.1
+2014,February,Arizona,Pima County,6.1
+2014,February,Arizona,Apache County,17.1
+2014,February,Arizona,Coconino County,7.8
+2014,February,Arizona,Cochise County,8.9
+2014,February,Arizona,Santa Cruz County,12.8
+2014,February,Arizona,Yavapai County,6.7
+2014,October,Arizona,Pinal County,6.8
+2014,October,Arizona,Greenlee County,8.0
+2014,October,Arizona,La Paz County,7.4
+2014,October,Arizona,Mohave County,8.3
+2014,October,Arizona,Yuma County,22.4
+2014,October,Arizona,Gila County,7.9
+2014,October,Arizona,Maricopa County,5.7
+2014,October,Arizona,Navajo County,10.0
+2014,October,Arizona,Graham County,7.6
+2014,October,Arizona,Pima County,5.9
+2014,October,Arizona,Apache County,14.4
+2014,October,Arizona,Coconino County,6.4
+2014,October,Arizona,Cochise County,7.8
+2014,October,Arizona,Santa Cruz County,13.9
+2014,October,Arizona,Yavapai County,5.9
+2014,March,Arizona,Pinal County,7.3
+2014,March,Arizona,Greenlee County,5.1
+2014,March,Arizona,La Paz County,8.2
+2014,March,Arizona,Mohave County,9.1
+2014,March,Arizona,Yuma County,20.7
+2014,March,Arizona,Gila County,8.7
+2014,March,Arizona,Maricopa County,6.0
+2014,March,Arizona,Navajo County,11.8
+2014,March,Arizona,Graham County,7.0
+2014,March,Arizona,Pima County,6.1
+2014,March,Arizona,Apache County,16.7
+2014,March,Arizona,Coconino County,7.6
+2014,March,Arizona,Cochise County,8.8
+2014,March,Arizona,Santa Cruz County,12.6
+2014,March,Arizona,Yavapai County,6.7
+2014,August,Arizona,Pinal County,7.5
+2014,August,Arizona,Greenlee County,8.0
+2014,August,Arizona,La Paz County,7.7
+2014,August,Arizona,Mohave County,9.0
+2014,August,Arizona,Yuma County,25.6
+2014,August,Arizona,Gila County,8.4
+2014,August,Arizona,Maricopa County,6.3
+2014,August,Arizona,Navajo County,11.1
+2014,August,Arizona,Graham County,8.6
+2014,August,Arizona,Pima County,6.6
+2014,August,Arizona,Apache County,15.6
+2014,August,Arizona,Coconino County,7.2
+2014,August,Arizona,Cochise County,8.5
+2014,August,Arizona,Santa Cruz County,14.9
+2014,August,Arizona,Yavapai County,6.5
+2014,May,Arizona,Pinal County,6.8
+2014,May,Arizona,Greenlee County,5.9
+2014,May,Arizona,La Paz County,7.3
+2014,May,Arizona,Mohave County,8.3
+2014,May,Arizona,Yuma County,24.9
+2014,May,Arizona,Gila County,7.9
+2014,May,Arizona,Maricopa County,5.6
+2014,May,Arizona,Navajo County,10.6
+2014,May,Arizona,Graham County,6.9
+2014,May,Arizona,Pima County,5.8
+2014,May,Arizona,Apache County,15.3
+2014,May,Arizona,Coconino County,6.6
+2014,May,Arizona,Cochise County,8.3
+2014,May,Arizona,Santa Cruz County,11.4
+2014,May,Arizona,Yavapai County,5.9
+2014,January,Arizona,Pinal County,7.6
+2014,January,Arizona,Greenlee County,5.1
+2014,January,Arizona,La Paz County,8.4
+2014,January,Arizona,Mohave County,9.6
+2014,January,Arizona,Yuma County,22.5
+2014,January,Arizona,Gila County,9.4
+2014,January,Arizona,Maricopa County,6.1
+2014,January,Arizona,Navajo County,12.9
+2014,January,Arizona,Graham County,7.2
+2014,January,Arizona,Pima County,6.2
+2014,January,Arizona,Apache County,17.8
+2014,January,Arizona,Coconino County,8.1
+2014,January,Arizona,Cochise County,8.9
+2014,January,Arizona,Santa Cruz County,13.4
+2014,January,Arizona,Yavapai County,7.1
+2014,June,Arizona,Pinal County,7.3
+2014,June,Arizona,Greenlee County,6.8
+2014,June,Arizona,La Paz County,7.6
+2014,June,Arizona,Mohave County,8.8
+2014,June,Arizona,Yuma County,23.6
+2014,June,Arizona,Gila County,8.3
+2014,June,Arizona,Maricopa County,6.1
+2014,June,Arizona,Navajo County,11.1
+2014,June,Arizona,Graham County,7.8
+2014,June,Arizona,Pima County,6.4
+2014,June,Arizona,Apache County,16.2
+2014,June,Arizona,Coconino County,7.2
+2014,June,Arizona,Cochise County,8.6
+2014,June,Arizona,Santa Cruz County,12.3
+2014,June,Arizona,Yavapai County,6.5
+2014,September,Arizona,Pinal County,7.0
+2014,September,Arizona,Greenlee County,7.9
+2014,September,Arizona,La Paz County,7.5
+2014,September,Arizona,Mohave County,8.7
+2014,September,Arizona,Yuma County,24.3
+2014,September,Arizona,Gila County,8.0
+2014,September,Arizona,Maricopa County,5.9
+2014,September,Arizona,Navajo County,10.3
+2014,September,Arizona,Graham County,8.0
+2014,September,Arizona,Pima County,6.1
+2014,September,Arizona,Apache County,14.7
+2014,September,Arizona,Coconino County,6.6
+2014,September,Arizona,Cochise County,8.0
+2014,September,Arizona,Santa Cruz County,14.7
+2014,September,Arizona,Yavapai County,6.0
+2014,April,Arizona,Pinal County,6.6
+2014,April,Arizona,Greenlee County,4.8
+2014,April,Arizona,La Paz County,7.5
+2014,April,Arizona,Mohave County,8.3
+2014,April,Arizona,Yuma County,23.4
+2014,April,Arizona,Gila County,8.0
+2014,April,Arizona,Maricopa County,5.3
+2014,April,Arizona,Navajo County,10.8
+2014,April,Arizona,Graham County,6.4
+2014,April,Arizona,Pima County,5.5
+2014,April,Arizona,Apache County,15.3
+2014,April,Arizona,Coconino County,6.5
+2014,April,Arizona,Cochise County,8.2
+2014,April,Arizona,Santa Cruz County,11.4
+2014,April,Arizona,Yavapai County,5.9
+2014,December,Arizona,Pinal County,6.4
+2014,December,Arizona,Greenlee County,7.8
+2014,December,Arizona,La Paz County,7.3
+2014,December,Arizona,Mohave County,8.2
+2014,December,Arizona,Yuma County,19.4
+2014,December,Arizona,Gila County,8.0
+2014,December,Arizona,Maricopa County,5.3
+2014,December,Arizona,Navajo County,10.4
+2014,December,Arizona,Graham County,7.4
+2014,December,Arizona,Pima County,5.6
+2014,December,Arizona,Apache County,14.3
+2014,December,Arizona,Coconino County,7.1
+2014,December,Arizona,Cochise County,7.7
+2014,December,Arizona,Santa Cruz County,11.4
+2014,December,Arizona,Yavapai County,5.8
+2014,July,Arizona,Pinal County,7.4
+2014,July,Arizona,Greenlee County,7.9
+2014,July,Arizona,La Paz County,7.5
+2014,July,Arizona,Mohave County,8.9
+2014,July,Arizona,Yuma County,26.2
+2014,July,Arizona,Gila County,8.4
+2014,July,Arizona,Maricopa County,6.2
+2014,July,Arizona,Navajo County,11.8
+2014,July,Arizona,Graham County,8.5
+2014,July,Arizona,Pima County,6.5
+2014,July,Arizona,Apache County,16.8
+2014,July,Arizona,Coconino County,7.5
+2014,July,Arizona,Cochise County,8.8
+2014,July,Arizona,Santa Cruz County,14.8
+2014,July,Arizona,Yavapai County,6.5
+2014,November,Arizona,Pinal County,6.5
+2014,November,Arizona,Greenlee County,7.8
+2014,November,Arizona,La Paz County,7.1
+2014,November,Arizona,Mohave County,8.1
+2014,November,Arizona,Yuma County,19.6
+2014,November,Arizona,Gila County,7.8
+2014,November,Arizona,Maricopa County,5.5
+2014,November,Arizona,Navajo County,9.8
+2014,November,Arizona,Graham County,7.3
+2014,November,Arizona,Pima County,5.8
+2014,November,Arizona,Apache County,14.0
+2014,November,Arizona,Coconino County,6.6
+2014,November,Arizona,Cochise County,7.6
+2014,November,Arizona,Santa Cruz County,11.9
+2014,November,Arizona,Yavapai County,5.8
+2016,February,Arizona,Pinal County,5.5
+2016,February,Arizona,Greenlee County,8.1
+2016,February,Arizona,La Paz County,6.6
+2016,February,Arizona,Mohave County,7.1
+2016,February,Arizona,Yuma County,15.1
+2016,February,Arizona,Gila County,7.5
+2016,February,Arizona,Maricopa County,4.5
+2016,February,Arizona,Navajo County,8.8
+2016,February,Arizona,Graham County,6.6
+2016,February,Arizona,Pima County,4.8
+2016,February,Arizona,Apache County,11.6
+2016,February,Arizona,Coconino County,6.0
+2016,February,Arizona,Cochise County,6.5
+2016,February,Arizona,Santa Cruz County,8.6
+2016,February,Arizona,Yavapai County,5.0
+2016,October,Arizona,Pinal County,5.3
+2016,October,Arizona,Greenlee County,6.7
+2016,October,Arizona,La Paz County,5.6
+2016,October,Arizona,Mohave County,6.3
+2016,October,Arizona,Yuma County,19.4
+2016,October,Arizona,Gila County,7.1
+2016,October,Arizona,Maricopa County,4.4
+2016,October,Arizona,Navajo County,7.6
+2016,October,Arizona,Graham County,6.2
+2016,October,Arizona,Pima County,4.8
+2016,October,Arizona,Apache County,11.0
+2016,October,Arizona,Coconino County,5.7
+2016,October,Arizona,Cochise County,5.9
+2016,October,Arizona,Santa Cruz County,11.7
+2016,October,Arizona,Yavapai County,4.5
+2016,March,Arizona,Pinal County,5.4
+2016,March,Arizona,Greenlee County,8.0
+2016,March,Arizona,La Paz County,6.1
+2016,March,Arizona,Mohave County,6.8
+2016,March,Arizona,Yuma County,13.9
+2016,March,Arizona,Gila County,7.1
+2016,March,Arizona,Maricopa County,4.4
+2016,March,Arizona,Navajo County,8.1
+2016,March,Arizona,Graham County,6.4
+2016,March,Arizona,Pima County,4.7
+2016,March,Arizona,Apache County,10.9
+2016,March,Arizona,Coconino County,5.6
+2016,March,Arizona,Cochise County,6.2
+2016,March,Arizona,Santa Cruz County,8.3
+2016,March,Arizona,Yavapai County,4.8
+2016,August,Arizona,Pinal County,5.9
+2016,August,Arizona,Greenlee County,7.7
+2016,August,Arizona,La Paz County,6.6
+2016,August,Arizona,Mohave County,7.0
+2016,August,Arizona,Yuma County,24.4
+2016,August,Arizona,Gila County,7.6
+2016,August,Arizona,Maricopa County,4.9
+2016,August,Arizona,Navajo County,8.5
+2016,August,Arizona,Graham County,7.3
+2016,August,Arizona,Pima County,5.4
+2016,August,Arizona,Apache County,11.8
+2016,August,Arizona,Coconino County,6.4
+2016,August,Arizona,Cochise County,6.5
+2016,August,Arizona,Santa Cruz County,13.0
+2016,August,Arizona,Yavapai County,5.0
+2016,May,Arizona,Pinal County,5.6
+2016,May,Arizona,Greenlee County,8.1
+2016,May,Arizona,La Paz County,5.9
+2016,May,Arizona,Mohave County,6.6
+2016,May,Arizona,Yuma County,21.0
+2016,May,Arizona,Gila County,7.2
+2016,May,Arizona,Maricopa County,4.6
+2016,May,Arizona,Navajo County,8.1
+2016,May,Arizona,Graham County,7.0
+2016,May,Arizona,Pima County,5.0
+2016,May,Arizona,Apache County,11.0
+2016,May,Arizona,Coconino County,5.7
+2016,May,Arizona,Cochise County,6.4
+2016,May,Arizona,Santa Cruz County,8.3
+2016,May,Arizona,Yavapai County,4.8
+2016,January,Arizona,Pinal County,5.6
+2016,January,Arizona,Greenlee County,8.3
+2016,January,Arizona,La Paz County,6.8
+2016,January,Arizona,Mohave County,7.3
+2016,January,Arizona,Yuma County,15.8
+2016,January,Arizona,Gila County,7.7
+2016,January,Arizona,Maricopa County,4.6
+2016,January,Arizona,Navajo County,9.2
+2016,January,Arizona,Graham County,6.7
+2016,January,Arizona,Pima County,4.9
+2016,January,Arizona,Apache County,12.1
+2016,January,Arizona,Coconino County,6.5
+2016,January,Arizona,Cochise County,6.6
+2016,January,Arizona,Santa Cruz County,9.2
+2016,January,Arizona,Yavapai County,5.1
+2016,June,Arizona,Pinal County,6.3
+2016,June,Arizona,Greenlee County,8.7
+2016,June,Arizona,La Paz County,6.8
+2016,June,Arizona,Mohave County,7.5
+2016,June,Arizona,Yuma County,22.2
+2016,June,Arizona,Gila County,8.1
+2016,June,Arizona,Maricopa County,5.3
+2016,June,Arizona,Navajo County,9.4
+2016,June,Arizona,Graham County,7.8
+2016,June,Arizona,Pima County,5.7
+2016,June,Arizona,Apache County,12.7
+2016,June,Arizona,Coconino County,6.8
+2016,June,Arizona,Cochise County,7.1
+2016,June,Arizona,Santa Cruz County,10.1
+2016,June,Arizona,Yavapai County,5.4
+2016,September,Arizona,Pinal County,5.8
+2016,September,Arizona,Greenlee County,7.4
+2016,September,Arizona,La Paz County,6.3
+2016,September,Arizona,Mohave County,6.8
+2016,September,Arizona,Yuma County,20.9
+2016,September,Arizona,Gila County,7.3
+2016,September,Arizona,Maricopa County,4.8
+2016,September,Arizona,Navajo County,7.8
+2016,September,Arizona,Graham County,6.5
+2016,September,Arizona,Pima County,5.2
+2016,September,Arizona,Apache County,11.1
+2016,September,Arizona,Coconino County,5.8
+2016,September,Arizona,Cochise County,6.3
+2016,September,Arizona,Santa Cruz County,12.5
+2016,September,Arizona,Yavapai County,5.0
+2016,April,Arizona,Pinal County,5.6
+2016,April,Arizona,Greenlee County,8.2
+2016,April,Arizona,La Paz County,6.3
+2016,April,Arizona,Mohave County,6.8
+2016,April,Arizona,Yuma County,18.8
+2016,April,Arizona,Gila County,7.4
+2016,April,Arizona,Maricopa County,4.6
+2016,April,Arizona,Navajo County,8.2
+2016,April,Arizona,Graham County,6.9
+2016,April,Arizona,Pima County,4.9
+2016,April,Arizona,Apache County,11.0
+2016,April,Arizona,Coconino County,5.7
+2016,April,Arizona,Cochise County,6.5
+2016,April,Arizona,Santa Cruz County,8.4
+2016,April,Arizona,Yavapai County,4.9
+2016,December,Arizona,Pinal County,4.9
+2016,December,Arizona,Greenlee County,6.0
+2016,December,Arizona,La Paz County,5.3
+2016,December,Arizona,Mohave County,6.0
+2016,December,Arizona,Yuma County,15.3
+2016,December,Arizona,Gila County,6.6
+2016,December,Arizona,Maricopa County,4.0
+2016,December,Arizona,Navajo County,7.7
+2016,December,Arizona,Graham County,5.6
+2016,December,Arizona,Pima County,4.3
+2016,December,Arizona,Apache County,10.4
+2016,December,Arizona,Coconino County,6.0
+2016,December,Arizona,Cochise County,5.4
+2016,December,Arizona,Santa Cruz County,8.6
+2016,December,Arizona,Yavapai County,4.2
+2016,July,Arizona,Pinal County,6.3
+2016,July,Arizona,Greenlee County,8.6
+2016,July,Arizona,La Paz County,6.7
+2016,July,Arizona,Mohave County,7.4
+2016,July,Arizona,Yuma County,24.5
+2016,July,Arizona,Gila County,8.1
+2016,July,Arizona,Maricopa County,5.3
+2016,July,Arizona,Navajo County,9.6
+2016,July,Arizona,Graham County,7.8
+2016,July,Arizona,Pima County,5.8
+2016,July,Arizona,Apache County,13.1
+2016,July,Arizona,Coconino County,7.1
+2016,July,Arizona,Cochise County,7.0
+2016,July,Arizona,Santa Cruz County,13.1
+2016,July,Arizona,Yavapai County,5.5
+2016,November,Arizona,Pinal County,4.9
+2016,November,Arizona,Greenlee County,6.0
+2016,November,Arizona,La Paz County,5.5
+2016,November,Arizona,Mohave County,5.8
+2016,November,Arizona,Yuma County,16.7
+2016,November,Arizona,Gila County,6.6
+2016,November,Arizona,Maricopa County,4.0
+2016,November,Arizona,Navajo County,7.2
+2016,November,Arizona,Graham County,5.6
+2016,November,Arizona,Pima County,4.4
+2016,November,Arizona,Apache County,10.1
+2016,November,Arizona,Coconino County,5.5
+2016,November,Arizona,Cochise County,5.5
+2016,November,Arizona,Santa Cruz County,9.1
+2016,November,Arizona,Yavapai County,4.3
+2011,February,Arizona,Pinal County,9.9
+2011,February,Arizona,Greenlee County,11.9
+2011,February,Arizona,La Paz County,10.8
+2011,February,Arizona,Mohave County,12.4
+2011,February,Arizona,Yuma County,20.2
+2011,February,Arizona,Gila County,12.0
+2011,February,Arizona,Maricopa County,8.7
+2011,February,Arizona,Navajo County,15.0
+2011,February,Arizona,Graham County,10.1
+2011,February,Arizona,Pima County,8.5
+2011,February,Arizona,Apache County,17.3
+2011,February,Arizona,Coconino County,10.1
+2011,February,Arizona,Cochise County,9.5
+2011,February,Arizona,Santa Cruz County,13.5
+2011,February,Arizona,Yavapai County,10.2
+2011,October,Arizona,Pinal County,9.4
+2011,October,Arizona,Greenlee County,10.0
+2011,October,Arizona,La Paz County,8.8
+2011,October,Arizona,Mohave County,12.1
+2011,October,Arizona,Yuma County,25.0
+2011,October,Arizona,Gila County,11.3
+2011,October,Arizona,Maricopa County,8.3
+2011,October,Arizona,Navajo County,14.4
+2011,October,Arizona,Graham County,9.5
+2011,October,Arizona,Pima County,8.2
+2011,October,Arizona,Apache County,18.9
+2011,October,Arizona,Coconino County,8.8
+2011,October,Arizona,Cochise County,9.1
+2011,October,Arizona,Santa Cruz County,17.7
+2011,October,Arizona,Yavapai County,9.4
+2011,March,Arizona,Pinal County,9.7
+2011,March,Arizona,Greenlee County,10.9
+2011,March,Arizona,La Paz County,10.2
+2011,March,Arizona,Mohave County,12.3
+2011,March,Arizona,Yuma County,20.2
+2011,March,Arizona,Gila County,11.7
+2011,March,Arizona,Maricopa County,8.5
+2011,March,Arizona,Navajo County,14.7
+2011,March,Arizona,Graham County,9.6
+2011,March,Arizona,Pima County,8.3
+2011,March,Arizona,Apache County,17.2
+2011,March,Arizona,Coconino County,9.7
+2011,March,Arizona,Cochise County,9.3
+2011,March,Arizona,Santa Cruz County,13.6
+2011,March,Arizona,Yavapai County,10.0
+2011,August,Arizona,Pinal County,10.3
+2011,August,Arizona,Greenlee County,11.9
+2011,August,Arizona,La Paz County,9.7
+2011,August,Arizona,Mohave County,12.7
+2011,August,Arizona,Yuma County,27.3
+2011,August,Arizona,Gila County,12.0
+2011,August,Arizona,Maricopa County,9.1
+2011,August,Arizona,Navajo County,15.2
+2011,August,Arizona,Graham County,10.6
+2011,August,Arizona,Pima County,9.0
+2011,August,Arizona,Apache County,19.5
+2011,August,Arizona,Coconino County,9.6
+2011,August,Arizona,Cochise County,10.0
+2011,August,Arizona,Santa Cruz County,18.1
+2011,August,Arizona,Yavapai County,10.2
+2011,May,Arizona,Pinal County,9.2
+2011,May,Arizona,Greenlee County,10.7
+2011,May,Arizona,La Paz County,9.4
+2011,May,Arizona,Mohave County,11.6
+2011,May,Arizona,Yuma County,26.1
+2011,May,Arizona,Gila County,10.8
+2011,May,Arizona,Maricopa County,8.1
+2011,May,Arizona,Navajo County,13.8
+2011,May,Arizona,Graham County,9.2
+2011,May,Arizona,Pima County,7.9
+2011,May,Arizona,Apache County,16.9
+2011,May,Arizona,Coconino County,8.8
+2011,May,Arizona,Cochise County,9.3
+2011,May,Arizona,Santa Cruz County,13.1
+2011,May,Arizona,Yavapai County,9.4
+2011,January,Arizona,Pinal County,10.4
+2011,January,Arizona,Greenlee County,12.4
+2011,January,Arizona,La Paz County,11.6
+2011,January,Arizona,Mohave County,13.1
+2011,January,Arizona,Yuma County,21.8
+2011,January,Arizona,Gila County,12.5
+2011,January,Arizona,Maricopa County,9.1
+2011,January,Arizona,Navajo County,15.7
+2011,January,Arizona,Graham County,11.2
+2011,January,Arizona,Pima County,9.0
+2011,January,Arizona,Apache County,17.5
+2011,January,Arizona,Coconino County,10.7
+2011,January,Arizona,Cochise County,9.9
+2011,January,Arizona,Santa Cruz County,14.3
+2011,January,Arizona,Yavapai County,10.9
+2011,June,Arizona,Pinal County,10.9
+2011,June,Arizona,Greenlee County,11.8
+2011,June,Arizona,La Paz County,11.4
+2011,June,Arizona,Mohave County,13.1
+2011,June,Arizona,Yuma County,26.3
+2011,June,Arizona,Gila County,12.4
+2011,June,Arizona,Maricopa County,9.5
+2011,June,Arizona,Navajo County,16.0
+2011,June,Arizona,Graham County,10.8
+2011,June,Arizona,Pima County,9.6
+2011,June,Arizona,Apache County,20.0
+2011,June,Arizona,Coconino County,10.4
+2011,June,Arizona,Cochise County,10.7
+2011,June,Arizona,Santa Cruz County,15.6
+2011,June,Arizona,Yavapai County,10.8
+2011,September,Arizona,Pinal County,9.8
+2011,September,Arizona,Greenlee County,11.3
+2011,September,Arizona,La Paz County,9.1
+2011,September,Arizona,Mohave County,12.4
+2011,September,Arizona,Yuma County,25.7
+2011,September,Arizona,Gila County,11.5
+2011,September,Arizona,Maricopa County,8.7
+2011,September,Arizona,Navajo County,14.7
+2011,September,Arizona,Graham County,10.1
+2011,September,Arizona,Pima County,8.6
+2011,September,Arizona,Apache County,19.2
+2011,September,Arizona,Coconino County,9.0
+2011,September,Arizona,Cochise County,9.5
+2011,September,Arizona,Santa Cruz County,17.8
+2011,September,Arizona,Yavapai County,9.7
+2011,April,Arizona,Pinal County,9.5
+2011,April,Arizona,Greenlee County,11.1
+2011,April,Arizona,La Paz County,9.6
+2011,April,Arizona,Mohave County,11.7
+2011,April,Arizona,Yuma County,24.9
+2011,April,Arizona,Gila County,11.2
+2011,April,Arizona,Maricopa County,8.2
+2011,April,Arizona,Navajo County,14.3
+2011,April,Arizona,Graham County,9.5
+2011,April,Arizona,Pima County,8.0
+2011,April,Arizona,Apache County,17.5
+2011,April,Arizona,Coconino County,9.3
+2011,April,Arizona,Cochise County,9.3
+2011,April,Arizona,Santa Cruz County,13.7
+2011,April,Arizona,Yavapai County,9.6
+2011,December,Arizona,Pinal County,8.7
+2011,December,Arizona,Greenlee County,9.2
+2011,December,Arizona,La Paz County,8.8
+2011,December,Arizona,Mohave County,11.6
+2011,December,Arizona,Yuma County,21.5
+2011,December,Arizona,Gila County,10.7
+2011,December,Arizona,Maricopa County,7.6
+2011,December,Arizona,Navajo County,14.3
+2011,December,Arizona,Graham County,8.8
+2011,December,Arizona,Pima County,7.7
+2011,December,Arizona,Apache County,18.5
+2011,December,Arizona,Coconino County,9.2
+2011,December,Arizona,Cochise County,8.9
+2011,December,Arizona,Santa Cruz County,15.0
+2011,December,Arizona,Yavapai County,8.9
+2011,July,Arizona,Pinal County,10.6
+2011,July,Arizona,Greenlee County,12.1
+2011,July,Arizona,La Paz County,10.5
+2011,July,Arizona,Mohave County,13.0
+2011,July,Arizona,Yuma County,28.0
+2011,July,Arizona,Gila County,12.2
+2011,July,Arizona,Maricopa County,9.3
+2011,July,Arizona,Navajo County,16.0
+2011,July,Arizona,Graham County,10.9
+2011,July,Arizona,Pima County,9.4
+2011,July,Arizona,Apache County,20.7
+2011,July,Arizona,Coconino County,10.1
+2011,July,Arizona,Cochise County,10.2
+2011,July,Arizona,Santa Cruz County,17.9
+2011,July,Arizona,Yavapai County,10.6
+2011,November,Arizona,Pinal County,8.7
+2011,November,Arizona,Greenlee County,9.2
+2011,November,Arizona,La Paz County,8.3
+2011,November,Arizona,Mohave County,11.3
+2011,November,Arizona,Yuma County,22.7
+2011,November,Arizona,Gila County,10.6
+2011,November,Arizona,Maricopa County,7.6
+2011,November,Arizona,Navajo County,13.8
+2011,November,Arizona,Graham County,9.1
+2011,November,Arizona,Pima County,7.6
+2011,November,Arizona,Apache County,18.0
+2011,November,Arizona,Coconino County,8.7
+2011,November,Arizona,Cochise County,8.7
+2011,November,Arizona,Santa Cruz County,15.2
+2011,November,Arizona,Yavapai County,8.8
+2010,February,Arizona,Pinal County,11.2
+2010,February,Arizona,Greenlee County,20.3
+2010,February,Arizona,La Paz County,10.7
+2010,February,Arizona,Mohave County,13.5
+2010,February,Arizona,Yuma County,20.1
+2010,February,Arizona,Gila County,13.6
+2010,February,Arizona,Maricopa County,10.0
+2010,February,Arizona,Navajo County,15.6
+2010,February,Arizona,Graham County,14.4
+2010,February,Arizona,Pima County,9.6
+2010,February,Arizona,Apache County,18.0
+2010,February,Arizona,Coconino County,11.2
+2010,February,Arizona,Cochise County,9.6
+2010,February,Arizona,Santa Cruz County,14.2
+2010,February,Arizona,Yavapai County,11.1
+2010,October,Arizona,Pinal County,10.2
+2010,October,Arizona,Greenlee County,13.3
+2010,October,Arizona,La Paz County,9.5
+2010,October,Arizona,Mohave County,12.8
+2010,October,Arizona,Yuma County,26.5
+2010,October,Arizona,Gila County,12.1
+2010,October,Arizona,Maricopa County,9.1
+2010,October,Arizona,Navajo County,14.1
+2010,October,Arizona,Graham County,11.5
+2010,October,Arizona,Pima County,8.9
+2010,October,Arizona,Apache County,15.6
+2010,October,Arizona,Coconino County,8.6
+2010,October,Arizona,Cochise County,8.9
+2010,October,Arizona,Santa Cruz County,17.6
+2010,October,Arizona,Yavapai County,10.2
+2010,March,Arizona,Pinal County,10.9
+2010,March,Arizona,Greenlee County,19.8
+2010,March,Arizona,La Paz County,9.9
+2010,March,Arizona,Mohave County,13.2
+2010,March,Arizona,Yuma County,20.4
+2010,March,Arizona,Gila County,13.3
+2010,March,Arizona,Maricopa County,9.7
+2010,March,Arizona,Navajo County,15.3
+2010,March,Arizona,Graham County,14.0
+2010,March,Arizona,Pima County,9.4
+2010,March,Arizona,Apache County,17.0
+2010,March,Arizona,Coconino County,10.8
+2010,March,Arizona,Cochise County,9.4
+2010,March,Arizona,Santa Cruz County,14.1
+2010,March,Arizona,Yavapai County,11.0
+2010,August,Arizona,Pinal County,11.1
+2010,August,Arizona,Greenlee County,15.0
+2010,August,Arizona,La Paz County,10.9
+2010,August,Arizona,Mohave County,13.2
+2010,August,Arizona,Yuma County,30.3
+2010,August,Arizona,Gila County,12.3
+2010,August,Arizona,Maricopa County,9.8
+2010,August,Arizona,Navajo County,14.8
+2010,August,Arizona,Graham County,13.2
+2010,August,Arizona,Pima County,9.6
+2010,August,Arizona,Apache County,16.7
+2010,August,Arizona,Coconino County,9.5
+2010,August,Arizona,Cochise County,9.8
+2010,August,Arizona,Santa Cruz County,17.5
+2010,August,Arizona,Yavapai County,10.8
+2010,May,Arizona,Pinal County,10.4
+2010,May,Arizona,Greenlee County,17.3
+2010,May,Arizona,La Paz County,9.6
+2010,May,Arizona,Mohave County,12.5
+2010,May,Arizona,Yuma County,27.2
+2010,May,Arizona,Gila County,11.9
+2010,May,Arizona,Maricopa County,9.2
+2010,May,Arizona,Navajo County,13.6
+2010,May,Arizona,Graham County,12.5
+2010,May,Arizona,Pima County,8.9
+2010,May,Arizona,Apache County,15.3
+2010,May,Arizona,Coconino County,9.5
+2010,May,Arizona,Cochise County,8.9
+2010,May,Arizona,Santa Cruz County,13.4
+2010,May,Arizona,Yavapai County,10.2
+2010,January,Arizona,Pinal County,11.6
+2010,January,Arizona,Greenlee County,22.0
+2010,January,Arizona,La Paz County,11.4
+2010,January,Arizona,Mohave County,14.3
+2010,January,Arizona,Yuma County,21.0
+2010,January,Arizona,Gila County,14.3
+2010,January,Arizona,Maricopa County,10.3
+2010,January,Arizona,Navajo County,16.1
+2010,January,Arizona,Graham County,15.2
+2010,January,Arizona,Pima County,10.1
+2010,January,Arizona,Apache County,18.0
+2010,January,Arizona,Coconino County,11.5
+2010,January,Arizona,Cochise County,9.7
+2010,January,Arizona,Santa Cruz County,14.9
+2010,January,Arizona,Yavapai County,11.9
+2010,June,Arizona,Pinal County,10.9
+2010,June,Arizona,Greenlee County,16.0
+2010,June,Arizona,La Paz County,10.4
+2010,June,Arizona,Mohave County,12.7
+2010,June,Arizona,Yuma County,26.6
+2010,June,Arizona,Gila County,12.3
+2010,June,Arizona,Maricopa County,9.6
+2010,June,Arizona,Navajo County,14.5
+2010,June,Arizona,Graham County,13.2
+2010,June,Arizona,Pima County,9.5
+2010,June,Arizona,Apache County,16.5
+2010,June,Arizona,Coconino County,10.2
+2010,June,Arizona,Cochise County,9.3
+2010,June,Arizona,Santa Cruz County,14.5
+2010,June,Arizona,Yavapai County,10.5
+2010,September,Arizona,Pinal County,10.7
+2010,September,Arizona,Greenlee County,13.9
+2010,September,Arizona,La Paz County,10.6
+2010,September,Arizona,Mohave County,13.0
+2010,September,Arizona,Yuma County,26.9
+2010,September,Arizona,Gila County,12.1
+2010,September,Arizona,Maricopa County,9.5
+2010,September,Arizona,Navajo County,13.9
+2010,September,Arizona,Graham County,12.1
+2010,September,Arizona,Pima County,9.3
+2010,September,Arizona,Apache County,15.5
+2010,September,Arizona,Coconino County,8.9
+2010,September,Arizona,Cochise County,9.4
+2010,September,Arizona,Santa Cruz County,17.3
+2010,September,Arizona,Yavapai County,10.5
+2010,April,Arizona,Pinal County,10.5
+2010,April,Arizona,Greenlee County,18.6
+2010,April,Arizona,La Paz County,9.2
+2010,April,Arizona,Mohave County,12.6
+2010,April,Arizona,Yuma County,25.2
+2010,April,Arizona,Gila County,12.3
+2010,April,Arizona,Maricopa County,9.3
+2010,April,Arizona,Navajo County,14.5
+2010,April,Arizona,Graham County,12.9
+2010,April,Arizona,Pima County,9.0
+2010,April,Arizona,Apache County,15.8
+2010,April,Arizona,Coconino County,9.9
+2010,April,Arizona,Cochise County,8.9
+2010,April,Arizona,Santa Cruz County,13.9
+2010,April,Arizona,Yavapai County,10.5
+2010,December,Arizona,Pinal County,9.9
+2010,December,Arizona,Greenlee County,12.4
+2010,December,Arizona,La Paz County,9.9
+2010,December,Arizona,Mohave County,12.4
+2010,December,Arizona,Yuma County,22.3
+2010,December,Arizona,Gila County,11.9
+2010,December,Arizona,Maricopa County,8.8
+2010,December,Arizona,Navajo County,14.4
+2010,December,Arizona,Graham County,11.0
+2010,December,Arizona,Pima County,8.7
+2010,December,Arizona,Apache County,15.5
+2010,December,Arizona,Coconino County,9.5
+2010,December,Arizona,Cochise County,9.1
+2010,December,Arizona,Santa Cruz County,14.1
+2010,December,Arizona,Yavapai County,10.3
+2010,July,Arizona,Pinal County,11.1
+2010,July,Arizona,Greenlee County,15.3
+2010,July,Arizona,La Paz County,10.9
+2010,July,Arizona,Mohave County,12.9
+2010,July,Arizona,Yuma County,29.2
+2010,July,Arizona,Gila County,12.2
+2010,July,Arizona,Maricopa County,9.8
+2010,July,Arizona,Navajo County,15.1
+2010,July,Arizona,Graham County,13.6
+2010,July,Arizona,Pima County,9.7
+2010,July,Arizona,Apache County,17.3
+2010,July,Arizona,Coconino County,9.7
+2010,July,Arizona,Cochise County,9.8
+2010,July,Arizona,Santa Cruz County,16.4
+2010,July,Arizona,Yavapai County,10.8
+2010,November,Arizona,Pinal County,10.1
+2010,November,Arizona,Greenlee County,13.0
+2010,November,Arizona,La Paz County,9.8
+2010,November,Arizona,Mohave County,12.8
+2010,November,Arizona,Yuma County,24.6
+2010,November,Arizona,Gila County,12.0
+2010,November,Arizona,Maricopa County,9.1
+2010,November,Arizona,Navajo County,14.5
+2010,November,Arizona,Graham County,11.5
+2010,November,Arizona,Pima County,9.0
+2010,November,Arizona,Apache County,15.7
+2010,November,Arizona,Coconino County,9.3
+2010,November,Arizona,Cochise County,9.2
+2010,November,Arizona,Santa Cruz County,15.1
+2010,November,Arizona,Yavapai County,10.3
+2013,February,Arizona,Pinal County,8.1
+2013,February,Arizona,Greenlee County,6.8
+2013,February,Arizona,La Paz County,8.8
+2013,February,Arizona,Mohave County,10.6
+2013,February,Arizona,Yuma County,22.4
+2013,February,Arizona,Gila County,10.0
+2013,February,Arizona,Maricopa County,6.6
+2013,February,Arizona,Navajo County,14.1
+2013,February,Arizona,Graham County,7.7
+2013,February,Arizona,Pima County,6.6
+2013,February,Arizona,Apache County,18.4
+2013,February,Arizona,Coconino County,8.4
+2013,February,Arizona,Cochise County,8.9
+2013,February,Arizona,Santa Cruz County,14.3
+2013,February,Arizona,Yavapai County,8.1
+2013,October,Arizona,Pinal County,8.0
+2013,October,Arizona,Greenlee County,5.3
+2013,October,Arizona,La Paz County,8.0
+2013,October,Arizona,Mohave County,10.3
+2013,October,Arizona,Yuma County,27.3
+2013,October,Arizona,Gila County,9.5
+2013,October,Arizona,Maricopa County,6.5
+2013,October,Arizona,Navajo County,13.2
+2013,October,Arizona,Graham County,7.7
+2013,October,Arizona,Pima County,6.7
+2013,October,Arizona,Apache County,18.7
+2013,October,Arizona,Coconino County,8.2
+2013,October,Arizona,Cochise County,9.4
+2013,October,Arizona,Santa Cruz County,17.3
+2013,October,Arizona,Yavapai County,7.2
+2013,March,Arizona,Pinal County,8.1
+2013,March,Arizona,Greenlee County,6.3
+2013,March,Arizona,La Paz County,8.7
+2013,March,Arizona,Mohave County,10.4
+2013,March,Arizona,Yuma County,22.1
+2013,March,Arizona,Gila County,9.9
+2013,March,Arizona,Maricopa County,6.5
+2013,March,Arizona,Navajo County,13.7
+2013,March,Arizona,Graham County,7.6
+2013,March,Arizona,Pima County,6.6
+2013,March,Arizona,Apache County,18.1
+2013,March,Arizona,Coconino County,8.3
+2013,March,Arizona,Cochise County,8.9
+2013,March,Arizona,Santa Cruz County,14.2
+2013,March,Arizona,Yavapai County,8.0
+2013,August,Arizona,Pinal County,8.6
+2013,August,Arizona,Greenlee County,6.2
+2013,August,Arizona,La Paz County,8.0
+2013,August,Arizona,Mohave County,10.7
+2013,August,Arizona,Yuma County,27.8
+2013,August,Arizona,Gila County,9.7
+2013,August,Arizona,Maricopa County,7.2
+2013,August,Arizona,Navajo County,13.3
+2013,August,Arizona,Graham County,8.2
+2013,August,Arizona,Pima County,7.4
+2013,August,Arizona,Apache County,18.3
+2013,August,Arizona,Coconino County,8.3
+2013,August,Arizona,Cochise County,9.5
+2013,August,Arizona,Santa Cruz County,17.3
+2013,August,Arizona,Yavapai County,8.0
+2013,May,Arizona,Pinal County,7.9
+2013,May,Arizona,Greenlee County,5.4
+2013,May,Arizona,La Paz County,7.9
+2013,May,Arizona,Mohave County,10.0
+2013,May,Arizona,Yuma County,26.8
+2013,May,Arizona,Gila County,9.2
+2013,May,Arizona,Maricopa County,6.3
+2013,May,Arizona,Navajo County,13.0
+2013,May,Arizona,Graham County,7.3
+2013,May,Arizona,Pima County,6.4
+2013,May,Arizona,Apache County,17.6
+2013,May,Arizona,Coconino County,7.6
+2013,May,Arizona,Cochise County,8.9
+2013,May,Arizona,Santa Cruz County,13.6
+2013,May,Arizona,Yavapai County,7.6
+2013,January,Arizona,Pinal County,8.6
+2013,January,Arizona,Greenlee County,7.5
+2013,January,Arizona,La Paz County,9.3
+2013,January,Arizona,Mohave County,11.3
+2013,January,Arizona,Yuma County,22.9
+2013,January,Arizona,Gila County,10.6
+2013,January,Arizona,Maricopa County,7.0
+2013,January,Arizona,Navajo County,14.5
+2013,January,Arizona,Graham County,8.3
+2013,January,Arizona,Pima County,7.1
+2013,January,Arizona,Apache County,19.1
+2013,January,Arizona,Coconino County,8.9
+2013,January,Arizona,Cochise County,9.4
+2013,January,Arizona,Santa Cruz County,14.9
+2013,January,Arizona,Yavapai County,8.8
+2013,June,Arizona,Pinal County,8.6
+2013,June,Arizona,Greenlee County,6.0
+2013,June,Arizona,La Paz County,8.4
+2013,June,Arizona,Mohave County,10.8
+2013,June,Arizona,Yuma County,26.3
+2013,June,Arizona,Gila County,9.8
+2013,June,Arizona,Maricopa County,7.0
+2013,June,Arizona,Navajo County,13.8
+2013,June,Arizona,Graham County,8.2
+2013,June,Arizona,Pima County,7.4
+2013,June,Arizona,Apache County,19.2
+2013,June,Arizona,Coconino County,8.2
+2013,June,Arizona,Cochise County,9.6
+2013,June,Arizona,Santa Cruz County,14.9
+2013,June,Arizona,Yavapai County,8.2
+2013,September,Arizona,Pinal County,8.2
+2013,September,Arizona,Greenlee County,5.6
+2013,September,Arizona,La Paz County,8.1
+2013,September,Arizona,Mohave County,10.1
+2013,September,Arizona,Yuma County,27.2
+2013,September,Arizona,Gila County,9.4
+2013,September,Arizona,Maricopa County,6.7
+2013,September,Arizona,Navajo County,12.8
+2013,September,Arizona,Graham County,7.8
+2013,September,Arizona,Pima County,6.8
+2013,September,Arizona,Apache County,17.7
+2013,September,Arizona,Coconino County,7.8
+2013,September,Arizona,Cochise County,9.1
+2013,September,Arizona,Santa Cruz County,17.2
+2013,September,Arizona,Yavapai County,7.4
+2013,April,Arizona,Pinal County,7.9
+2013,April,Arizona,Greenlee County,5.8
+2013,April,Arizona,La Paz County,8.5
+2013,April,Arizona,Mohave County,10.0
+2013,April,Arizona,Yuma County,25.7
+2013,April,Arizona,Gila County,9.5
+2013,April,Arizona,Maricopa County,6.3
+2013,April,Arizona,Navajo County,13.3
+2013,April,Arizona,Graham County,7.3
+2013,April,Arizona,Pima County,6.3
+2013,April,Arizona,Apache County,17.8
+2013,April,Arizona,Coconino County,7.7
+2013,April,Arizona,Cochise County,8.8
+2013,April,Arizona,Santa Cruz County,13.7
+2013,April,Arizona,Yavapai County,7.6
+2013,December,Arizona,Pinal County,7.3
+2013,December,Arizona,Greenlee County,5.0
+2013,December,Arizona,La Paz County,7.5
+2013,December,Arizona,Mohave County,9.5
+2013,December,Arizona,Yuma County,23.3
+2013,December,Arizona,Gila County,9.0
+2013,December,Arizona,Maricopa County,5.9
+2013,December,Arizona,Navajo County,12.5
+2013,December,Arizona,Graham County,7.2
+2013,December,Arizona,Pima County,6.1
+2013,December,Arizona,Apache County,17.8
+2013,December,Arizona,Coconino County,7.9
+2013,December,Arizona,Cochise County,8.9
+2013,December,Arizona,Santa Cruz County,14.3
+2013,December,Arizona,Yavapai County,6.7
+2013,July,Arizona,Pinal County,8.5
+2013,July,Arizona,Greenlee County,6.0
+2013,July,Arizona,La Paz County,7.6
+2013,July,Arizona,Mohave County,10.6
+2013,July,Arizona,Yuma County,28.4
+2013,July,Arizona,Gila County,9.5
+2013,July,Arizona,Maricopa County,7.0
+2013,July,Arizona,Navajo County,14.3
+2013,July,Arizona,Graham County,8.5
+2013,July,Arizona,Pima County,7.2
+2013,July,Arizona,Apache County,19.8
+2013,July,Arizona,Coconino County,8.4
+2013,July,Arizona,Cochise County,9.5
+2013,July,Arizona,Santa Cruz County,17.2
+2013,July,Arizona,Yavapai County,8.0
+2013,November,Arizona,Pinal County,7.5
+2013,November,Arizona,Greenlee County,5.2
+2013,November,Arizona,La Paz County,7.7
+2013,November,Arizona,Mohave County,9.6
+2013,November,Arizona,Yuma County,25.0
+2013,November,Arizona,Gila County,9.2
+2013,November,Arizona,Maricopa County,6.0
+2013,November,Arizona,Navajo County,12.7
+2013,November,Arizona,Graham County,7.3
+2013,November,Arizona,Pima County,6.2
+2013,November,Arizona,Apache County,18.1
+2013,November,Arizona,Coconino County,7.9
+2013,November,Arizona,Cochise County,8.9
+2013,November,Arizona,Santa Cruz County,15.3
+2013,November,Arizona,Yavapai County,6.7
+2012,February,Arizona,Pinal County,8.9
+2012,February,Arizona,Greenlee County,9.1
+2012,February,Arizona,La Paz County,9.5
+2012,February,Arizona,Mohave County,11.4
+2012,February,Arizona,Yuma County,20.2
+2012,February,Arizona,Gila County,10.8
+2012,February,Arizona,Maricopa County,7.6
+2012,February,Arizona,Navajo County,14.7
+2012,February,Arizona,Graham County,8.9
+2012,February,Arizona,Pima County,7.6
+2012,February,Arizona,Apache County,18.9
+2012,February,Arizona,Coconino County,9.3
+2012,February,Arizona,Cochise County,9.1
+2012,February,Arizona,Santa Cruz County,14.2
+2012,February,Arizona,Yavapai County,9.0
+2012,October,Arizona,Pinal County,8.2
+2012,October,Arizona,Greenlee County,7.6
+2012,October,Arizona,La Paz County,8.0
+2012,October,Arizona,Mohave County,10.6
+2012,October,Arizona,Yuma County,25.0
+2012,October,Arizona,Gila County,9.8
+2012,October,Arizona,Maricopa County,6.9
+2012,October,Arizona,Navajo County,13.3
+2012,October,Arizona,Graham County,8.1
+2012,October,Arizona,Pima County,7.0
+2012,October,Arizona,Apache County,18.4
+2012,October,Arizona,Coconino County,7.8
+2012,October,Arizona,Cochise County,8.8
+2012,October,Arizona,Santa Cruz County,17.1
+2012,October,Arizona,Yavapai County,8.1
+2012,March,Arizona,Pinal County,8.6
+2012,March,Arizona,Greenlee County,8.5
+2012,March,Arizona,La Paz County,8.8
+2012,March,Arizona,Mohave County,11.0
+2012,March,Arizona,Yuma County,19.9
+2012,March,Arizona,Gila County,10.4
+2012,March,Arizona,Maricopa County,7.3
+2012,March,Arizona,Navajo County,14.4
+2012,March,Arizona,Graham County,8.5
+2012,March,Arizona,Pima County,7.4
+2012,March,Arizona,Apache County,18.7
+2012,March,Arizona,Coconino County,9.0
+2012,March,Arizona,Cochise County,8.8
+2012,March,Arizona,Santa Cruz County,14.0
+2012,March,Arizona,Yavapai County,8.7
+2012,August,Arizona,Pinal County,9.1
+2012,August,Arizona,Greenlee County,8.6
+2012,August,Arizona,La Paz County,8.7
+2012,August,Arizona,Mohave County,11.5
+2012,August,Arizona,Yuma County,26.4
+2012,August,Arizona,Gila County,10.5
+2012,August,Arizona,Maricopa County,7.7
+2012,August,Arizona,Navajo County,14.5
+2012,August,Arizona,Graham County,9.1
+2012,August,Arizona,Pima County,7.9
+2012,August,Arizona,Apache County,19.6
+2012,August,Arizona,Coconino County,8.7
+2012,August,Arizona,Cochise County,9.5
+2012,August,Arizona,Santa Cruz County,18.0
+2012,August,Arizona,Yavapai County,8.9
+2012,May,Arizona,Pinal County,8.4
+2012,May,Arizona,Greenlee County,8.2
+2012,May,Arizona,La Paz County,8.7
+2012,May,Arizona,Mohave County,10.8
+2012,May,Arizona,Yuma County,24.9
+2012,May,Arizona,Gila County,10.0
+2012,May,Arizona,Maricopa County,7.2
+2012,May,Arizona,Navajo County,13.7
+2012,May,Arizona,Graham County,8.2
+2012,May,Arizona,Pima County,7.2
+2012,May,Arizona,Apache County,18.6
+2012,May,Arizona,Coconino County,8.1
+2012,May,Arizona,Cochise County,8.9
+2012,May,Arizona,Santa Cruz County,13.8
+2012,May,Arizona,Yavapai County,8.4
+2012,January,Arizona,Pinal County,9.2
+2012,January,Arizona,Greenlee County,9.3
+2012,January,Arizona,La Paz County,9.7
+2012,January,Arizona,Mohave County,12.1
+2012,January,Arizona,Yuma County,21.5
+2012,January,Arizona,Gila County,11.2
+2012,January,Arizona,Maricopa County,7.9
+2012,January,Arizona,Navajo County,15.3
+2012,January,Arizona,Graham County,9.2
+2012,January,Arizona,Pima County,7.8
+2012,January,Arizona,Apache County,19.4
+2012,January,Arizona,Coconino County,9.8
+2012,January,Arizona,Cochise County,9.4
+2012,January,Arizona,Santa Cruz County,14.8
+2012,January,Arizona,Yavapai County,9.5
+2012,June,Arizona,Pinal County,9.1
+2012,June,Arizona,Greenlee County,8.6
+2012,June,Arizona,La Paz County,8.8
+2012,June,Arizona,Mohave County,11.4
+2012,June,Arizona,Yuma County,24.9
+2012,June,Arizona,Gila County,10.5
+2012,June,Arizona,Maricopa County,7.8
+2012,June,Arizona,Navajo County,14.4
+2012,June,Arizona,Graham County,9.0
+2012,June,Arizona,Pima County,8.0
+2012,June,Arizona,Apache County,20.0
+2012,June,Arizona,Coconino County,8.8
+2012,June,Arizona,Cochise County,9.5
+2012,June,Arizona,Santa Cruz County,14.9
+2012,June,Arizona,Yavapai County,9.0
+2012,September,Arizona,Pinal County,8.3
+2012,September,Arizona,Greenlee County,7.8
+2012,September,Arizona,La Paz County,8.1
+2012,September,Arizona,Mohave County,10.7
+2012,September,Arizona,Yuma County,25.4
+2012,September,Arizona,Gila County,9.7
+2012,September,Arizona,Maricopa County,7.1
+2012,September,Arizona,Navajo County,13.3
+2012,September,Arizona,Graham County,8.2
+2012,September,Arizona,Pima County,7.2
+2012,September,Arizona,Apache County,18.1
+2012,September,Arizona,Coconino County,7.9
+2012,September,Arizona,Cochise County,8.9
+2012,September,Arizona,Santa Cruz County,17.0
+2012,September,Arizona,Yavapai County,8.1
+2012,April,Arizona,Pinal County,8.3
+2012,April,Arizona,Greenlee County,8.1
+2012,April,Arizona,La Paz County,8.8
+2012,April,Arizona,Mohave County,10.6
+2012,April,Arizona,Yuma County,23.6
+2012,April,Arizona,Gila County,9.9
+2012,April,Arizona,Maricopa County,7.0
+2012,April,Arizona,Navajo County,14.0
+2012,April,Arizona,Graham County,8.3
+2012,April,Arizona,Pima County,7.0
+2012,April,Arizona,Apache County,18.5
+2012,April,Arizona,Coconino County,8.2
+2012,April,Arizona,Cochise County,8.7
+2012,April,Arizona,Santa Cruz County,13.7
+2012,April,Arizona,Yavapai County,8.3
+2012,December,Arizona,Pinal County,7.8
+2012,December,Arizona,Greenlee County,7.2
+2012,December,Arizona,La Paz County,7.9
+2012,December,Arizona,Mohave County,10.5
+2012,December,Arizona,Yuma County,22.7
+2012,December,Arizona,Gila County,9.8
+2012,December,Arizona,Maricopa County,6.6
+2012,December,Arizona,Navajo County,13.7
+2012,December,Arizona,Graham County,7.8
+2012,December,Arizona,Pima County,6.7
+2012,December,Arizona,Apache County,18.3
+2012,December,Arizona,Coconino County,8.5
+2012,December,Arizona,Cochise County,8.7
+2012,December,Arizona,Santa Cruz County,15.0
+2012,December,Arizona,Yavapai County,8.1
+2012,July,Arizona,Pinal County,9.3
+2012,July,Arizona,Greenlee County,8.6
+2012,July,Arizona,La Paz County,8.4
+2012,July,Arizona,Mohave County,11.5
+2012,July,Arizona,Yuma County,27.4
+2012,July,Arizona,Gila County,10.6
+2012,July,Arizona,Maricopa County,7.9
+2012,July,Arizona,Navajo County,15.1
+2012,July,Arizona,Graham County,9.4
+2012,July,Arizona,Pima County,8.1
+2012,July,Arizona,Apache County,21.0
+2012,July,Arizona,Coconino County,9.2
+2012,July,Arizona,Cochise County,9.7
+2012,July,Arizona,Santa Cruz County,17.6
+2012,July,Arizona,Yavapai County,9.1
+2012,November,Arizona,Pinal County,7.6
+2012,November,Arizona,Greenlee County,7.0
+2012,November,Arizona,La Paz County,7.6
+2012,November,Arizona,Mohave County,10.0
+2012,November,Arizona,Yuma County,23.3
+2012,November,Arizona,Gila County,9.4
+2012,November,Arizona,Maricopa County,6.5
+2012,November,Arizona,Navajo County,13.0
+2012,November,Arizona,Graham County,7.7
+2012,November,Arizona,Pima County,6.6
+2012,November,Arizona,Apache County,17.8
+2012,November,Arizona,Coconino County,7.9
+2012,November,Arizona,Cochise County,8.4
+2012,November,Arizona,Santa Cruz County,15.3
+2012,November,Arizona,Yavapai County,7.7
+1991,February,Arizona,Pinal County,6.5
+1991,February,Arizona,Greenlee County,5.8
+1991,February,Arizona,La Paz County,7.6
+1991,February,Arizona,Mohave County,6.7
+1991,February,Arizona,Yuma County,14.0
+1991,February,Arizona,Gila County,7.0
+1991,February,Arizona,Maricopa County,4.3
+1991,February,Arizona,Navajo County,12.0
+1991,February,Arizona,Graham County,6.7
+1991,February,Arizona,Pima County,3.8
+1991,February,Arizona,Apache County,12.8
+1991,February,Arizona,Coconino County,7.3
+1991,February,Arizona,Cochise County,7.8
+1991,February,Arizona,Santa Cruz County,10.2
+1991,February,Arizona,Yavapai County,5.0
+1991,October,Arizona,Pinal County,7.6
+1991,October,Arizona,Greenlee County,7.1
+1991,October,Arizona,La Paz County,10.4
+1991,October,Arizona,Mohave County,7.3
+1991,October,Arizona,Yuma County,22.6
+1991,October,Arizona,Gila County,9.5
+1991,October,Arizona,Maricopa County,6.0
+1991,October,Arizona,Navajo County,11.2
+1991,October,Arizona,Graham County,7.5
+1991,October,Arizona,Pima County,5.0
+1991,October,Arizona,Apache County,13.2
+1991,October,Arizona,Coconino County,7.5
+1991,October,Arizona,Cochise County,8.3
+1991,October,Arizona,Santa Cruz County,20.7
+1991,October,Arizona,Yavapai County,5.7
+1991,March,Arizona,Pinal County,6.4
+1991,March,Arizona,Greenlee County,6.0
+1991,March,Arizona,La Paz County,7.5
+1991,March,Arizona,Mohave County,5.7
+1991,March,Arizona,Yuma County,14.6
+1991,March,Arizona,Gila County,7.0
+1991,March,Arizona,Maricopa County,4.3
+1991,March,Arizona,Navajo County,11.2
+1991,March,Arizona,Graham County,6.6
+1991,March,Arizona,Pima County,3.8
+1991,March,Arizona,Apache County,12.1
+1991,March,Arizona,Coconino County,6.7
+1991,March,Arizona,Cochise County,7.3
+1991,March,Arizona,Santa Cruz County,9.6
+1991,March,Arizona,Yavapai County,5.1
+1991,August,Arizona,Pinal County,7.3
+1991,August,Arizona,Greenlee County,7.1
+1991,August,Arizona,La Paz County,10.5
+1991,August,Arizona,Mohave County,6.8
+1991,August,Arizona,Yuma County,29.9
+1991,August,Arizona,Gila County,8.3
+1991,August,Arizona,Maricopa County,5.6
+1991,August,Arizona,Navajo County,12.9
+1991,August,Arizona,Graham County,7.4
+1991,August,Arizona,Pima County,4.7
+1991,August,Arizona,Apache County,15.3
+1991,August,Arizona,Coconino County,7.9
+1991,August,Arizona,Cochise County,7.5
+1991,August,Arizona,Santa Cruz County,18.9
+1991,August,Arizona,Yavapai County,5.2
+1991,May,Arizona,Pinal County,6.2
+1991,May,Arizona,Greenlee County,5.0
+1991,May,Arizona,La Paz County,7.0
+1991,May,Arizona,Mohave County,5.9
+1991,May,Arizona,Yuma County,24.5
+1991,May,Arizona,Gila County,6.3
+1991,May,Arizona,Maricopa County,4.5
+1991,May,Arizona,Navajo County,9.5
+1991,May,Arizona,Graham County,6.2
+1991,May,Arizona,Pima County,3.7
+1991,May,Arizona,Apache County,10.6
+1991,May,Arizona,Coconino County,6.5
+1991,May,Arizona,Cochise County,7.0
+1991,May,Arizona,Santa Cruz County,9.4
+1991,May,Arizona,Yavapai County,4.2
+1991,January,Arizona,Pinal County,6.8
+1991,January,Arizona,Greenlee County,7.4
+1991,January,Arizona,La Paz County,7.4
+1991,January,Arizona,Mohave County,7.3
+1991,January,Arizona,Yuma County,14.4
+1991,January,Arizona,Gila County,7.6
+1991,January,Arizona,Maricopa County,4.5
+1991,January,Arizona,Navajo County,12.8
+1991,January,Arizona,Graham County,7.3
+1991,January,Arizona,Pima County,4.1
+1991,January,Arizona,Apache County,14.1
+1991,January,Arizona,Coconino County,8.3
+1991,January,Arizona,Cochise County,7.7
+1991,January,Arizona,Santa Cruz County,11.4
+1991,January,Arizona,Yavapai County,5.5
+1991,June,Arizona,Pinal County,7.0
+1991,June,Arizona,Greenlee County,7.2
+1991,June,Arizona,La Paz County,8.2
+1991,June,Arizona,Mohave County,6.4
+1991,June,Arizona,Yuma County,25.1
+1991,June,Arizona,Gila County,7.4
+1991,June,Arizona,Maricopa County,5.3
+1991,June,Arizona,Navajo County,13.2
+1991,June,Arizona,Graham County,7.2
+1991,June,Arizona,Pima County,4.3
+1991,June,Arizona,Apache County,15.3
+1991,June,Arizona,Coconino County,8.2
+1991,June,Arizona,Cochise County,7.6
+1991,June,Arizona,Santa Cruz County,13.3
+1991,June,Arizona,Yavapai County,4.9
+1991,September,Arizona,Pinal County,7.6
+1991,September,Arizona,Greenlee County,7.4
+1991,September,Arizona,La Paz County,9.3
+1991,September,Arizona,Mohave County,6.6
+1991,September,Arizona,Yuma County,26.5
+1991,September,Arizona,Gila County,8.0
+1991,September,Arizona,Maricopa County,5.9
+1991,September,Arizona,Navajo County,11.1
+1991,September,Arizona,Graham County,7.3
+1991,September,Arizona,Pima County,4.8
+1991,September,Arizona,Apache County,12.9
+1991,September,Arizona,Coconino County,7.1
+1991,September,Arizona,Cochise County,7.5
+1991,September,Arizona,Santa Cruz County,19.8
+1991,September,Arizona,Yavapai County,5.5
+1991,April,Arizona,Pinal County,5.8
+1991,April,Arizona,Greenlee County,4.8
+1991,April,Arizona,La Paz County,6.1
+1991,April,Arizona,Mohave County,4.6
+1991,April,Arizona,Yuma County,16.2
+1991,April,Arizona,Gila County,6.5
+1991,April,Arizona,Maricopa County,4.1
+1991,April,Arizona,Navajo County,10.1
+1991,April,Arizona,Graham County,5.7
+1991,April,Arizona,Pima County,3.5
+1991,April,Arizona,Apache County,10.6
+1991,April,Arizona,Coconino County,5.7
+1991,April,Arizona,Cochise County,6.5
+1991,April,Arizona,Santa Cruz County,8.6
+1991,April,Arizona,Yavapai County,4.3
+1991,December,Arizona,Pinal County,8.0
+1991,December,Arizona,Greenlee County,7.3
+1991,December,Arizona,La Paz County,12.4
+1991,December,Arizona,Mohave County,9.5
+1991,December,Arizona,Yuma County,18.4
+1991,December,Arizona,Gila County,10.6
+1991,December,Arizona,Maricopa County,6.1
+1991,December,Arizona,Navajo County,13.0
+1991,December,Arizona,Graham County,8.3
+1991,December,Arizona,Pima County,5.0
+1991,December,Arizona,Apache County,14.6
+1991,December,Arizona,Coconino County,9.2
+1991,December,Arizona,Cochise County,8.6
+1991,December,Arizona,Santa Cruz County,14.8
+1991,December,Arizona,Yavapai County,7.0
+1991,July,Arizona,Pinal County,6.9
+1991,July,Arizona,Greenlee County,5.8
+1991,July,Arizona,La Paz County,8.6
+1991,July,Arizona,Mohave County,5.9
+1991,July,Arizona,Yuma County,25.5
+1991,July,Arizona,Gila County,7.3
+1991,July,Arizona,Maricopa County,5.2
+1991,July,Arizona,Navajo County,14.3
+1991,July,Arizona,Graham County,7.1
+1991,July,Arizona,Pima County,4.4
+1991,July,Arizona,Apache County,17.5
+1991,July,Arizona,Coconino County,8.1
+1991,July,Arizona,Cochise County,7.5
+1991,July,Arizona,Santa Cruz County,15.2
+1991,July,Arizona,Yavapai County,4.9
+1991,November,Arizona,Pinal County,7.2
+1991,November,Arizona,Greenlee County,6.7
+1991,November,Arizona,La Paz County,11.3
+1991,November,Arizona,Mohave County,7.7
+1991,November,Arizona,Yuma County,19.2
+1991,November,Arizona,Gila County,9.7
+1991,November,Arizona,Maricopa County,5.8
+1991,November,Arizona,Navajo County,10.9
+1991,November,Arizona,Graham County,8.1
+1991,November,Arizona,Pima County,5.2
+1991,November,Arizona,Apache County,12.6
+1991,November,Arizona,Coconino County,7.8
+1991,November,Arizona,Cochise County,8.0
+1991,November,Arizona,Santa Cruz County,15.6
+1991,November,Arizona,Yavapai County,6.1
+1990,February,Arizona,Pinal County,6.8
+1990,February,Arizona,Greenlee County,8.6
+1990,February,Arizona,La Paz County,6.8
+1990,February,Arizona,Mohave County,5.1
+1990,February,Arizona,Yuma County,15.5
+1990,February,Arizona,Gila County,8.8
+1990,February,Arizona,Maricopa County,4.4
+1990,February,Arizona,Navajo County,12.2
+1990,February,Arizona,Graham County,8.4
+1990,February,Arizona,Pima County,4.7
+1990,February,Arizona,Apache County,13.5
+1990,February,Arizona,Coconino County,8.7
+1990,February,Arizona,Cochise County,6.9
+1990,February,Arizona,Santa Cruz County,9.3
+1990,February,Arizona,Yavapai County,5.3
+1990,October,Arizona,Pinal County,5.3
+1990,October,Arizona,Greenlee County,6.5
+1990,October,Arizona,La Paz County,6.5
+1990,October,Arizona,Mohave County,4.9
+1990,October,Arizona,Yuma County,20.2
+1990,October,Arizona,Gila County,6.3
+1990,October,Arizona,Maricopa County,4.2
+1990,October,Arizona,Navajo County,9.4
+1990,October,Arizona,Graham County,6.1
+1990,October,Arizona,Pima County,4.4
+1990,October,Arizona,Apache County,11.3
+1990,October,Arizona,Coconino County,6.3
+1990,October,Arizona,Cochise County,6.5
+1990,October,Arizona,Santa Cruz County,17.6
+1990,October,Arizona,Yavapai County,4.2
+1990,March,Arizona,Pinal County,6.5
+1990,March,Arizona,Greenlee County,7.4
+1990,March,Arizona,La Paz County,6.7
+1990,March,Arizona,Mohave County,5.4
+1990,March,Arizona,Yuma County,14.8
+1990,March,Arizona,Gila County,8.7
+1990,March,Arizona,Maricopa County,4.2
+1990,March,Arizona,Navajo County,11.7
+1990,March,Arizona,Graham County,7.8
+1990,March,Arizona,Pima County,4.4
+1990,March,Arizona,Apache County,13.0
+1990,March,Arizona,Coconino County,7.8
+1990,March,Arizona,Cochise County,6.7
+1990,March,Arizona,Santa Cruz County,8.6
+1990,March,Arizona,Yavapai County,4.7
+1990,August,Arizona,Pinal County,6.4
+1990,August,Arizona,Greenlee County,6.0
+1990,August,Arizona,La Paz County,8.0
+1990,August,Arizona,Mohave County,4.6
+1990,August,Arizona,Yuma County,29.4
+1990,August,Arizona,Gila County,7.1
+1990,August,Arizona,Maricopa County,4.6
+1990,August,Arizona,Navajo County,11.8
+1990,August,Arizona,Graham County,6.8
+1990,August,Arizona,Pima County,4.8
+1990,August,Arizona,Apache County,16.1
+1990,August,Arizona,Coconino County,7.9
+1990,August,Arizona,Cochise County,6.0
+1990,August,Arizona,Santa Cruz County,19.2
+1990,August,Arizona,Yavapai County,4.4
+1990,May,Arizona,Pinal County,6.4
+1990,May,Arizona,Greenlee County,5.3
+1990,May,Arizona,La Paz County,5.4
+1990,May,Arizona,Mohave County,3.9
+1990,May,Arizona,Yuma County,24.0
+1990,May,Arizona,Gila County,6.7
+1990,May,Arizona,Maricopa County,4.1
+1990,May,Arizona,Navajo County,8.3
+1990,May,Arizona,Graham County,6.5
+1990,May,Arizona,Pima County,4.3
+1990,May,Arizona,Apache County,10.5
+1990,May,Arizona,Coconino County,6.4
+1990,May,Arizona,Cochise County,6.0
+1990,May,Arizona,Santa Cruz County,10.4
+1990,May,Arizona,Yavapai County,4.0
+1990,January,Arizona,Pinal County,7.3
+1990,January,Arizona,Greenlee County,9.8
+1990,January,Arizona,La Paz County,7.2
+1990,January,Arizona,Mohave County,5.6
+1990,January,Arizona,Yuma County,13.9
+1990,January,Arizona,Gila County,9.3
+1990,January,Arizona,Maricopa County,4.7
+1990,January,Arizona,Navajo County,11.4
+1990,January,Arizona,Graham County,8.8
+1990,January,Arizona,Pima County,5.2
+1990,January,Arizona,Apache County,13.2
+1990,January,Arizona,Coconino County,9.4
+1990,January,Arizona,Cochise County,7.0
+1990,January,Arizona,Santa Cruz County,9.8
+1990,January,Arizona,Yavapai County,5.5
+1990,June,Arizona,Pinal County,6.5
+1990,June,Arizona,Greenlee County,6.3
+1990,June,Arizona,La Paz County,7.2
+1990,June,Arizona,Mohave County,4.3
+1990,June,Arizona,Yuma County,23.0
+1990,June,Arizona,Gila County,7.2
+1990,June,Arizona,Maricopa County,4.4
+1990,June,Arizona,Navajo County,11.7
+1990,June,Arizona,Graham County,7.3
+1990,June,Arizona,Pima County,4.9
+1990,June,Arizona,Apache County,16.6
+1990,June,Arizona,Coconino County,8.8
+1990,June,Arizona,Cochise County,6.4
+1990,June,Arizona,Santa Cruz County,15.0
+1990,June,Arizona,Yavapai County,4.2
+1990,September,Arizona,Pinal County,6.2
+1990,September,Arizona,Greenlee County,6.3
+1990,September,Arizona,La Paz County,7.4
+1990,September,Arizona,Mohave County,4.6
+1990,September,Arizona,Yuma County,24.9
+1990,September,Arizona,Gila County,6.4
+1990,September,Arizona,Maricopa County,4.5
+1990,September,Arizona,Navajo County,10.4
+1990,September,Arizona,Graham County,7.5
+1990,September,Arizona,Pima County,4.7
+1990,September,Arizona,Apache County,13.0
+1990,September,Arizona,Coconino County,6.7
+1990,September,Arizona,Cochise County,6.0
+1990,September,Arizona,Santa Cruz County,19.3
+1990,September,Arizona,Yavapai County,4.6
+1990,April,Arizona,Pinal County,6.1
+1990,April,Arizona,Greenlee County,6.2
+1990,April,Arizona,La Paz County,5.9
+1990,April,Arizona,Mohave County,5.0
+1990,April,Arizona,Yuma County,19.8
+1990,April,Arizona,Gila County,8.0
+1990,April,Arizona,Maricopa County,4.2
+1990,April,Arizona,Navajo County,10.2
+1990,April,Arizona,Graham County,6.6
+1990,April,Arizona,Pima County,4.4
+1990,April,Arizona,Apache County,11.7
+1990,April,Arizona,Coconino County,6.4
+1990,April,Arizona,Cochise County,6.3
+1990,April,Arizona,Santa Cruz County,9.2
+1990,April,Arizona,Yavapai County,4.3
+1990,December,Arizona,Pinal County,5.5
+1990,December,Arizona,Greenlee County,5.3
+1990,December,Arizona,La Paz County,6.5
+1990,December,Arizona,Mohave County,5.1
+1990,December,Arizona,Yuma County,14.8
+1990,December,Arizona,Gila County,6.6
+1990,December,Arizona,Maricopa County,4.0
+1990,December,Arizona,Navajo County,10.2
+1990,December,Arizona,Graham County,5.8
+1990,December,Arizona,Pima County,4.0
+1990,December,Arizona,Apache County,10.7
+1990,December,Arizona,Coconino County,7.2
+1990,December,Arizona,Cochise County,6.8
+1990,December,Arizona,Santa Cruz County,12.2
+1990,December,Arizona,Yavapai County,4.6
+1990,July,Arizona,Pinal County,6.6
+1990,July,Arizona,Greenlee County,5.4
+1990,July,Arizona,La Paz County,7.3
+1990,July,Arizona,Mohave County,4.5
+1990,July,Arizona,Yuma County,27.6
+1990,July,Arizona,Gila County,7.1
+1990,July,Arizona,Maricopa County,4.4
+1990,July,Arizona,Navajo County,12.9
+1990,July,Arizona,Graham County,7.0
+1990,July,Arizona,Pima County,4.7
+1990,July,Arizona,Apache County,17.0
+1990,July,Arizona,Coconino County,8.2
+1990,July,Arizona,Cochise County,6.4
+1990,July,Arizona,Santa Cruz County,17.4
+1990,July,Arizona,Yavapai County,4.5
+1990,November,Arizona,Pinal County,5.2
+1990,November,Arizona,Greenlee County,6.2
+1990,November,Arizona,La Paz County,6.6
+1990,November,Arizona,Mohave County,5.4
+1990,November,Arizona,Yuma County,17.4
+1990,November,Arizona,Gila County,6.6
+1990,November,Arizona,Maricopa County,3.9
+1990,November,Arizona,Navajo County,9.8
+1990,November,Arizona,Graham County,5.8
+1990,November,Arizona,Pima County,4.3
+1990,November,Arizona,Apache County,11.3
+1990,November,Arizona,Coconino County,6.5
+1990,November,Arizona,Cochise County,6.5
+1990,November,Arizona,Santa Cruz County,14.3
+1990,November,Arizona,Yavapai County,4.2
+1993,February,Arizona,Pinal County,7.9
+1993,February,Arizona,Greenlee County,12.2
+1993,February,Arizona,La Paz County,18.8
+1993,February,Arizona,Mohave County,10.2
+1993,February,Arizona,Yuma County,21.0
+1993,February,Arizona,Gila County,11.8
+1993,February,Arizona,Maricopa County,5.7
+1993,February,Arizona,Navajo County,17.7
+1993,February,Arizona,Graham County,12.7
+1993,February,Arizona,Pima County,4.6
+1993,February,Arizona,Apache County,18.4
+1993,February,Arizona,Coconino County,10.3
+1993,February,Arizona,Cochise County,10.7
+1993,February,Arizona,Santa Cruz County,14.4
+1993,February,Arizona,Yavapai County,6.7
+1993,October,Arizona,Pinal County,5.7
+1993,October,Arizona,Greenlee County,10.4
+1993,October,Arizona,La Paz County,15.5
+1993,October,Arizona,Mohave County,9.9
+1993,October,Arizona,Yuma County,28.1
+1993,October,Arizona,Gila County,8.5
+1993,October,Arizona,Maricopa County,4.8
+1993,October,Arizona,Navajo County,11.6
+1993,October,Arizona,Graham County,9.7
+1993,October,Arizona,Pima County,4.0
+1993,October,Arizona,Apache County,16.0
+1993,October,Arizona,Coconino County,7.9
+1993,October,Arizona,Cochise County,8.9
+1993,October,Arizona,Santa Cruz County,21.5
+1993,October,Arizona,Yavapai County,4.9
+1993,March,Arizona,Pinal County,7.0
+1993,March,Arizona,Greenlee County,11.5
+1993,March,Arizona,La Paz County,16.3
+1993,March,Arizona,Mohave County,10.2
+1993,March,Arizona,Yuma County,22.3
+1993,March,Arizona,Gila County,11.1
+1993,March,Arizona,Maricopa County,5.3
+1993,March,Arizona,Navajo County,16.6
+1993,March,Arizona,Graham County,11.7
+1993,March,Arizona,Pima County,4.3
+1993,March,Arizona,Apache County,16.4
+1993,March,Arizona,Coconino County,9.2
+1993,March,Arizona,Cochise County,10.5
+1993,March,Arizona,Santa Cruz County,13.5
+1993,March,Arizona,Yavapai County,6.2
+1993,August,Arizona,Pinal County,6.7
+1993,August,Arizona,Greenlee County,11.2
+1993,August,Arizona,La Paz County,15.6
+1993,August,Arizona,Mohave County,9.0
+1993,August,Arizona,Yuma County,34.9
+1993,August,Arizona,Gila County,8.7
+1993,August,Arizona,Maricopa County,5.0
+1993,August,Arizona,Navajo County,12.5
+1993,August,Arizona,Graham County,8.5
+1993,August,Arizona,Pima County,4.2
+1993,August,Arizona,Apache County,18.9
+1993,August,Arizona,Coconino County,8.3
+1993,August,Arizona,Cochise County,9.0
+1993,August,Arizona,Santa Cruz County,20.7
+1993,August,Arizona,Yavapai County,5.0
+1993,May,Arizona,Pinal County,5.9
+1993,May,Arizona,Greenlee County,10.3
+1993,May,Arizona,La Paz County,12.9
+1993,May,Arizona,Mohave County,8.9
+1993,May,Arizona,Yuma County,31.5
+1993,May,Arizona,Gila County,8.9
+1993,May,Arizona,Maricopa County,4.8
+1993,May,Arizona,Navajo County,11.9
+1993,May,Arizona,Graham County,9.2
+1993,May,Arizona,Pima County,3.8
+1993,May,Arizona,Apache County,14.9
+1993,May,Arizona,Coconino County,8.1
+1993,May,Arizona,Cochise County,9.1
+1993,May,Arizona,Santa Cruz County,12.8
+1993,May,Arizona,Yavapai County,5.0
+1993,January,Arizona,Pinal County,9.1
+1993,January,Arizona,Greenlee County,12.5
+1993,January,Arizona,La Paz County,21.0
+1993,January,Arizona,Mohave County,11.4
+1993,January,Arizona,Yuma County,22.4
+1993,January,Arizona,Gila County,11.6
+1993,January,Arizona,Maricopa County,6.1
+1993,January,Arizona,Navajo County,18.8
+1993,January,Arizona,Graham County,13.3
+1993,January,Arizona,Pima County,5.0
+1993,January,Arizona,Apache County,20.2
+1993,January,Arizona,Coconino County,12.0
+1993,January,Arizona,Cochise County,11.3
+1993,January,Arizona,Santa Cruz County,15.6
+1993,January,Arizona,Yavapai County,7.4
+1993,June,Arizona,Pinal County,6.8
+1993,June,Arizona,Greenlee County,11.6
+1993,June,Arizona,La Paz County,13.9
+1993,June,Arizona,Mohave County,9.2
+1993,June,Arizona,Yuma County,32.9
+1993,June,Arizona,Gila County,9.0
+1993,June,Arizona,Maricopa County,5.2
+1993,June,Arizona,Navajo County,15.8
+1993,June,Arizona,Graham County,10.1
+1993,June,Arizona,Pima County,4.1
+1993,June,Arizona,Apache County,20.2
+1993,June,Arizona,Coconino County,9.7
+1993,June,Arizona,Cochise County,9.7
+1993,June,Arizona,Santa Cruz County,17.6
+1993,June,Arizona,Yavapai County,5.4
+1993,September,Arizona,Pinal County,6.6
+1993,September,Arizona,Greenlee County,10.9
+1993,September,Arizona,La Paz County,16.1
+1993,September,Arizona,Mohave County,9.5
+1993,September,Arizona,Yuma County,31.6
+1993,September,Arizona,Gila County,8.4
+1993,September,Arizona,Maricopa County,4.9
+1993,September,Arizona,Navajo County,11.5
+1993,September,Arizona,Graham County,8.6
+1993,September,Arizona,Pima County,4.0
+1993,September,Arizona,Apache County,15.9
+1993,September,Arizona,Coconino County,7.8
+1993,September,Arizona,Cochise County,8.8
+1993,September,Arizona,Santa Cruz County,21.0
+1993,September,Arizona,Yavapai County,4.9
+1993,April,Arizona,Pinal County,6.3
+1993,April,Arizona,Greenlee County,10.5
+1993,April,Arizona,La Paz County,13.5
+1993,April,Arizona,Mohave County,9.6
+1993,April,Arizona,Yuma County,29.2
+1993,April,Arizona,Gila County,10.2
+1993,April,Arizona,Maricopa County,5.0
+1993,April,Arizona,Navajo County,13.8
+1993,April,Arizona,Graham County,10.2
+1993,April,Arizona,Pima County,3.9
+1993,April,Arizona,Apache County,16.2
+1993,April,Arizona,Coconino County,7.8
+1993,April,Arizona,Cochise County,10.0
+1993,April,Arizona,Santa Cruz County,13.0
+1993,April,Arizona,Yavapai County,5.4
+1993,December,Arizona,Pinal County,5.4
+1993,December,Arizona,Greenlee County,9.2
+1993,December,Arizona,La Paz County,16.2
+1993,December,Arizona,Mohave County,8.2
+1993,December,Arizona,Yuma County,21.7
+1993,December,Arizona,Gila County,9.1
+1993,December,Arizona,Maricopa County,4.5
+1993,December,Arizona,Navajo County,11.6
+1993,December,Arizona,Graham County,8.6
+1993,December,Arizona,Pima County,3.7
+1993,December,Arizona,Apache County,16.1
+1993,December,Arizona,Coconino County,8.9
+1993,December,Arizona,Cochise County,10.0
+1993,December,Arizona,Santa Cruz County,16.7
+1993,December,Arizona,Yavapai County,5.1
+1993,July,Arizona,Pinal County,6.4
+1993,July,Arizona,Greenlee County,10.6
+1993,July,Arizona,La Paz County,14.6
+1993,July,Arizona,Mohave County,9.2
+1993,July,Arizona,Yuma County,34.6
+1993,July,Arizona,Gila County,8.8
+1993,July,Arizona,Maricopa County,5.0
+1993,July,Arizona,Navajo County,13.7
+1993,July,Arizona,Graham County,9.2
+1993,July,Arizona,Pima County,4.1
+1993,July,Arizona,Apache County,20.1
+1993,July,Arizona,Coconino County,8.7
+1993,July,Arizona,Cochise County,9.3
+1993,July,Arizona,Santa Cruz County,19.6
+1993,July,Arizona,Yavapai County,5.2
+1993,November,Arizona,Pinal County,5.3
+1993,November,Arizona,Greenlee County,9.7
+1993,November,Arizona,La Paz County,15.0
+1993,November,Arizona,Mohave County,9.8
+1993,November,Arizona,Yuma County,24.8
+1993,November,Arizona,Gila County,8.2
+1993,November,Arizona,Maricopa County,4.6
+1993,November,Arizona,Navajo County,10.6
+1993,November,Arizona,Graham County,8.7
+1993,November,Arizona,Pima County,3.7
+1993,November,Arizona,Apache County,15.2
+1993,November,Arizona,Coconino County,7.9
+1993,November,Arizona,Cochise County,9.0
+1993,November,Arizona,Santa Cruz County,19.0
+1993,November,Arizona,Yavapai County,5.0
+1992,February,Arizona,Pinal County,9.8
+1992,February,Arizona,Greenlee County,8.1
+1992,February,Arizona,La Paz County,15.8
+1992,February,Arizona,Mohave County,11.3
+1992,February,Arizona,Yuma County,17.1
+1992,February,Arizona,Gila County,12.2
+1992,February,Arizona,Maricopa County,6.9
+1992,February,Arizona,Navajo County,18.4
+1992,February,Arizona,Graham County,9.2
+1992,February,Arizona,Pima County,5.6
+1992,February,Arizona,Apache County,17.9
+1992,February,Arizona,Coconino County,10.5
+1992,February,Arizona,Cochise County,10.7
+1992,February,Arizona,Santa Cruz County,14.4
+1992,February,Arizona,Yavapai County,8.7
+1992,October,Arizona,Pinal County,7.4
+1992,October,Arizona,Greenlee County,11.0
+1992,October,Arizona,La Paz County,13.3
+1992,October,Arizona,Mohave County,8.2
+1992,October,Arizona,Yuma County,24.9
+1992,October,Arizona,Gila County,10.5
+1992,October,Arizona,Maricopa County,6.1
+1992,October,Arizona,Navajo County,12.7
+1992,October,Arizona,Graham County,10.4
+1992,October,Arizona,Pima County,5.6
+1992,October,Arizona,Apache County,13.6
+1992,October,Arizona,Coconino County,8.0
+1992,October,Arizona,Cochise County,9.1
+1992,October,Arizona,Santa Cruz County,19.5
+1992,October,Arizona,Yavapai County,6.7
+1992,March,Arizona,Pinal County,9.3
+1992,March,Arizona,Greenlee County,8.8
+1992,March,Arizona,La Paz County,14.1
+1992,March,Arizona,Mohave County,11.1
+1992,March,Arizona,Yuma County,20.5
+1992,March,Arizona,Gila County,11.7
+1992,March,Arizona,Maricopa County,6.7
+1992,March,Arizona,Navajo County,17.2
+1992,March,Arizona,Graham County,9.5
+1992,March,Arizona,Pima County,5.5
+1992,March,Arizona,Apache County,16.2
+1992,March,Arizona,Coconino County,9.8
+1992,March,Arizona,Cochise County,9.8
+1992,March,Arizona,Santa Cruz County,14.5
+1992,March,Arizona,Yavapai County,8.3
+1992,August,Arizona,Pinal County,8.9
+1992,August,Arizona,Greenlee County,10.2
+1992,August,Arizona,La Paz County,13.8
+1992,August,Arizona,Mohave County,8.2
+1992,August,Arizona,Yuma County,33.8
+1992,August,Arizona,Gila County,10.6
+1992,August,Arizona,Maricopa County,6.5
+1992,August,Arizona,Navajo County,15.6
+1992,August,Arizona,Graham County,10.4
+1992,August,Arizona,Pima County,5.5
+1992,August,Arizona,Apache County,17.8
+1992,August,Arizona,Coconino County,9.3
+1992,August,Arizona,Cochise County,8.8
+1992,August,Arizona,Santa Cruz County,22.4
+1992,August,Arizona,Yavapai County,6.5
+1992,May,Arizona,Pinal County,8.6
+1992,May,Arizona,Greenlee County,10.3
+1992,May,Arizona,La Paz County,11.8
+1992,May,Arizona,Mohave County,9.2
+1992,May,Arizona,Yuma County,31.6
+1992,May,Arizona,Gila County,10.3
+1992,May,Arizona,Maricopa County,6.3
+1992,May,Arizona,Navajo County,12.4
+1992,May,Arizona,Graham County,9.4
+1992,May,Arizona,Pima County,5.2
+1992,May,Arizona,Apache County,13.6
+1992,May,Arizona,Coconino County,8.7
+1992,May,Arizona,Cochise County,8.9
+1992,May,Arizona,Santa Cruz County,14.4
+1992,May,Arizona,Yavapai County,6.7
+1992,January,Arizona,Pinal County,9.6
+1992,January,Arizona,Greenlee County,8.6
+1992,January,Arizona,La Paz County,14.7
+1992,January,Arizona,Mohave County,11.3
+1992,January,Arizona,Yuma County,17.3
+1992,January,Arizona,Gila County,12.0
+1992,January,Arizona,Maricopa County,7.1
+1992,January,Arizona,Navajo County,17.8
+1992,January,Arizona,Graham County,9.4
+1992,January,Arizona,Pima County,5.6
+1992,January,Arizona,Apache County,18.4
+1992,January,Arizona,Coconino County,11.0
+1992,January,Arizona,Cochise County,10.8
+1992,January,Arizona,Santa Cruz County,14.2
+1992,January,Arizona,Yavapai County,8.9
+1992,June,Arizona,Pinal County,9.7
+1992,June,Arizona,Greenlee County,11.8
+1992,June,Arizona,La Paz County,12.7
+1992,June,Arizona,Mohave County,9.5
+1992,June,Arizona,Yuma County,32.5
+1992,June,Arizona,Gila County,11.8
+1992,June,Arizona,Maricopa County,6.6
+1992,June,Arizona,Navajo County,16.9
+1992,June,Arizona,Graham County,10.8
+1992,June,Arizona,Pima County,5.8
+1992,June,Arizona,Apache County,20.2
+1992,June,Arizona,Coconino County,9.9
+1992,June,Arizona,Cochise County,9.6
+1992,June,Arizona,Santa Cruz County,18.4
+1992,June,Arizona,Yavapai County,6.8
+1992,September,Arizona,Pinal County,8.1
+1992,September,Arizona,Greenlee County,10.6
+1992,September,Arizona,La Paz County,13.5
+1992,September,Arizona,Mohave County,8.6
+1992,September,Arizona,Yuma County,30.7
+1992,September,Arizona,Gila County,10.4
+1992,September,Arizona,Maricopa County,6.6
+1992,September,Arizona,Navajo County,13.4
+1992,September,Arizona,Graham County,11.0
+1992,September,Arizona,Pima County,5.6
+1992,September,Arizona,Apache County,13.8
+1992,September,Arizona,Coconino County,8.2
+1992,September,Arizona,Cochise County,8.9
+1992,September,Arizona,Santa Cruz County,21.2
+1992,September,Arizona,Yavapai County,6.5
+1992,April,Arizona,Pinal County,8.4
+1992,April,Arizona,Greenlee County,9.0
+1992,April,Arizona,La Paz County,11.9
+1992,April,Arizona,Mohave County,9.2
+1992,April,Arizona,Yuma County,27.0
+1992,April,Arizona,Gila County,11.1
+1992,April,Arizona,Maricopa County,6.3
+1992,April,Arizona,Navajo County,14.2
+1992,April,Arizona,Graham County,9.1
+1992,April,Arizona,Pima County,5.1
+1992,April,Arizona,Apache County,13.7
+1992,April,Arizona,Coconino County,8.4
+1992,April,Arizona,Cochise County,8.6
+1992,April,Arizona,Santa Cruz County,14.4
+1992,April,Arizona,Yavapai County,6.9
+1992,December,Arizona,Pinal County,8.1
+1992,December,Arizona,Greenlee County,11.3
+1992,December,Arizona,La Paz County,17.9
+1992,December,Arizona,Mohave County,9.5
+1992,December,Arizona,Yuma County,20.9
+1992,December,Arizona,Gila County,10.5
+1992,December,Arizona,Maricopa County,5.7
+1992,December,Arizona,Navajo County,14.1
+1992,December,Arizona,Graham County,10.6
+1992,December,Arizona,Pima County,4.9
+1992,December,Arizona,Apache County,14.8
+1992,December,Arizona,Coconino County,9.0
+1992,December,Arizona,Cochise County,9.9
+1992,December,Arizona,Santa Cruz County,15.1
+1992,December,Arizona,Yavapai County,6.7
+1992,July,Arizona,Pinal County,8.9
+1992,July,Arizona,Greenlee County,11.1
+1992,July,Arizona,La Paz County,13.0
+1992,July,Arizona,Mohave County,8.4
+1992,July,Arizona,Yuma County,34.3
+1992,July,Arizona,Gila County,11.1
+1992,July,Arizona,Maricopa County,6.4
+1992,July,Arizona,Navajo County,18.0
+1992,July,Arizona,Graham County,11.0
+1992,July,Arizona,Pima County,5.5
+1992,July,Arizona,Apache County,20.9
+1992,July,Arizona,Coconino County,10.0
+1992,July,Arizona,Cochise County,9.4
+1992,July,Arizona,Santa Cruz County,21.4
+1992,July,Arizona,Yavapai County,6.4
+1992,November,Arizona,Pinal County,7.6
+1992,November,Arizona,Greenlee County,10.5
+1992,November,Arizona,La Paz County,14.5
+1992,November,Arizona,Mohave County,8.9
+1992,November,Arizona,Yuma County,23.3
+1992,November,Arizona,Gila County,10.5
+1992,November,Arizona,Maricopa County,5.9
+1992,November,Arizona,Navajo County,12.8
+1992,November,Arizona,Graham County,10.2
+1992,November,Arizona,Pima County,5.1
+1992,November,Arizona,Apache County,13.9
+1992,November,Arizona,Coconino County,8.8
+1992,November,Arizona,Cochise County,9.5
+1992,November,Arizona,Santa Cruz County,17.6
+1992,November,Arizona,Yavapai County,6.8
+1995,February,Arizona,Pinal County,5.3
+1995,February,Arizona,Greenlee County,6.9
+1995,February,Arizona,La Paz County,13.1
+1995,February,Arizona,Mohave County,8.1
+1995,February,Arizona,Yuma County,20.9
+1995,February,Arizona,Gila County,9.3
+1995,February,Arizona,Maricopa County,3.6
+1995,February,Arizona,Navajo County,16.6
+1995,February,Arizona,Graham County,8.5
+1995,February,Arizona,Pima County,3.4
+1995,February,Arizona,Apache County,15.9
+1995,February,Arizona,Coconino County,10.1
+1995,February,Arizona,Cochise County,10.4
+1995,February,Arizona,Santa Cruz County,16.6
+1995,February,Arizona,Yavapai County,5.3
+1995,October,Arizona,Pinal County,4.7
+1995,October,Arizona,Greenlee County,7.9
+1995,October,Arizona,La Paz County,11.3
+1995,October,Arizona,Mohave County,6.4
+1995,October,Arizona,Yuma County,29.7
+1995,October,Arizona,Gila County,7.9
+1995,October,Arizona,Maricopa County,3.5
+1995,October,Arizona,Navajo County,13.7
+1995,October,Arizona,Graham County,8.7
+1995,October,Arizona,Pima County,3.5
+1995,October,Arizona,Apache County,15.3
+1995,October,Arizona,Coconino County,6.7
+1995,October,Arizona,Cochise County,9.5
+1995,October,Arizona,Santa Cruz County,25.2
+1995,October,Arizona,Yavapai County,4.7
+1995,March,Arizona,Pinal County,5.1
+1995,March,Arizona,Greenlee County,7.4
+1995,March,Arizona,La Paz County,11.6
+1995,March,Arizona,Mohave County,7.7
+1995,March,Arizona,Yuma County,23.0
+1995,March,Arizona,Gila County,9.8
+1995,March,Arizona,Maricopa County,3.7
+1995,March,Arizona,Navajo County,17.0
+1995,March,Arizona,Graham County,9.1
+1995,March,Arizona,Pima County,3.6
+1995,March,Arizona,Apache County,15.7
+1995,March,Arizona,Coconino County,8.7
+1995,March,Arizona,Cochise County,10.3
+1995,March,Arizona,Santa Cruz County,17.3
+1995,March,Arizona,Yavapai County,5.4
+1995,August,Arizona,Pinal County,4.8
+1995,August,Arizona,Greenlee County,6.2
+1995,August,Arizona,La Paz County,9.8
+1995,August,Arizona,Mohave County,6.6
+1995,August,Arizona,Yuma County,36.7
+1995,August,Arizona,Gila County,7.7
+1995,August,Arizona,Maricopa County,3.7
+1995,August,Arizona,Navajo County,16.9
+1995,August,Arizona,Graham County,7.9
+1995,August,Arizona,Pima County,3.5
+1995,August,Arizona,Apache County,20.5
+1995,August,Arizona,Coconino County,8.2
+1995,August,Arizona,Cochise County,9.3
+1995,August,Arizona,Santa Cruz County,24.5
+1995,August,Arizona,Yavapai County,5.0
+1995,May,Arizona,Pinal County,4.5
+1995,May,Arizona,Greenlee County,6.3
+1995,May,Arizona,La Paz County,9.1
+1995,May,Arizona,Mohave County,6.6
+1995,May,Arizona,Yuma County,33.9
+1995,May,Arizona,Gila County,7.4
+1995,May,Arizona,Maricopa County,3.3
+1995,May,Arizona,Navajo County,13.5
+1995,May,Arizona,Graham County,7.9
+1995,May,Arizona,Pima County,3.2
+1995,May,Arizona,Apache County,14.9
+1995,May,Arizona,Coconino County,6.4
+1995,May,Arizona,Cochise County,9.0
+1995,May,Arizona,Santa Cruz County,16.1
+1995,May,Arizona,Yavapai County,4.7
+1995,January,Arizona,Pinal County,6.1
+1995,January,Arizona,Greenlee County,7.1
+1995,January,Arizona,La Paz County,14.4
+1995,January,Arizona,Mohave County,9.4
+1995,January,Arizona,Yuma County,24.8
+1995,January,Arizona,Gila County,10.7
+1995,January,Arizona,Maricopa County,4.2
+1995,January,Arizona,Navajo County,17.5
+1995,January,Arizona,Graham County,10.5
+1995,January,Arizona,Pima County,3.9
+1995,January,Arizona,Apache County,18.3
+1995,January,Arizona,Coconino County,10.7
+1995,January,Arizona,Cochise County,11.7
+1995,January,Arizona,Santa Cruz County,18.1
+1995,January,Arizona,Yavapai County,6.3
+1995,June,Arizona,Pinal County,5.2
+1995,June,Arizona,Greenlee County,7.1
+1995,June,Arizona,La Paz County,8.7
+1995,June,Arizona,Mohave County,6.4
+1995,June,Arizona,Yuma County,34.2
+1995,June,Arizona,Gila County,8.1
+1995,June,Arizona,Maricopa County,3.7
+1995,June,Arizona,Navajo County,18.0
+1995,June,Arizona,Graham County,8.5
+1995,June,Arizona,Pima County,3.4
+1995,June,Arizona,Apache County,21.2
+1995,June,Arizona,Coconino County,8.9
+1995,June,Arizona,Cochise County,8.6
+1995,June,Arizona,Santa Cruz County,20.3
+1995,June,Arizona,Yavapai County,4.7
+1995,September,Arizona,Pinal County,4.9
+1995,September,Arizona,Greenlee County,7.6
+1995,September,Arizona,La Paz County,9.2
+1995,September,Arizona,Mohave County,6.4
+1995,September,Arizona,Yuma County,34.0
+1995,September,Arizona,Gila County,7.5
+1995,September,Arizona,Maricopa County,3.8
+1995,September,Arizona,Navajo County,13.7
+1995,September,Arizona,Graham County,8.8
+1995,September,Arizona,Pima County,3.6
+1995,September,Arizona,Apache County,15.0
+1995,September,Arizona,Coconino County,6.9
+1995,September,Arizona,Cochise County,9.8
+1995,September,Arizona,Santa Cruz County,26.4
+1995,September,Arizona,Yavapai County,5.0
+1995,April,Arizona,Pinal County,4.7
+1995,April,Arizona,Greenlee County,6.7
+1995,April,Arizona,La Paz County,10.3
+1995,April,Arizona,Mohave County,6.8
+1995,April,Arizona,Yuma County,30.5
+1995,April,Arizona,Gila County,8.7
+1995,April,Arizona,Maricopa County,3.5
+1995,April,Arizona,Navajo County,15.6
+1995,April,Arizona,Graham County,8.4
+1995,April,Arizona,Pima County,3.3
+1995,April,Arizona,Apache County,15.0
+1995,April,Arizona,Coconino County,7.3
+1995,April,Arizona,Cochise County,9.9
+1995,April,Arizona,Santa Cruz County,17.8
+1995,April,Arizona,Yavapai County,5.0
+1995,December,Arizona,Pinal County,5.2
+1995,December,Arizona,Greenlee County,7.8
+1995,December,Arizona,La Paz County,11.9
+1995,December,Arizona,Mohave County,7.4
+1995,December,Arizona,Yuma County,22.4
+1995,December,Arizona,Gila County,7.9
+1995,December,Arizona,Maricopa County,3.3
+1995,December,Arizona,Navajo County,14.7
+1995,December,Arizona,Graham County,8.9
+1995,December,Arizona,Pima County,3.5
+1995,December,Arizona,Apache County,16.0
+1995,December,Arizona,Coconino County,8.3
+1995,December,Arizona,Cochise County,10.0
+1995,December,Arizona,Santa Cruz County,20.1
+1995,December,Arizona,Yavapai County,4.7
+1995,July,Arizona,Pinal County,5.0
+1995,July,Arizona,Greenlee County,6.2
+1995,July,Arizona,La Paz County,9.6
+1995,July,Arizona,Mohave County,6.4
+1995,July,Arizona,Yuma County,35.8
+1995,July,Arizona,Gila County,7.7
+1995,July,Arizona,Maricopa County,3.6
+1995,July,Arizona,Navajo County,18.2
+1995,July,Arizona,Graham County,8.0
+1995,July,Arizona,Pima County,3.5
+1995,July,Arizona,Apache County,22.5
+1995,July,Arizona,Coconino County,8.9
+1995,July,Arizona,Cochise County,8.6
+1995,July,Arizona,Santa Cruz County,21.7
+1995,July,Arizona,Yavapai County,4.9
+1995,November,Arizona,Pinal County,4.8
+1995,November,Arizona,Greenlee County,7.5
+1995,November,Arizona,La Paz County,11.6
+1995,November,Arizona,Mohave County,7.3
+1995,November,Arizona,Yuma County,25.8
+1995,November,Arizona,Gila County,7.9
+1995,November,Arizona,Maricopa County,3.3
+1995,November,Arizona,Navajo County,13.7
+1995,November,Arizona,Graham County,8.6
+1995,November,Arizona,Pima County,3.5
+1995,November,Arizona,Apache County,14.7
+1995,November,Arizona,Coconino County,7.3
+1995,November,Arizona,Cochise County,9.3
+1995,November,Arizona,Santa Cruz County,21.4
+1995,November,Arizona,Yavapai County,4.8
+1994,February,Arizona,Pinal County,6.5
+1994,February,Arizona,Greenlee County,11.2
+1994,February,Arizona,La Paz County,14.7
+1994,February,Arizona,Mohave County,10.0
+1994,February,Arizona,Yuma County,20.3
+1994,February,Arizona,Gila County,9.6
+1994,February,Arizona,Maricopa County,4.8
+1994,February,Arizona,Navajo County,15.0
+1994,February,Arizona,Graham County,10.5
+1994,February,Arizona,Pima County,3.8
+1994,February,Arizona,Apache County,19.1
+1994,February,Arizona,Coconino County,10.3
+1994,February,Arizona,Cochise County,11.0
+1994,February,Arizona,Santa Cruz County,16.2
+1994,February,Arizona,Yavapai County,5.9
+1994,October,Arizona,Pinal County,5.0
+1994,October,Arizona,Greenlee County,8.8
+1994,October,Arizona,La Paz County,13.2
+1994,October,Arizona,Mohave County,8.0
+1994,October,Arizona,Yuma County,33.5
+1994,October,Arizona,Gila County,8.0
+1994,October,Arizona,Maricopa County,4.4
+1994,October,Arizona,Navajo County,13.3
+1994,October,Arizona,Graham County,9.1
+1994,October,Arizona,Pima County,3.9
+1994,October,Arizona,Apache County,14.5
+1994,October,Arizona,Coconino County,7.6
+1994,October,Arizona,Cochise County,9.6
+1994,October,Arizona,Santa Cruz County,25.7
+1994,October,Arizona,Yavapai County,5.0
+1994,March,Arizona,Pinal County,6.1
+1994,March,Arizona,Greenlee County,11.3
+1994,March,Arizona,La Paz County,13.9
+1994,March,Arizona,Mohave County,9.0
+1994,March,Arizona,Yuma County,21.0
+1994,March,Arizona,Gila County,9.3
+1994,March,Arizona,Maricopa County,4.8
+1994,March,Arizona,Navajo County,15.2
+1994,March,Arizona,Graham County,10.0
+1994,March,Arizona,Pima County,3.8
+1994,March,Arizona,Apache County,18.9
+1994,March,Arizona,Coconino County,9.6
+1994,March,Arizona,Cochise County,11.1
+1994,March,Arizona,Santa Cruz County,16.0
+1994,March,Arizona,Yavapai County,5.6
+1994,August,Arizona,Pinal County,5.7
+1994,August,Arizona,Greenlee County,9.2
+1994,August,Arizona,La Paz County,15.3
+1994,August,Arizona,Mohave County,7.9
+1994,August,Arizona,Yuma County,40.5
+1994,August,Arizona,Gila County,7.4
+1994,August,Arizona,Maricopa County,4.8
+1994,August,Arizona,Navajo County,16.8
+1994,August,Arizona,Graham County,9.5
+1994,August,Arizona,Pima County,4.0
+1994,August,Arizona,Apache County,20.7
+1994,August,Arizona,Coconino County,8.6
+1994,August,Arizona,Cochise County,10.2
+1994,August,Arizona,Santa Cruz County,27.2
+1994,August,Arizona,Yavapai County,5.2
+1994,May,Arizona,Pinal County,5.1
+1994,May,Arizona,Greenlee County,9.0
+1994,May,Arizona,La Paz County,11.3
+1994,May,Arizona,Mohave County,7.4
+1994,May,Arizona,Yuma County,34.0
+1994,May,Arizona,Gila County,7.4
+1994,May,Arizona,Maricopa County,4.2
+1994,May,Arizona,Navajo County,12.0
+1994,May,Arizona,Graham County,9.2
+1994,May,Arizona,Pima County,3.5
+1994,May,Arizona,Apache County,15.3
+1994,May,Arizona,Coconino County,8.0
+1994,May,Arizona,Cochise County,9.7
+1994,May,Arizona,Santa Cruz County,15.6
+1994,May,Arizona,Yavapai County,4.7
+1994,January,Arizona,Pinal County,6.7
+1994,January,Arizona,Greenlee County,10.7
+1994,January,Arizona,La Paz County,16.0
+1994,January,Arizona,Mohave County,11.5
+1994,January,Arizona,Yuma County,21.7
+1994,January,Arizona,Gila County,9.9
+1994,January,Arizona,Maricopa County,5.2
+1994,January,Arizona,Navajo County,15.3
+1994,January,Arizona,Graham County,11.7
+1994,January,Arizona,Pima County,4.1
+1994,January,Arizona,Apache County,19.5
+1994,January,Arizona,Coconino County,11.9
+1994,January,Arizona,Cochise County,11.7
+1994,January,Arizona,Santa Cruz County,17.0
+1994,January,Arizona,Yavapai County,6.3
+1994,June,Arizona,Pinal County,5.9
+1994,June,Arizona,Greenlee County,9.8
+1994,June,Arizona,La Paz County,12.5
+1994,June,Arizona,Mohave County,7.7
+1994,June,Arizona,Yuma County,36.4
+1994,June,Arizona,Gila County,8.1
+1994,June,Arizona,Maricopa County,4.7
+1994,June,Arizona,Navajo County,18.3
+1994,June,Arizona,Graham County,9.9
+1994,June,Arizona,Pima County,4.0
+1994,June,Arizona,Apache County,22.9
+1994,June,Arizona,Coconino County,10.3
+1994,June,Arizona,Cochise County,10.7
+1994,June,Arizona,Santa Cruz County,23.3
+1994,June,Arizona,Yavapai County,5.0
+1994,September,Arizona,Pinal County,5.6
+1994,September,Arizona,Greenlee County,9.4
+1994,September,Arizona,La Paz County,14.2
+1994,September,Arizona,Mohave County,8.0
+1994,September,Arizona,Yuma County,37.6
+1994,September,Arizona,Gila County,7.6
+1994,September,Arizona,Maricopa County,4.7
+1994,September,Arizona,Navajo County,13.5
+1994,September,Arizona,Graham County,9.5
+1994,September,Arizona,Pima County,4.1
+1994,September,Arizona,Apache County,14.9
+1994,September,Arizona,Coconino County,7.7
+1994,September,Arizona,Cochise County,9.8
+1994,September,Arizona,Santa Cruz County,26.5
+1994,September,Arizona,Yavapai County,4.9
+1994,April,Arizona,Pinal County,5.6
+1994,April,Arizona,Greenlee County,9.4
+1994,April,Arizona,La Paz County,12.1
+1994,April,Arizona,Mohave County,7.8
+1994,April,Arizona,Yuma County,29.3
+1994,April,Arizona,Gila County,8.7
+1994,April,Arizona,Maricopa County,4.5
+1994,April,Arizona,Navajo County,13.0
+1994,April,Arizona,Graham County,9.2
+1994,April,Arizona,Pima County,3.6
+1994,April,Arizona,Apache County,16.0
+1994,April,Arizona,Coconino County,8.0
+1994,April,Arizona,Cochise County,10.5
+1994,April,Arizona,Santa Cruz County,15.3
+1994,April,Arizona,Yavapai County,5.2
+1994,December,Arizona,Pinal County,4.7
+1994,December,Arizona,Greenlee County,5.9
+1994,December,Arizona,La Paz County,13.1
+1994,December,Arizona,Mohave County,8.0
+1994,December,Arizona,Yuma County,24.7
+1994,December,Arizona,Gila County,8.8
+1994,December,Arizona,Maricopa County,3.6
+1994,December,Arizona,Navajo County,14.1
+1994,December,Arizona,Graham County,8.2
+1994,December,Arizona,Pima County,3.4
+1994,December,Arizona,Apache County,14.9
+1994,December,Arizona,Coconino County,8.2
+1994,December,Arizona,Cochise County,9.9
+1994,December,Arizona,Santa Cruz County,17.2
+1994,December,Arizona,Yavapai County,5.2
+1994,July,Arizona,Pinal County,5.8
+1994,July,Arizona,Greenlee County,9.2
+1994,July,Arizona,La Paz County,13.9
+1994,July,Arizona,Mohave County,7.7
+1994,July,Arizona,Yuma County,39.2
+1994,July,Arizona,Gila County,7.8
+1994,July,Arizona,Maricopa County,4.7
+1994,July,Arizona,Navajo County,18.4
+1994,July,Arizona,Graham County,9.5
+1994,July,Arizona,Pima County,4.0
+1994,July,Arizona,Apache County,23.7
+1994,July,Arizona,Coconino County,10.0
+1994,July,Arizona,Cochise County,10.7
+1994,July,Arizona,Santa Cruz County,26.0
+1994,July,Arizona,Yavapai County,5.0
+1994,November,Arizona,Pinal County,4.5
+1994,November,Arizona,Greenlee County,7.7
+1994,November,Arizona,La Paz County,12.3
+1994,November,Arizona,Mohave County,8.0
+1994,November,Arizona,Yuma County,29.7
+1994,November,Arizona,Gila County,8.4
+1994,November,Arizona,Maricopa County,4.0
+1994,November,Arizona,Navajo County,12.7
+1994,November,Arizona,Graham County,8.5
+1994,November,Arizona,Pima County,3.7
+1994,November,Arizona,Apache County,13.6
+1994,November,Arizona,Coconino County,7.5
+1994,November,Arizona,Cochise County,9.4
+1994,November,Arizona,Santa Cruz County,22.0
+1994,November,Arizona,Yavapai County,4.9
+1997,February,Arizona,Pinal County,5.8
+1997,February,Arizona,Greenlee County,8.4
+1997,February,Arizona,La Paz County,11.3
+1997,February,Arizona,Mohave County,7.1
+1997,February,Arizona,Yuma County,20.6
+1997,February,Arizona,Gila County,10.1
+1997,February,Arizona,Maricopa County,3.3
+1997,February,Arizona,Navajo County,18.4
+1997,February,Arizona,Graham County,10.3
+1997,February,Arizona,Pima County,3.6
+1997,February,Arizona,Apache County,21.4
+1997,February,Arizona,Coconino County,10.0
+1997,February,Arizona,Cochise County,10.5
+1997,February,Arizona,Santa Cruz County,18.5
+1997,February,Arizona,Yavapai County,4.9
+1997,October,Arizona,Pinal County,4.4
+1997,October,Arizona,Greenlee County,6.4
+1997,October,Arizona,La Paz County,8.5
+1997,October,Arizona,Mohave County,4.7
+1997,October,Arizona,Yuma County,26.9
+1997,October,Arizona,Gila County,7.3
+1997,October,Arizona,Maricopa County,2.8
+1997,October,Arizona,Navajo County,12.6
+1997,October,Arizona,Graham County,8.2
+1997,October,Arizona,Pima County,3.2
+1997,October,Arizona,Apache County,13.7
+1997,October,Arizona,Coconino County,6.8
+1997,October,Arizona,Cochise County,6.7
+1997,October,Arizona,Santa Cruz County,25.5
+1997,October,Arizona,Yavapai County,3.4
+1997,March,Arizona,Pinal County,5.4
+1997,March,Arizona,Greenlee County,7.9
+1997,March,Arizona,La Paz County,10.3
+1997,March,Arizona,Mohave County,5.9
+1997,March,Arizona,Yuma County,21.2
+1997,March,Arizona,Gila County,8.8
+1997,March,Arizona,Maricopa County,3.2
+1997,March,Arizona,Navajo County,17.2
+1997,March,Arizona,Graham County,10.0
+1997,March,Arizona,Pima County,3.4
+1997,March,Arizona,Apache County,20.6
+1997,March,Arizona,Coconino County,8.7
+1997,March,Arizona,Cochise County,9.5
+1997,March,Arizona,Santa Cruz County,17.3
+1997,March,Arizona,Yavapai County,4.6
+1997,August,Arizona,Pinal County,5.3
+1997,August,Arizona,Greenlee County,6.4
+1997,August,Arizona,La Paz County,9.1
+1997,August,Arizona,Mohave County,4.6
+1997,August,Arizona,Yuma County,36.0
+1997,August,Arizona,Gila County,7.0
+1997,August,Arizona,Maricopa County,2.9
+1997,August,Arizona,Navajo County,13.4
+1997,August,Arizona,Graham County,8.2
+1997,August,Arizona,Pima County,3.2
+1997,August,Arizona,Apache County,15.7
+1997,August,Arizona,Coconino County,7.6
+1997,August,Arizona,Cochise County,7.5
+1997,August,Arizona,Santa Cruz County,26.9
+1997,August,Arizona,Yavapai County,3.7
+1997,May,Arizona,Pinal County,4.5
+1997,May,Arizona,Greenlee County,6.7
+1997,May,Arizona,La Paz County,7.8
+1997,May,Arizona,Mohave County,4.6
+1997,May,Arizona,Yuma County,27.4
+1997,May,Arizona,Gila County,6.7
+1997,May,Arizona,Maricopa County,2.7
+1997,May,Arizona,Navajo County,14.3
+1997,May,Arizona,Graham County,8.0
+1997,May,Arizona,Pima County,3.0
+1997,May,Arizona,Apache County,16.2
+1997,May,Arizona,Coconino County,7.0
+1997,May,Arizona,Cochise County,8.1
+1997,May,Arizona,Santa Cruz County,14.9
+1997,May,Arizona,Yavapai County,3.7
+1997,January,Arizona,Pinal County,6.0
+1997,January,Arizona,Greenlee County,8.4
+1997,January,Arizona,La Paz County,13.1
+1997,January,Arizona,Mohave County,8.5
+1997,January,Arizona,Yuma County,22.5
+1997,January,Arizona,Gila County,10.7
+1997,January,Arizona,Maricopa County,3.6
+1997,January,Arizona,Navajo County,19.1
+1997,January,Arizona,Graham County,11.1
+1997,January,Arizona,Pima County,3.9
+1997,January,Arizona,Apache County,23.1
+1997,January,Arizona,Coconino County,11.5
+1997,January,Arizona,Cochise County,11.2
+1997,January,Arizona,Santa Cruz County,19.0
+1997,January,Arizona,Yavapai County,5.3
+1997,June,Arizona,Pinal County,5.0
+1997,June,Arizona,Greenlee County,7.2
+1997,June,Arizona,La Paz County,9.2
+1997,June,Arizona,Mohave County,4.8
+1997,June,Arizona,Yuma County,30.4
+1997,June,Arizona,Gila County,7.4
+1997,June,Arizona,Maricopa County,2.9
+1997,June,Arizona,Navajo County,17.1
+1997,June,Arizona,Graham County,9.0
+1997,June,Arizona,Pima County,3.3
+1997,June,Arizona,Apache County,21.7
+1997,June,Arizona,Coconino County,9.6
+1997,June,Arizona,Cochise County,8.0
+1997,June,Arizona,Santa Cruz County,20.9
+1997,June,Arizona,Yavapai County,3.7
+1997,September,Arizona,Pinal County,5.1
+1997,September,Arizona,Greenlee County,7.1
+1997,September,Arizona,La Paz County,9.3
+1997,September,Arizona,Mohave County,4.7
+1997,September,Arizona,Yuma County,33.1
+1997,September,Arizona,Gila County,6.6
+1997,September,Arizona,Maricopa County,2.9
+1997,September,Arizona,Navajo County,12.1
+1997,September,Arizona,Graham County,8.6
+1997,September,Arizona,Pima County,3.3
+1997,September,Arizona,Apache County,12.4
+1997,September,Arizona,Coconino County,6.7
+1997,September,Arizona,Cochise County,7.3
+1997,September,Arizona,Santa Cruz County,27.5
+1997,September,Arizona,Yavapai County,3.5
+1997,April,Arizona,Pinal County,4.6
+1997,April,Arizona,Greenlee County,7.0
+1997,April,Arizona,La Paz County,8.4
+1997,April,Arizona,Mohave County,4.6
+1997,April,Arizona,Yuma County,27.2
+1997,April,Arizona,Gila County,7.3
+1997,April,Arizona,Maricopa County,2.8
+1997,April,Arizona,Navajo County,14.5
+1997,April,Arizona,Graham County,8.3
+1997,April,Arizona,Pima County,3.0
+1997,April,Arizona,Apache County,15.4
+1997,April,Arizona,Coconino County,7.1
+1997,April,Arizona,Cochise County,8.2
+1997,April,Arizona,Santa Cruz County,15.8
+1997,April,Arizona,Yavapai County,3.8
+1997,December,Arizona,Pinal County,4.2
+1997,December,Arizona,Greenlee County,6.6
+1997,December,Arizona,La Paz County,8.7
+1997,December,Arizona,Mohave County,4.6
+1997,December,Arizona,Yuma County,20.6
+1997,December,Arizona,Gila County,7.6
+1997,December,Arizona,Maricopa County,2.5
+1997,December,Arizona,Navajo County,13.0
+1997,December,Arizona,Graham County,8.0
+1997,December,Arizona,Pima County,2.9
+1997,December,Arizona,Apache County,14.2
+1997,December,Arizona,Coconino County,8.1
+1997,December,Arizona,Cochise County,7.3
+1997,December,Arizona,Santa Cruz County,16.2
+1997,December,Arizona,Yavapai County,3.6
+1997,July,Arizona,Pinal County,4.9
+1997,July,Arizona,Greenlee County,7.3
+1997,July,Arizona,La Paz County,8.9
+1997,July,Arizona,Mohave County,4.7
+1997,July,Arizona,Yuma County,33.6
+1997,July,Arizona,Gila County,7.2
+1997,July,Arizona,Maricopa County,2.8
+1997,July,Arizona,Navajo County,16.6
+1997,July,Arizona,Graham County,8.4
+1997,July,Arizona,Pima County,3.2
+1997,July,Arizona,Apache County,19.9
+1997,July,Arizona,Coconino County,9.3
+1997,July,Arizona,Cochise County,7.7
+1997,July,Arizona,Santa Cruz County,23.6
+1997,July,Arizona,Yavapai County,3.6
+1997,November,Arizona,Pinal County,4.1
+1997,November,Arizona,Greenlee County,6.1
+1997,November,Arizona,La Paz County,7.9
+1997,November,Arizona,Mohave County,4.5
+1997,November,Arizona,Yuma County,25.0
+1997,November,Arizona,Gila County,7.3
+1997,November,Arizona,Maricopa County,2.6
+1997,November,Arizona,Navajo County,12.2
+1997,November,Arizona,Graham County,8.0
+1997,November,Arizona,Pima County,2.9
+1997,November,Arizona,Apache County,13.2
+1997,November,Arizona,Coconino County,7.0
+1997,November,Arizona,Cochise County,7.0
+1997,November,Arizona,Santa Cruz County,18.5
+1997,November,Arizona,Yavapai County,3.3
+1996,February,Arizona,Pinal County,6.6
+1996,February,Arizona,Greenlee County,8.5
+1996,February,Arizona,La Paz County,11.8
+1996,February,Arizona,Mohave County,8.5
+1996,February,Arizona,Yuma County,19.3
+1996,February,Arizona,Gila County,9.8
+1996,February,Arizona,Maricopa County,3.6
+1996,February,Arizona,Navajo County,17.0
+1996,February,Arizona,Graham County,10.3
+1996,February,Arizona,Pima County,3.8
+1996,February,Arizona,Apache County,18.7
+1996,February,Arizona,Coconino County,10.0
+1996,February,Arizona,Cochise County,11.3
+1996,February,Arizona,Santa Cruz County,20.3
+1996,February,Arizona,Yavapai County,5.7
+1996,October,Arizona,Pinal County,5.7
+1996,October,Arizona,Greenlee County,7.8
+1996,October,Arizona,La Paz County,11.1
+1996,October,Arizona,Mohave County,9.1
+1996,October,Arizona,Yuma County,31.2
+1996,October,Arizona,Gila County,8.4
+1996,October,Arizona,Maricopa County,3.6
+1996,October,Arizona,Navajo County,13.6
+1996,October,Arizona,Graham County,9.6
+1996,October,Arizona,Pima County,3.8
+1996,October,Arizona,Apache County,19.5
+1996,October,Arizona,Coconino County,7.4
+1996,October,Arizona,Cochise County,9.1
+1996,October,Arizona,Santa Cruz County,31.5
+1996,October,Arizona,Yavapai County,4.3
+1996,March,Arizona,Pinal County,6.6
+1996,March,Arizona,Greenlee County,8.3
+1996,March,Arizona,La Paz County,12.0
+1996,March,Arizona,Mohave County,7.9
+1996,March,Arizona,Yuma County,21.3
+1996,March,Arizona,Gila County,9.8
+1996,March,Arizona,Maricopa County,3.7
+1996,March,Arizona,Navajo County,17.7
+1996,March,Arizona,Graham County,10.5
+1996,March,Arizona,Pima County,4.0
+1996,March,Arizona,Apache County,18.0
+1996,March,Arizona,Coconino County,9.6
+1996,March,Arizona,Cochise County,11.1
+1996,March,Arizona,Santa Cruz County,19.7
+1996,March,Arizona,Yavapai County,5.4
+1996,August,Arizona,Pinal County,6.5
+1996,August,Arizona,Greenlee County,7.2
+1996,August,Arizona,La Paz County,11.7
+1996,August,Arizona,Mohave County,6.8
+1996,August,Arizona,Yuma County,38.8
+1996,August,Arizona,Gila County,8.3
+1996,August,Arizona,Maricopa County,3.9
+1996,August,Arizona,Navajo County,15.7
+1996,August,Arizona,Graham County,10.2
+1996,August,Arizona,Pima County,3.8
+1996,August,Arizona,Apache County,21.2
+1996,August,Arizona,Coconino County,8.2
+1996,August,Arizona,Cochise County,8.9
+1996,August,Arizona,Santa Cruz County,31.4
+1996,August,Arizona,Yavapai County,4.7
+1996,May,Arizona,Pinal County,5.4
+1996,May,Arizona,Greenlee County,7.7
+1996,May,Arizona,La Paz County,10.9
+1996,May,Arizona,Mohave County,6.8
+1996,May,Arizona,Yuma County,34.7
+1996,May,Arizona,Gila County,7.7
+1996,May,Arizona,Maricopa County,3.7
+1996,May,Arizona,Navajo County,14.7
+1996,May,Arizona,Graham County,10.0
+1996,May,Arizona,Pima County,3.7
+1996,May,Arizona,Apache County,17.4
+1996,May,Arizona,Coconino County,8.4
+1996,May,Arizona,Cochise County,9.9
+1996,May,Arizona,Santa Cruz County,18.3
+1996,May,Arizona,Yavapai County,4.7
+1996,January,Arizona,Pinal County,6.0
+1996,January,Arizona,Greenlee County,9.7
+1996,January,Arizona,La Paz County,13.8
+1996,January,Arizona,Mohave County,8.7
+1996,January,Arizona,Yuma County,23.6
+1996,January,Arizona,Gila County,10.6
+1996,January,Arizona,Maricopa County,4.0
+1996,January,Arizona,Navajo County,18.4
+1996,January,Arizona,Graham County,11.4
+1996,January,Arizona,Pima County,4.1
+1996,January,Arizona,Apache County,19.6
+1996,January,Arizona,Coconino County,11.3
+1996,January,Arizona,Cochise County,12.7
+1996,January,Arizona,Santa Cruz County,22.5
+1996,January,Arizona,Yavapai County,6.0
+1996,June,Arizona,Pinal County,6.0
+1996,June,Arizona,Greenlee County,7.5
+1996,June,Arizona,La Paz County,10.6
+1996,June,Arizona,Mohave County,6.6
+1996,June,Arizona,Yuma County,35.2
+1996,June,Arizona,Gila County,8.2
+1996,June,Arizona,Maricopa County,3.7
+1996,June,Arizona,Navajo County,18.4
+1996,June,Arizona,Graham County,10.2
+1996,June,Arizona,Pima County,3.8
+1996,June,Arizona,Apache County,22.8
+1996,June,Arizona,Coconino County,9.9
+1996,June,Arizona,Cochise County,9.4
+1996,June,Arizona,Santa Cruz County,26.4
+1996,June,Arizona,Yavapai County,4.6
+1996,September,Arizona,Pinal County,6.2
+1996,September,Arizona,Greenlee County,8.2
+1996,September,Arizona,La Paz County,11.4
+1996,September,Arizona,Mohave County,6.9
+1996,September,Arizona,Yuma County,36.1
+1996,September,Arizona,Gila County,8.0
+1996,September,Arizona,Maricopa County,3.9
+1996,September,Arizona,Navajo County,13.9
+1996,September,Arizona,Graham County,10.0
+1996,September,Arizona,Pima County,3.9
+1996,September,Arizona,Apache County,19.0
+1996,September,Arizona,Coconino County,7.8
+1996,September,Arizona,Cochise County,8.9
+1996,September,Arizona,Santa Cruz County,33.1
+1996,September,Arizona,Yavapai County,4.7
+1996,April,Arizona,Pinal County,5.8
+1996,April,Arizona,Greenlee County,8.6
+1996,April,Arizona,La Paz County,11.6
+1996,April,Arizona,Mohave County,7.2
+1996,April,Arizona,Yuma County,29.3
+1996,April,Arizona,Gila County,8.1
+1996,April,Arizona,Maricopa County,3.5
+1996,April,Arizona,Navajo County,16.2
+1996,April,Arizona,Graham County,10.4
+1996,April,Arizona,Pima County,3.7
+1996,April,Arizona,Apache County,17.4
+1996,April,Arizona,Coconino County,8.7
+1996,April,Arizona,Cochise County,10.2
+1996,April,Arizona,Santa Cruz County,19.1
+1996,April,Arizona,Yavapai County,4.9
+1996,December,Arizona,Pinal County,5.0
+1996,December,Arizona,Greenlee County,7.2
+1996,December,Arizona,La Paz County,10.7
+1996,December,Arizona,Mohave County,7.1
+1996,December,Arizona,Yuma County,27.3
+1996,December,Arizona,Gila County,8.7
+1996,December,Arizona,Maricopa County,3.3
+1996,December,Arizona,Navajo County,13.8
+1996,December,Arizona,Graham County,8.9
+1996,December,Arizona,Pima County,3.5
+1996,December,Arizona,Apache County,19.2
+1996,December,Arizona,Coconino County,7.3
+1996,December,Arizona,Cochise County,8.9
+1996,December,Arizona,Santa Cruz County,25.1
+1996,December,Arizona,Yavapai County,4.4
+1996,July,Arizona,Pinal County,6.3
+1996,July,Arizona,Greenlee County,7.7
+1996,July,Arizona,La Paz County,11.6
+1996,July,Arizona,Mohave County,6.7
+1996,July,Arizona,Yuma County,38.9
+1996,July,Arizona,Gila County,8.5
+1996,July,Arizona,Maricopa County,3.9
+1996,July,Arizona,Navajo County,20.1
+1996,July,Arizona,Graham County,10.6
+1996,July,Arizona,Pima County,4.0
+1996,July,Arizona,Apache County,25.4
+1996,July,Arizona,Coconino County,10.1
+1996,July,Arizona,Cochise County,9.3
+1996,July,Arizona,Santa Cruz County,30.3
+1996,July,Arizona,Yavapai County,4.7
+1996,November,Arizona,Pinal County,5.5
+1996,November,Arizona,Greenlee County,7.5
+1996,November,Arizona,La Paz County,10.8
+1996,November,Arizona,Mohave County,5.7
+1996,November,Arizona,Yuma County,29.9
+1996,November,Arizona,Gila County,8.4
+1996,November,Arizona,Maricopa County,3.5
+1996,November,Arizona,Navajo County,13.3
+1996,November,Arizona,Graham County,9.4
+1996,November,Arizona,Pima County,3.7
+1996,November,Arizona,Apache County,19.4
+1996,November,Arizona,Coconino County,7.3
+1996,November,Arizona,Cochise County,8.8
+1996,November,Arizona,Santa Cruz County,30.6
+1996,November,Arizona,Yavapai County,4.1
+1999,February,Arizona,Pinal County,4.6
+1999,February,Arizona,Greenlee County,9.9
+1999,February,Arizona,La Paz County,10.3
+1999,February,Arizona,Mohave County,6.3
+1999,February,Arizona,Yuma County,20.6
+1999,February,Arizona,Gila County,9.1
+1999,February,Arizona,Maricopa County,3.2
+1999,February,Arizona,Navajo County,16.4
+1999,February,Arizona,Graham County,10.5
+1999,February,Arizona,Pima County,3.0
+1999,February,Arizona,Apache County,17.1
+1999,February,Arizona,Coconino County,8.7
+1999,February,Arizona,Cochise County,7.2
+1999,February,Arizona,Santa Cruz County,13.6
+1999,February,Arizona,Yavapai County,4.0
+1999,October,Arizona,Pinal County,6.4
+1999,October,Arizona,Greenlee County,8.7
+1999,October,Arizona,La Paz County,6.7
+1999,October,Arizona,Mohave County,3.9
+1999,October,Arizona,Yuma County,28.2
+1999,October,Arizona,Gila County,6.4
+1999,October,Arizona,Maricopa County,2.9
+1999,October,Arizona,Navajo County,10.5
+1999,October,Arizona,Graham County,7.4
+1999,October,Arizona,Pima County,3.5
+1999,October,Arizona,Apache County,11.3
+1999,October,Arizona,Coconino County,5.0
+1999,October,Arizona,Cochise County,4.5
+1999,October,Arizona,Santa Cruz County,21.8
+1999,October,Arizona,Yavapai County,2.9
+1999,March,Arizona,Pinal County,4.6
+1999,March,Arizona,Greenlee County,9.6
+1999,March,Arizona,La Paz County,8.8
+1999,March,Arizona,Mohave County,6.1
+1999,March,Arizona,Yuma County,19.3
+1999,March,Arizona,Gila County,9.1
+1999,March,Arizona,Maricopa County,3.3
+1999,March,Arizona,Navajo County,15.7
+1999,March,Arizona,Graham County,10.0
+1999,March,Arizona,Pima County,2.9
+1999,March,Arizona,Apache County,16.7
+1999,March,Arizona,Coconino County,8.5
+1999,March,Arizona,Cochise County,7.7
+1999,March,Arizona,Santa Cruz County,13.1
+1999,March,Arizona,Yavapai County,4.0
+1999,August,Arizona,Pinal County,7.5
+1999,August,Arizona,Greenlee County,8.6
+1999,August,Arizona,La Paz County,7.5
+1999,August,Arizona,Mohave County,4.1
+1999,August,Arizona,Yuma County,40.4
+1999,August,Arizona,Gila County,6.3
+1999,August,Arizona,Maricopa County,2.9
+1999,August,Arizona,Navajo County,12.6
+1999,August,Arizona,Graham County,8.0
+1999,August,Arizona,Pima County,3.4
+1999,August,Arizona,Apache County,14.0
+1999,August,Arizona,Coconino County,6.2
+1999,August,Arizona,Cochise County,5.0
+1999,August,Arizona,Santa Cruz County,24.6
+1999,August,Arizona,Yavapai County,3.3
+1999,May,Arizona,Pinal County,3.6
+1999,May,Arizona,Greenlee County,7.8
+1999,May,Arizona,La Paz County,7.7
+1999,May,Arizona,Mohave County,4.5
+1999,May,Arizona,Yuma County,35.7
+1999,May,Arizona,Gila County,6.3
+1999,May,Arizona,Maricopa County,2.8
+1999,May,Arizona,Navajo County,11.3
+1999,May,Arizona,Graham County,7.6
+1999,May,Arizona,Pima County,2.5
+1999,May,Arizona,Apache County,11.8
+1999,May,Arizona,Coconino County,5.6
+1999,May,Arizona,Cochise County,5.7
+1999,May,Arizona,Santa Cruz County,11.0
+1999,May,Arizona,Yavapai County,3.3
+1999,January,Arizona,Pinal County,4.7
+1999,January,Arizona,Greenlee County,10.4
+1999,January,Arizona,La Paz County,10.2
+1999,January,Arizona,Mohave County,6.7
+1999,January,Arizona,Yuma County,23.0
+1999,January,Arizona,Gila County,9.4
+1999,January,Arizona,Maricopa County,3.3
+1999,January,Arizona,Navajo County,17.2
+1999,January,Arizona,Graham County,11.4
+1999,January,Arizona,Pima County,3.1
+1999,January,Arizona,Apache County,18.1
+1999,January,Arizona,Coconino County,9.2
+1999,January,Arizona,Cochise County,7.5
+1999,January,Arizona,Santa Cruz County,14.7
+1999,January,Arizona,Yavapai County,4.2
+1999,June,Arizona,Pinal County,4.5
+1999,June,Arizona,Greenlee County,7.8
+1999,June,Arizona,La Paz County,8.7
+1999,June,Arizona,Mohave County,4.6
+1999,June,Arizona,Yuma County,35.8
+1999,June,Arizona,Gila County,7.0
+1999,June,Arizona,Maricopa County,3.2
+1999,June,Arizona,Navajo County,14.9
+1999,June,Arizona,Graham County,8.7
+1999,June,Arizona,Pima County,2.9
+1999,June,Arizona,Apache County,17.0
+1999,June,Arizona,Coconino County,7.3
+1999,June,Arizona,Cochise County,5.6
+1999,June,Arizona,Santa Cruz County,15.5
+1999,June,Arizona,Yavapai County,3.5
+1999,September,Arizona,Pinal County,6.5
+1999,September,Arizona,Greenlee County,9.5
+1999,September,Arizona,La Paz County,7.5
+1999,September,Arizona,Mohave County,4.0
+1999,September,Arizona,Yuma County,35.6
+1999,September,Arizona,Gila County,6.5
+1999,September,Arizona,Maricopa County,2.9
+1999,September,Arizona,Navajo County,10.6
+1999,September,Arizona,Graham County,8.0
+1999,September,Arizona,Pima County,3.4
+1999,September,Arizona,Apache County,10.7
+1999,September,Arizona,Coconino County,5.3
+1999,September,Arizona,Cochise County,5.0
+1999,September,Arizona,Santa Cruz County,25.5
+1999,September,Arizona,Yavapai County,3.3
+1999,April,Arizona,Pinal County,4.1
+1999,April,Arizona,Greenlee County,9.1
+1999,April,Arizona,La Paz County,8.2
+1999,April,Arizona,Mohave County,5.1
+1999,April,Arizona,Yuma County,30.4
+1999,April,Arizona,Gila County,7.8
+1999,April,Arizona,Maricopa County,3.1
+1999,April,Arizona,Navajo County,13.7
+1999,April,Arizona,Graham County,8.5
+1999,April,Arizona,Pima County,2.7
+1999,April,Arizona,Apache County,13.7
+1999,April,Arizona,Coconino County,6.3
+1999,April,Arizona,Cochise County,6.6
+1999,April,Arizona,Santa Cruz County,11.7
+1999,April,Arizona,Yavapai County,3.7
+1999,December,Arizona,Pinal County,6.1
+1999,December,Arizona,Greenlee County,8.0
+1999,December,Arizona,La Paz County,7.2
+1999,December,Arizona,Mohave County,4.0
+1999,December,Arizona,Yuma County,18.5
+1999,December,Arizona,Gila County,6.2
+1999,December,Arizona,Maricopa County,2.6
+1999,December,Arizona,Navajo County,11.8
+1999,December,Arizona,Graham County,7.5
+1999,December,Arizona,Pima County,3.3
+1999,December,Arizona,Apache County,12.0
+1999,December,Arizona,Coconino County,7.0
+1999,December,Arizona,Cochise County,5.1
+1999,December,Arizona,Santa Cruz County,11.4
+1999,December,Arizona,Yavapai County,3.0
+1999,July,Arizona,Pinal County,6.8
+1999,July,Arizona,Greenlee County,8.5
+1999,July,Arizona,La Paz County,8.7
+1999,July,Arizona,Mohave County,3.9
+1999,July,Arizona,Yuma County,38.8
+1999,July,Arizona,Gila County,6.8
+1999,July,Arizona,Maricopa County,3.0
+1999,July,Arizona,Navajo County,14.7
+1999,July,Arizona,Graham County,8.4
+1999,July,Arizona,Pima County,3.7
+1999,July,Arizona,Apache County,16.6
+1999,July,Arizona,Coconino County,7.5
+1999,July,Arizona,Cochise County,5.4
+1999,July,Arizona,Santa Cruz County,22.2
+1999,July,Arizona,Yavapai County,3.3
+1999,November,Arizona,Pinal County,6.3
+1999,November,Arizona,Greenlee County,8.2
+1999,November,Arizona,La Paz County,6.6
+1999,November,Arizona,Mohave County,3.8
+1999,November,Arizona,Yuma County,24.2
+1999,November,Arizona,Gila County,6.2
+1999,November,Arizona,Maricopa County,2.7
+1999,November,Arizona,Navajo County,10.7
+1999,November,Arizona,Graham County,7.3
+1999,November,Arizona,Pima County,3.4
+1999,November,Arizona,Apache County,11.1
+1999,November,Arizona,Coconino County,5.5
+1999,November,Arizona,Cochise County,4.6
+1999,November,Arizona,Santa Cruz County,15.1
+1999,November,Arizona,Yavapai County,2.9
+1998,February,Arizona,Pinal County,4.8
+1998,February,Arizona,Greenlee County,8.2
+1998,February,Arizona,La Paz County,9.4
+1998,February,Arizona,Mohave County,5.3
+1998,February,Arizona,Yuma County,19.2
+1998,February,Arizona,Gila County,8.1
+1998,February,Arizona,Maricopa County,2.7
+1998,February,Arizona,Navajo County,15.9
+1998,February,Arizona,Graham County,9.4
+1998,February,Arizona,Pima County,3.1
+1998,February,Arizona,Apache County,17.3
+1998,February,Arizona,Coconino County,9.4
+1998,February,Arizona,Cochise County,8.0
+1998,February,Arizona,Santa Cruz County,14.6
+1998,February,Arizona,Yavapai County,4.1
+1998,October,Arizona,Pinal County,4.1
+1998,October,Arizona,Greenlee County,9.0
+1998,October,Arizona,La Paz County,7.6
+1998,October,Arizona,Mohave County,4.1
+1998,October,Arizona,Yuma County,28.8
+1998,October,Arizona,Gila County,7.5
+1998,October,Arizona,Maricopa County,3.0
+1998,October,Arizona,Navajo County,11.9
+1998,October,Arizona,Graham County,8.5
+1998,October,Arizona,Pima County,2.7
+1998,October,Arizona,Apache County,14.0
+1998,October,Arizona,Coconino County,6.1
+1998,October,Arizona,Cochise County,6.2
+1998,October,Arizona,Santa Cruz County,25.3
+1998,October,Arizona,Yavapai County,3.0
+1998,March,Arizona,Pinal County,5.0
+1998,March,Arizona,Greenlee County,9.9
+1998,March,Arizona,La Paz County,9.2
+1998,March,Arizona,Mohave County,5.4
+1998,March,Arizona,Yuma County,20.1
+1998,March,Arizona,Gila County,9.0
+1998,March,Arizona,Maricopa County,2.8
+1998,March,Arizona,Navajo County,16.5
+1998,March,Arizona,Graham County,10.2
+1998,March,Arizona,Pima County,3.2
+1998,March,Arizona,Apache County,17.8
+1998,March,Arizona,Coconino County,8.9
+1998,March,Arizona,Cochise County,8.5
+1998,March,Arizona,Santa Cruz County,14.3
+1998,March,Arizona,Yavapai County,3.9
+1998,August,Arizona,Pinal County,4.9
+1998,August,Arizona,Greenlee County,7.6
+1998,August,Arizona,La Paz County,7.8
+1998,August,Arizona,Mohave County,4.2
+1998,August,Arizona,Yuma County,38.0
+1998,August,Arizona,Gila County,7.4
+1998,August,Arizona,Maricopa County,2.9
+1998,August,Arizona,Navajo County,13.8
+1998,August,Arizona,Graham County,8.5
+1998,August,Arizona,Pima County,2.9
+1998,August,Arizona,Apache County,16.3
+1998,August,Arizona,Coconino County,6.9
+1998,August,Arizona,Cochise County,6.5
+1998,August,Arizona,Santa Cruz County,25.1
+1998,August,Arizona,Yavapai County,3.4
+1998,May,Arizona,Pinal County,3.7
+1998,May,Arizona,Greenlee County,8.2
+1998,May,Arizona,La Paz County,8.5
+1998,May,Arizona,Mohave County,3.9
+1998,May,Arizona,Yuma County,33.9
+1998,May,Arizona,Gila County,6.5
+1998,May,Arizona,Maricopa County,2.4
+1998,May,Arizona,Navajo County,12.0
+1998,May,Arizona,Graham County,7.9
+1998,May,Arizona,Pima County,2.6
+1998,May,Arizona,Apache County,13.9
+1998,May,Arizona,Coconino County,6.1
+1998,May,Arizona,Cochise County,6.7
+1998,May,Arizona,Santa Cruz County,11.9
+1998,May,Arizona,Yavapai County,3.2
+1998,January,Arizona,Pinal County,5.0
+1998,January,Arizona,Greenlee County,7.9
+1998,January,Arizona,La Paz County,10.6
+1998,January,Arizona,Mohave County,5.7
+1998,January,Arizona,Yuma County,20.8
+1998,January,Arizona,Gila County,8.4
+1998,January,Arizona,Maricopa County,3.0
+1998,January,Arizona,Navajo County,16.9
+1998,January,Arizona,Graham County,10.0
+1998,January,Arizona,Pima County,3.4
+1998,January,Arizona,Apache County,18.6
+1998,January,Arizona,Coconino County,10.7
+1998,January,Arizona,Cochise County,9.2
+1998,January,Arizona,Santa Cruz County,16.2
+1998,January,Arizona,Yavapai County,4.4
+1998,June,Arizona,Pinal County,4.5
+1998,June,Arizona,Greenlee County,8.6
+1998,June,Arizona,La Paz County,9.4
+1998,June,Arizona,Mohave County,4.4
+1998,June,Arizona,Yuma County,33.8
+1998,June,Arizona,Gila County,7.9
+1998,June,Arizona,Maricopa County,2.7
+1998,June,Arizona,Navajo County,16.1
+1998,June,Arizona,Graham County,8.9
+1998,June,Arizona,Pima County,2.9
+1998,June,Arizona,Apache County,19.6
+1998,June,Arizona,Coconino County,8.3
+1998,June,Arizona,Cochise County,6.7
+1998,June,Arizona,Santa Cruz County,17.0
+1998,June,Arizona,Yavapai County,3.6
+1998,September,Arizona,Pinal County,4.2
+1998,September,Arizona,Greenlee County,8.7
+1998,September,Arizona,La Paz County,8.2
+1998,September,Arizona,Mohave County,4.1
+1998,September,Arizona,Yuma County,33.8
+1998,September,Arizona,Gila County,6.9
+1998,September,Arizona,Maricopa County,3.1
+1998,September,Arizona,Navajo County,11.4
+1998,September,Arizona,Graham County,8.1
+1998,September,Arizona,Pima County,2.9
+1998,September,Arizona,Apache County,12.3
+1998,September,Arizona,Coconino County,6.0
+1998,September,Arizona,Cochise County,6.5
+1998,September,Arizona,Santa Cruz County,26.7
+1998,September,Arizona,Yavapai County,3.3
+1998,April,Arizona,Pinal County,3.9
+1998,April,Arizona,Greenlee County,8.6
+1998,April,Arizona,La Paz County,8.5
+1998,April,Arizona,Mohave County,4.4
+1998,April,Arizona,Yuma County,28.0
+1998,April,Arizona,Gila County,7.7
+1998,April,Arizona,Maricopa County,2.3
+1998,April,Arizona,Navajo County,13.4
+1998,April,Arizona,Graham County,8.3
+1998,April,Arizona,Pima County,2.7
+1998,April,Arizona,Apache County,15.3
+1998,April,Arizona,Coconino County,6.8
+1998,April,Arizona,Cochise County,7.2
+1998,April,Arizona,Santa Cruz County,12.0
+1998,April,Arizona,Yavapai County,3.5
+1998,December,Arizona,Pinal County,3.7
+1998,December,Arizona,Greenlee County,8.2
+1998,December,Arizona,La Paz County,8.4
+1998,December,Arizona,Mohave County,4.3
+1998,December,Arizona,Yuma County,22.2
+1998,December,Arizona,Gila County,7.8
+1998,December,Arizona,Maricopa County,2.8
+1998,December,Arizona,Navajo County,13.4
+1998,December,Arizona,Graham County,8.9
+1998,December,Arizona,Pima County,2.6
+1998,December,Arizona,Apache County,15.3
+1998,December,Arizona,Coconino County,7.5
+1998,December,Arizona,Cochise County,6.4
+1998,December,Arizona,Santa Cruz County,15.8
+1998,December,Arizona,Yavapai County,2.9
+1998,July,Arizona,Pinal County,4.6
+1998,July,Arizona,Greenlee County,7.7
+1998,July,Arizona,La Paz County,8.7
+1998,July,Arizona,Mohave County,4.3
+1998,July,Arizona,Yuma County,36.3
+1998,July,Arizona,Gila County,7.7
+1998,July,Arizona,Maricopa County,2.8
+1998,July,Arizona,Navajo County,16.2
+1998,July,Arizona,Graham County,9.1
+1998,July,Arizona,Pima County,2.9
+1998,July,Arizona,Apache County,18.2
+1998,July,Arizona,Coconino County,8.5
+1998,July,Arizona,Cochise County,6.8
+1998,July,Arizona,Santa Cruz County,21.9
+1998,July,Arizona,Yavapai County,3.6
+1998,November,Arizona,Pinal County,3.8
+1998,November,Arizona,Greenlee County,8.3
+1998,November,Arizona,La Paz County,7.4
+1998,November,Arizona,Mohave County,4.1
+1998,November,Arizona,Yuma County,25.0
+1998,November,Arizona,Gila County,7.3
+1998,November,Arizona,Maricopa County,2.8
+1998,November,Arizona,Navajo County,12.5
+1998,November,Arizona,Graham County,8.5
+1998,November,Arizona,Pima County,2.6
+1998,November,Arizona,Apache County,14.4
+1998,November,Arizona,Coconino County,6.8
+1998,November,Arizona,Cochise County,6.2
+1998,November,Arizona,Santa Cruz County,18.7
+1998,November,Arizona,Yavapai County,2.9
+2002,February,Arizona,Pinal County,7.0
+2002,February,Arizona,Greenlee County,8.5
+2002,February,Arizona,La Paz County,6.6
+2002,February,Arizona,Mohave County,5.6
+2002,February,Arizona,Yuma County,9.6
+2002,February,Arizona,Gila County,7.7
+2002,February,Arizona,Maricopa County,5.4
+2002,February,Arizona,Navajo County,8.6
+2002,February,Arizona,Graham County,7.1
+2002,February,Arizona,Pima County,5.6
+2002,February,Arizona,Apache County,10.6
+2002,February,Arizona,Coconino County,5.6
+2002,February,Arizona,Cochise County,5.8
+2002,February,Arizona,Santa Cruz County,7.7
+2002,February,Arizona,Yavapai County,5.5
+2002,October,Arizona,Pinal County,7.3
+2002,October,Arizona,Greenlee County,6.8
+2002,October,Arizona,La Paz County,7.1
+2002,October,Arizona,Mohave County,5.6
+2002,October,Arizona,Yuma County,17.0
+2002,October,Arizona,Gila County,7.1
+2002,October,Arizona,Maricopa County,5.6
+2002,October,Arizona,Navajo County,7.6
+2002,October,Arizona,Graham County,7.8
+2002,October,Arizona,Pima County,5.6
+2002,October,Arizona,Apache County,9.7
+2002,October,Arizona,Coconino County,5.0
+2002,October,Arizona,Cochise County,5.8
+2002,October,Arizona,Santa Cruz County,12.5
+2002,October,Arizona,Yavapai County,5.3
+2002,March,Arizona,Pinal County,7.2
+2002,March,Arizona,Greenlee County,7.3
+2002,March,Arizona,La Paz County,6.5
+2002,March,Arizona,Mohave County,5.5
+2002,March,Arizona,Yuma County,10.6
+2002,March,Arizona,Gila County,7.7
+2002,March,Arizona,Maricopa County,5.6
+2002,March,Arizona,Navajo County,8.5
+2002,March,Arizona,Graham County,7.3
+2002,March,Arizona,Pima County,5.6
+2002,March,Arizona,Apache County,10.4
+2002,March,Arizona,Coconino County,5.7
+2002,March,Arizona,Cochise County,5.8
+2002,March,Arizona,Santa Cruz County,7.7
+2002,March,Arizona,Yavapai County,5.5
+2002,August,Arizona,Pinal County,8.0
+2002,August,Arizona,Greenlee County,7.5
+2002,August,Arizona,La Paz County,7.5
+2002,August,Arizona,Mohave County,5.9
+2002,August,Arizona,Yuma County,23.5
+2002,August,Arizona,Gila County,7.9
+2002,August,Arizona,Maricopa County,6.0
+2002,August,Arizona,Navajo County,9.3
+2002,August,Arizona,Graham County,9.0
+2002,August,Arizona,Pima County,6.2
+2002,August,Arizona,Apache County,11.2
+2002,August,Arizona,Coconino County,5.7
+2002,August,Arizona,Cochise County,6.4
+2002,August,Arizona,Santa Cruz County,14.5
+2002,August,Arizona,Yavapai County,5.6
+2002,May,Arizona,Pinal County,7.0
+2002,May,Arizona,Greenlee County,7.3
+2002,May,Arizona,La Paz County,6.1
+2002,May,Arizona,Mohave County,5.4
+2002,May,Arizona,Yuma County,21.2
+2002,May,Arizona,Gila County,7.1
+2002,May,Arizona,Maricopa County,5.4
+2002,May,Arizona,Navajo County,7.2
+2002,May,Arizona,Graham County,6.8
+2002,May,Arizona,Pima County,5.4
+2002,May,Arizona,Apache County,9.5
+2002,May,Arizona,Coconino County,4.7
+2002,May,Arizona,Cochise County,5.5
+2002,May,Arizona,Santa Cruz County,7.6
+2002,May,Arizona,Yavapai County,5.1
+2002,January,Arizona,Pinal County,7.3
+2002,January,Arizona,Greenlee County,9.1
+2002,January,Arizona,La Paz County,7.3
+2002,January,Arizona,Mohave County,6.1
+2002,January,Arizona,Yuma County,10.9
+2002,January,Arizona,Gila County,7.5
+2002,January,Arizona,Maricopa County,5.8
+2002,January,Arizona,Navajo County,8.8
+2002,January,Arizona,Graham County,7.3
+2002,January,Arizona,Pima County,5.8
+2002,January,Arizona,Apache County,11.1
+2002,January,Arizona,Coconino County,6.0
+2002,January,Arizona,Cochise County,6.1
+2002,January,Arizona,Santa Cruz County,8.3
+2002,January,Arizona,Yavapai County,5.9
+2002,June,Arizona,Pinal County,7.8
+2002,June,Arizona,Greenlee County,7.5
+2002,June,Arizona,La Paz County,6.5
+2002,June,Arizona,Mohave County,6.0
+2002,June,Arizona,Yuma County,21.1
+2002,June,Arizona,Gila County,7.8
+2002,June,Arizona,Maricopa County,5.9
+2002,June,Arizona,Navajo County,9.6
+2002,June,Arizona,Graham County,8.1
+2002,June,Arizona,Pima County,6.1
+2002,June,Arizona,Apache County,13.2
+2002,June,Arizona,Coconino County,5.9
+2002,June,Arizona,Cochise County,6.2
+2002,June,Arizona,Santa Cruz County,10.4
+2002,June,Arizona,Yavapai County,5.6
+2002,September,Arizona,Pinal County,7.4
+2002,September,Arizona,Greenlee County,7.1
+2002,September,Arizona,La Paz County,7.1
+2002,September,Arizona,Mohave County,5.6
+2002,September,Arizona,Yuma County,21.8
+2002,September,Arizona,Gila County,7.5
+2002,September,Arizona,Maricopa County,5.6
+2002,September,Arizona,Navajo County,7.7
+2002,September,Arizona,Graham County,7.9
+2002,September,Arizona,Pima County,5.7
+2002,September,Arizona,Apache County,9.7
+2002,September,Arizona,Coconino County,5.0
+2002,September,Arizona,Cochise County,5.7
+2002,September,Arizona,Santa Cruz County,14.3
+2002,September,Arizona,Yavapai County,5.1
+2002,April,Arizona,Pinal County,7.1
+2002,April,Arizona,Greenlee County,7.3
+2002,April,Arizona,La Paz County,6.3
+2002,April,Arizona,Mohave County,5.5
+2002,April,Arizona,Yuma County,14.5
+2002,April,Arizona,Gila County,7.5
+2002,April,Arizona,Maricopa County,5.6
+2002,April,Arizona,Navajo County,7.9
+2002,April,Arizona,Graham County,7.1
+2002,April,Arizona,Pima County,5.6
+2002,April,Arizona,Apache County,10.4
+2002,April,Arizona,Coconino County,5.1
+2002,April,Arizona,Cochise County,5.7
+2002,April,Arizona,Santa Cruz County,7.7
+2002,April,Arizona,Yavapai County,5.2
+2002,December,Arizona,Pinal County,7.1
+2002,December,Arizona,Greenlee County,7.0
+2002,December,Arizona,La Paz County,7.3
+2002,December,Arizona,Mohave County,5.4
+2002,December,Arizona,Yuma County,12.7
+2002,December,Arizona,Gila County,7.0
+2002,December,Arizona,Maricopa County,5.3
+2002,December,Arizona,Navajo County,8.1
+2002,December,Arizona,Graham County,7.4
+2002,December,Arizona,Pima County,5.4
+2002,December,Arizona,Apache County,10.8
+2002,December,Arizona,Coconino County,5.5
+2002,December,Arizona,Cochise County,5.6
+2002,December,Arizona,Santa Cruz County,8.5
+2002,December,Arizona,Yavapai County,5.2
+2002,July,Arizona,Pinal County,7.7
+2002,July,Arizona,Greenlee County,7.7
+2002,July,Arizona,La Paz County,6.9
+2002,July,Arizona,Mohave County,5.7
+2002,July,Arizona,Yuma County,23.9
+2002,July,Arizona,Gila County,8.0
+2002,July,Arizona,Maricopa County,5.8
+2002,July,Arizona,Navajo County,10.8
+2002,July,Arizona,Graham County,8.8
+2002,July,Arizona,Pima County,6.0
+2002,July,Arizona,Apache County,14.5
+2002,July,Arizona,Coconino County,5.9
+2002,July,Arizona,Cochise County,6.3
+2002,July,Arizona,Santa Cruz County,12.7
+2002,July,Arizona,Yavapai County,5.4
+2002,November,Arizona,Pinal County,7.1
+2002,November,Arizona,Greenlee County,7.2
+2002,November,Arizona,La Paz County,7.1
+2002,November,Arizona,Mohave County,5.4
+2002,November,Arizona,Yuma County,15.0
+2002,November,Arizona,Gila County,7.0
+2002,November,Arizona,Maricopa County,5.4
+2002,November,Arizona,Navajo County,8.1
+2002,November,Arizona,Graham County,7.6
+2002,November,Arizona,Pima County,5.5
+2002,November,Arizona,Apache County,10.8
+2002,November,Arizona,Coconino County,5.4
+2002,November,Arizona,Cochise County,5.7
+2002,November,Arizona,Santa Cruz County,9.8
+2002,November,Arizona,Yavapai County,5.3
+2003,February,Arizona,Pinal County,7.3
+2003,February,Arizona,Greenlee County,6.8
+2003,February,Arizona,La Paz County,7.4
+2003,February,Arizona,Mohave County,5.3
+2003,February,Arizona,Yuma County,11.0
+2003,February,Arizona,Gila County,7.9
+2003,February,Arizona,Maricopa County,5.4
+2003,February,Arizona,Navajo County,8.7
+2003,February,Arizona,Graham County,7.3
+2003,February,Arizona,Pima County,5.5
+2003,February,Arizona,Apache County,11.5
+2003,February,Arizona,Coconino County,6.1
+2003,February,Arizona,Cochise County,6.0
+2003,February,Arizona,Santa Cruz County,7.7
+2003,February,Arizona,Yavapai County,5.4
+2003,October,Arizona,Pinal County,6.6
+2003,October,Arizona,Greenlee County,6.1
+2003,October,Arizona,La Paz County,6.6
+2003,October,Arizona,Mohave County,4.8
+2003,October,Arizona,Yuma County,16.2
+2003,October,Arizona,Gila County,7.0
+2003,October,Arizona,Maricopa County,4.9
+2003,October,Arizona,Navajo County,7.8
+2003,October,Arizona,Graham County,6.6
+2003,October,Arizona,Pima County,5.1
+2003,October,Arizona,Apache County,10.6
+2003,October,Arizona,Coconino County,5.1
+2003,October,Arizona,Cochise County,5.1
+2003,October,Arizona,Santa Cruz County,11.6
+2003,October,Arizona,Yavapai County,4.9
+2003,March,Arizona,Pinal County,7.2
+2003,March,Arizona,Greenlee County,7.3
+2003,March,Arizona,La Paz County,7.2
+2003,March,Arizona,Mohave County,5.0
+2003,March,Arizona,Yuma County,11.7
+2003,March,Arizona,Gila County,7.8
+2003,March,Arizona,Maricopa County,5.3
+2003,March,Arizona,Navajo County,8.6
+2003,March,Arizona,Graham County,7.1
+2003,March,Arizona,Pima County,5.4
+2003,March,Arizona,Apache County,11.5
+2003,March,Arizona,Coconino County,5.8
+2003,March,Arizona,Cochise County,6.0
+2003,March,Arizona,Santa Cruz County,7.6
+2003,March,Arizona,Yavapai County,5.2
+2003,August,Arizona,Pinal County,7.3
+2003,August,Arizona,Greenlee County,7.7
+2003,August,Arizona,La Paz County,7.4
+2003,August,Arizona,Mohave County,5.1
+2003,August,Arizona,Yuma County,22.4
+2003,August,Arizona,Gila County,7.3
+2003,August,Arizona,Maricopa County,5.5
+2003,August,Arizona,Navajo County,9.3
+2003,August,Arizona,Graham County,7.7
+2003,August,Arizona,Pima County,5.7
+2003,August,Arizona,Apache County,13.0
+2003,August,Arizona,Coconino County,5.9
+2003,August,Arizona,Cochise County,6.0
+2003,August,Arizona,Santa Cruz County,12.4
+2003,August,Arizona,Yavapai County,5.2
+2003,May,Arizona,Pinal County,6.7
+2003,May,Arizona,Greenlee County,6.5
+2003,May,Arizona,La Paz County,6.8
+2003,May,Arizona,Mohave County,4.5
+2003,May,Arizona,Yuma County,21.5
+2003,May,Arizona,Gila County,6.9
+2003,May,Arizona,Maricopa County,5.0
+2003,May,Arizona,Navajo County,7.7
+2003,May,Arizona,Graham County,6.6
+2003,May,Arizona,Pima County,5.1
+2003,May,Arizona,Apache County,10.4
+2003,May,Arizona,Coconino County,5.1
+2003,May,Arizona,Cochise County,5.6
+2003,May,Arizona,Santa Cruz County,7.7
+2003,May,Arizona,Yavapai County,4.8
+2003,January,Arizona,Pinal County,7.7
+2003,January,Arizona,Greenlee County,7.2
+2003,January,Arizona,La Paz County,7.9
+2003,January,Arizona,Mohave County,5.6
+2003,January,Arizona,Yuma County,12.1
+2003,January,Arizona,Gila County,7.9
+2003,January,Arizona,Maricopa County,5.8
+2003,January,Arizona,Navajo County,9.2
+2003,January,Arizona,Graham County,7.4
+2003,January,Arizona,Pima County,5.8
+2003,January,Arizona,Apache County,12.2
+2003,January,Arizona,Coconino County,6.5
+2003,January,Arizona,Cochise County,6.1
+2003,January,Arizona,Santa Cruz County,8.4
+2003,January,Arizona,Yavapai County,5.8
+2003,June,Arizona,Pinal County,7.7
+2003,June,Arizona,Greenlee County,7.7
+2003,June,Arizona,La Paz County,7.5
+2003,June,Arizona,Mohave County,5.2
+2003,June,Arizona,Yuma County,21.8
+2003,June,Arizona,Gila County,7.7
+2003,June,Arizona,Maricopa County,5.5
+2003,June,Arizona,Navajo County,10.0
+2003,June,Arizona,Graham County,7.8
+2003,June,Arizona,Pima County,5.8
+2003,June,Arizona,Apache County,14.2
+2003,June,Arizona,Coconino County,6.3
+2003,June,Arizona,Cochise County,6.3
+2003,June,Arizona,Santa Cruz County,9.7
+2003,June,Arizona,Yavapai County,5.4
+2003,September,Arizona,Pinal County,6.9
+2003,September,Arizona,Greenlee County,6.9
+2003,September,Arizona,La Paz County,7.1
+2003,September,Arizona,Mohave County,4.9
+2003,September,Arizona,Yuma County,20.4
+2003,September,Arizona,Gila County,7.1
+2003,September,Arizona,Maricopa County,5.2
+2003,September,Arizona,Navajo County,8.1
+2003,September,Arizona,Graham County,6.8
+2003,September,Arizona,Pima County,5.3
+2003,September,Arizona,Apache County,10.8
+2003,September,Arizona,Coconino County,5.3
+2003,September,Arizona,Cochise County,5.3
+2003,September,Arizona,Santa Cruz County,12.9
+2003,September,Arizona,Yavapai County,5.0
+2003,April,Arizona,Pinal County,6.8
+2003,April,Arizona,Greenlee County,7.5
+2003,April,Arizona,La Paz County,6.8
+2003,April,Arizona,Mohave County,4.6
+2003,April,Arizona,Yuma County,16.1
+2003,April,Arizona,Gila County,7.2
+2003,April,Arizona,Maricopa County,5.2
+2003,April,Arizona,Navajo County,8.0
+2003,April,Arizona,Graham County,6.7
+2003,April,Arizona,Pima County,5.1
+2003,April,Arizona,Apache County,11.2
+2003,April,Arizona,Coconino County,5.2
+2003,April,Arizona,Cochise County,5.8
+2003,April,Arizona,Santa Cruz County,7.6
+2003,April,Arizona,Yavapai County,4.9
+2003,December,Arizona,Pinal County,6.1
+2003,December,Arizona,Greenlee County,6.1
+2003,December,Arizona,La Paz County,6.3
+2003,December,Arizona,Mohave County,4.5
+2003,December,Arizona,Yuma County,11.6
+2003,December,Arizona,Gila County,6.5
+2003,December,Arizona,Maricopa County,4.5
+2003,December,Arizona,Navajo County,7.9
+2003,December,Arizona,Graham County,6.0
+2003,December,Arizona,Pima County,4.6
+2003,December,Arizona,Apache County,10.8
+2003,December,Arizona,Coconino County,5.6
+2003,December,Arizona,Cochise County,4.8
+2003,December,Arizona,Santa Cruz County,8.1
+2003,December,Arizona,Yavapai County,4.7
+2003,July,Arizona,Pinal County,7.4
+2003,July,Arizona,Greenlee County,7.5
+2003,July,Arizona,La Paz County,7.5
+2003,July,Arizona,Mohave County,4.9
+2003,July,Arizona,Yuma County,22.4
+2003,July,Arizona,Gila County,7.3
+2003,July,Arizona,Maricopa County,5.3
+2003,July,Arizona,Navajo County,10.0
+2003,July,Arizona,Graham County,7.8
+2003,July,Arizona,Pima County,5.7
+2003,July,Arizona,Apache County,14.8
+2003,July,Arizona,Coconino County,6.3
+2003,July,Arizona,Cochise County,6.1
+2003,July,Arizona,Santa Cruz County,11.6
+2003,July,Arizona,Yavapai County,5.1
+2003,November,Arizona,Pinal County,6.4
+2003,November,Arizona,Greenlee County,6.4
+2003,November,Arizona,La Paz County,6.1
+2003,November,Arizona,Mohave County,4.6
+2003,November,Arizona,Yuma County,14.5
+2003,November,Arizona,Gila County,6.6
+2003,November,Arizona,Maricopa County,4.6
+2003,November,Arizona,Navajo County,7.7
+2003,November,Arizona,Graham County,6.2
+2003,November,Arizona,Pima County,4.8
+2003,November,Arizona,Apache County,10.8
+2003,November,Arizona,Coconino County,5.3
+2003,November,Arizona,Cochise County,4.9
+2003,November,Arizona,Santa Cruz County,9.4
+2003,November,Arizona,Yavapai County,4.7
+2000,February,Arizona,Pinal County,4.9
+2000,February,Arizona,Greenlee County,5.0
+2000,February,Arizona,La Paz County,6.7
+2000,February,Arizona,Mohave County,4.7
+2000,February,Arizona,Yuma County,9.7
+2000,February,Arizona,Gila County,5.6
+2000,February,Arizona,Maricopa County,3.3
+2000,February,Arizona,Navajo County,8.1
+2000,February,Arizona,Graham County,5.9
+2000,February,Arizona,Pima County,3.8
+2000,February,Arizona,Apache County,9.2
+2000,February,Arizona,Coconino County,5.0
+2000,February,Arizona,Cochise County,4.7
+2000,February,Arizona,Santa Cruz County,6.1
+2000,February,Arizona,Yavapai County,4.1
+2000,October,Arizona,Pinal County,4.1
+2000,October,Arizona,Greenlee County,3.6
+2000,October,Arizona,La Paz County,5.5
+2000,October,Arizona,Mohave County,4.1
+2000,October,Arizona,Yuma County,16.8
+2000,October,Arizona,Gila County,4.9
+2000,October,Arizona,Maricopa County,3.1
+2000,October,Arizona,Navajo County,6.1
+2000,October,Arizona,Graham County,5.0
+2000,October,Arizona,Pima County,3.5
+2000,October,Arizona,Apache County,8.3
+2000,October,Arizona,Coconino County,3.6
+2000,October,Arizona,Cochise County,4.1
+2000,October,Arizona,Santa Cruz County,11.3
+2000,October,Arizona,Yavapai County,3.7
+2000,March,Arizona,Pinal County,4.7
+2000,March,Arizona,Greenlee County,4.4
+2000,March,Arizona,La Paz County,6.6
+2000,March,Arizona,Mohave County,4.7
+2000,March,Arizona,Yuma County,10.9
+2000,March,Arizona,Gila County,5.6
+2000,March,Arizona,Maricopa County,3.4
+2000,March,Arizona,Navajo County,7.7
+2000,March,Arizona,Graham County,5.8
+2000,March,Arizona,Pima County,3.7
+2000,March,Arizona,Apache County,8.4
+2000,March,Arizona,Coconino County,4.5
+2000,March,Arizona,Cochise County,4.8
+2000,March,Arizona,Santa Cruz County,6.3
+2000,March,Arizona,Yavapai County,4.2
+2000,August,Arizona,Pinal County,5.0
+2000,August,Arizona,Greenlee County,4.2
+2000,August,Arizona,La Paz County,7.0
+2000,August,Arizona,Mohave County,4.8
+2000,August,Arizona,Yuma County,22.2
+2000,August,Arizona,Gila County,5.5
+2000,August,Arizona,Maricopa County,3.6
+2000,August,Arizona,Navajo County,7.5
+2000,August,Arizona,Graham County,5.8
+2000,August,Arizona,Pima County,4.1
+2000,August,Arizona,Apache County,10.2
+2000,August,Arizona,Coconino County,4.6
+2000,August,Arizona,Cochise County,4.9
+2000,August,Arizona,Santa Cruz County,11.4
+2000,August,Arizona,Yavapai County,4.5
+2000,May,Arizona,Pinal County,4.3
+2000,May,Arizona,Greenlee County,4.0
+2000,May,Arizona,La Paz County,6.2
+2000,May,Arizona,Mohave County,4.2
+2000,May,Arizona,Yuma County,20.0
+2000,May,Arizona,Gila County,4.8
+2000,May,Arizona,Maricopa County,3.0
+2000,May,Arizona,Navajo County,6.2
+2000,May,Arizona,Graham County,4.9
+2000,May,Arizona,Pima County,3.5
+2000,May,Arizona,Apache County,7.2
+2000,May,Arizona,Coconino County,3.5
+2000,May,Arizona,Cochise County,4.2
+2000,May,Arizona,Santa Cruz County,5.6
+2000,May,Arizona,Yavapai County,3.8
+2000,January,Arizona,Pinal County,5.6
+2000,January,Arizona,Greenlee County,5.8
+2000,January,Arizona,La Paz County,6.7
+2000,January,Arizona,Mohave County,5.0
+2000,January,Arizona,Yuma County,10.7
+2000,January,Arizona,Gila County,5.8
+2000,January,Arizona,Maricopa County,3.6
+2000,January,Arizona,Navajo County,8.6
+2000,January,Arizona,Graham County,6.2
+2000,January,Arizona,Pima County,4.2
+2000,January,Arizona,Apache County,9.8
+2000,January,Arizona,Coconino County,5.8
+2000,January,Arizona,Cochise County,5.1
+2000,January,Arizona,Santa Cruz County,7.0
+2000,January,Arizona,Yavapai County,4.4
+2000,June,Arizona,Pinal County,4.9
+2000,June,Arizona,Greenlee County,4.9
+2000,June,Arizona,La Paz County,6.7
+2000,June,Arizona,Mohave County,4.6
+2000,June,Arizona,Yuma County,20.4
+2000,June,Arizona,Gila County,5.4
+2000,June,Arizona,Maricopa County,3.4
+2000,June,Arizona,Navajo County,8.3
+2000,June,Arizona,Graham County,6.0
+2000,June,Arizona,Pima County,3.9
+2000,June,Arizona,Apache County,10.9
+2000,June,Arizona,Coconino County,4.8
+2000,June,Arizona,Cochise County,4.6
+2000,June,Arizona,Santa Cruz County,8.0
+2000,June,Arizona,Yavapai County,4.2
+2000,September,Arizona,Pinal County,4.3
+2000,September,Arizona,Greenlee County,3.7
+2000,September,Arizona,La Paz County,6.3
+2000,September,Arizona,Mohave County,4.2
+2000,September,Arizona,Yuma County,21.1
+2000,September,Arizona,Gila County,5.2
+2000,September,Arizona,Maricopa County,3.2
+2000,September,Arizona,Navajo County,6.1
+2000,September,Arizona,Graham County,5.5
+2000,September,Arizona,Pima County,3.7
+2000,September,Arizona,Apache County,8.5
+2000,September,Arizona,Coconino County,3.7
+2000,September,Arizona,Cochise County,4.4
+2000,September,Arizona,Santa Cruz County,12.8
+2000,September,Arizona,Yavapai County,4.0
+2000,April,Arizona,Pinal County,4.2
+2000,April,Arizona,Greenlee County,4.1
+2000,April,Arizona,La Paz County,6.5
+2000,April,Arizona,Mohave County,4.2
+2000,April,Arizona,Yuma County,17.2
+2000,April,Arizona,Gila County,4.9
+2000,April,Arizona,Maricopa County,2.9
+2000,April,Arizona,Navajo County,7.0
+2000,April,Arizona,Graham County,5.2
+2000,April,Arizona,Pima County,3.3
+2000,April,Arizona,Apache County,7.6
+2000,April,Arizona,Coconino County,3.7
+2000,April,Arizona,Cochise County,4.2
+2000,April,Arizona,Santa Cruz County,5.6
+2000,April,Arizona,Yavapai County,3.7
+2000,December,Arizona,Pinal County,4.0
+2000,December,Arizona,Greenlee County,3.2
+2000,December,Arizona,La Paz County,5.7
+2000,December,Arizona,Mohave County,4.1
+2000,December,Arizona,Yuma County,11.1
+2000,December,Arizona,Gila County,5.1
+2000,December,Arizona,Maricopa County,2.9
+2000,December,Arizona,Navajo County,6.4
+2000,December,Arizona,Graham County,4.7
+2000,December,Arizona,Pima County,3.3
+2000,December,Arizona,Apache County,8.8
+2000,December,Arizona,Coconino County,4.2
+2000,December,Arizona,Cochise County,4.1
+2000,December,Arizona,Santa Cruz County,6.6
+2000,December,Arizona,Yavapai County,3.7
+2000,July,Arizona,Pinal County,4.8
+2000,July,Arizona,Greenlee County,4.4
+2000,July,Arizona,La Paz County,6.8
+2000,July,Arizona,Mohave County,4.6
+2000,July,Arizona,Yuma County,23.2
+2000,July,Arizona,Gila County,5.4
+2000,July,Arizona,Maricopa County,3.4
+2000,July,Arizona,Navajo County,8.3
+2000,July,Arizona,Graham County,5.8
+2000,July,Arizona,Pima County,3.9
+2000,July,Arizona,Apache County,11.0
+2000,July,Arizona,Coconino County,4.9
+2000,July,Arizona,Cochise County,4.7
+2000,July,Arizona,Santa Cruz County,11.0
+2000,July,Arizona,Yavapai County,4.3
+2000,November,Arizona,Pinal County,3.9
+2000,November,Arizona,Greenlee County,3.3
+2000,November,Arizona,La Paz County,5.2
+2000,November,Arizona,Mohave County,3.9
+2000,November,Arizona,Yuma County,12.7
+2000,November,Arizona,Gila County,4.9
+2000,November,Arizona,Maricopa County,2.9
+2000,November,Arizona,Navajo County,6.2
+2000,November,Arizona,Graham County,4.5
+2000,November,Arizona,Pima County,3.3
+2000,November,Arizona,Apache County,8.0
+2000,November,Arizona,Coconino County,4.0
+2000,November,Arizona,Cochise County,4.0
+2000,November,Arizona,Santa Cruz County,7.1
+2000,November,Arizona,Yavapai County,3.6
+2001,February,Arizona,Pinal County,4.5
+2001,February,Arizona,Greenlee County,6.4
+2001,February,Arizona,La Paz County,6.9
+2001,February,Arizona,Mohave County,4.6
+2001,February,Arizona,Yuma County,10.5
+2001,February,Arizona,Gila County,5.6
+2001,February,Arizona,Maricopa County,3.3
+2001,February,Arizona,Navajo County,8.3
+2001,February,Arizona,Graham County,5.5
+2001,February,Arizona,Pima County,3.8
+2001,February,Arizona,Apache County,9.5
+2001,February,Arizona,Coconino County,5.1
+2001,February,Arizona,Cochise County,4.7
+2001,February,Arizona,Santa Cruz County,5.8
+2001,February,Arizona,Yavapai County,4.2
+2001,October,Arizona,Pinal County,5.9
+2001,October,Arizona,Greenlee County,7.6
+2001,October,Arizona,La Paz County,6.5
+2001,October,Arizona,Mohave County,5.1
+2001,October,Arizona,Yuma County,16.7
+2001,October,Arizona,Gila County,6.0
+2001,October,Arizona,Maricopa County,4.8
+2001,October,Arizona,Navajo County,6.8
+2001,October,Arizona,Graham County,6.5
+2001,October,Arizona,Pima County,4.9
+2001,October,Arizona,Apache County,8.9
+2001,October,Arizona,Coconino County,4.3
+2001,October,Arizona,Cochise County,5.1
+2001,October,Arizona,Santa Cruz County,12.6
+2001,October,Arizona,Yavapai County,4.7
+2001,March,Arizona,Pinal County,4.8
+2001,March,Arizona,Greenlee County,7.1
+2001,March,Arizona,La Paz County,6.8
+2001,March,Arizona,Mohave County,4.7
+2001,March,Arizona,Yuma County,10.8
+2001,March,Arizona,Gila County,5.9
+2001,March,Arizona,Maricopa County,3.6
+2001,March,Arizona,Navajo County,7.9
+2001,March,Arizona,Graham County,5.8
+2001,March,Arizona,Pima County,3.9
+2001,March,Arizona,Apache County,9.3
+2001,March,Arizona,Coconino County,4.9
+2001,March,Arizona,Cochise County,4.7
+2001,March,Arizona,Santa Cruz County,5.9
+2001,March,Arizona,Yavapai County,4.3
+2001,August,Arizona,Pinal County,6.1
+2001,August,Arizona,Greenlee County,7.0
+2001,August,Arizona,La Paz County,7.5
+2001,August,Arizona,Mohave County,5.3
+2001,August,Arizona,Yuma County,23.7
+2001,August,Arizona,Gila County,6.4
+2001,August,Arizona,Maricopa County,4.9
+2001,August,Arizona,Navajo County,8.0
+2001,August,Arizona,Graham County,7.0
+2001,August,Arizona,Pima County,4.9
+2001,August,Arizona,Apache County,9.6
+2001,August,Arizona,Coconino County,4.8
+2001,August,Arizona,Cochise County,5.4
+2001,August,Arizona,Santa Cruz County,13.3
+2001,August,Arizona,Yavapai County,4.9
+2001,May,Arizona,Pinal County,4.8
+2001,May,Arizona,Greenlee County,7.3
+2001,May,Arizona,La Paz County,5.9
+2001,May,Arizona,Mohave County,4.2
+2001,May,Arizona,Yuma County,19.4
+2001,May,Arizona,Gila County,4.9
+2001,May,Arizona,Maricopa County,3.5
+2001,May,Arizona,Navajo County,6.2
+2001,May,Arizona,Graham County,5.3
+2001,May,Arizona,Pima County,3.6
+2001,May,Arizona,Apache County,7.4
+2001,May,Arizona,Coconino County,3.8
+2001,May,Arizona,Cochise County,4.2
+2001,May,Arizona,Santa Cruz County,5.5
+2001,May,Arizona,Yavapai County,3.9
+2001,January,Arizona,Pinal County,4.9
+2001,January,Arizona,Greenlee County,4.9
+2001,January,Arizona,La Paz County,7.2
+2001,January,Arizona,Mohave County,4.9
+2001,January,Arizona,Yuma County,11.5
+2001,January,Arizona,Gila County,6.0
+2001,January,Arizona,Maricopa County,3.6
+2001,January,Arizona,Navajo County,8.9
+2001,January,Arizona,Graham County,6.0
+2001,January,Arizona,Pima County,4.2
+2001,January,Arizona,Apache County,10.9
+2001,January,Arizona,Coconino County,5.7
+2001,January,Arizona,Cochise County,5.1
+2001,January,Arizona,Santa Cruz County,6.7
+2001,January,Arizona,Yavapai County,4.6
+2001,June,Arizona,Pinal County,5.4
+2001,June,Arizona,Greenlee County,8.1
+2001,June,Arizona,La Paz County,6.8
+2001,June,Arizona,Mohave County,4.8
+2001,June,Arizona,Yuma County,21.2
+2001,June,Arizona,Gila County,6.0
+2001,June,Arizona,Maricopa County,4.2
+2001,June,Arizona,Navajo County,9.0
+2001,June,Arizona,Graham County,7.0
+2001,June,Arizona,Pima County,4.4
+2001,June,Arizona,Apache County,11.5
+2001,June,Arizona,Coconino County,5.1
+2001,June,Arizona,Cochise County,5.0
+2001,June,Arizona,Santa Cruz County,8.5
+2001,June,Arizona,Yavapai County,4.5
+2001,September,Arizona,Pinal County,5.9
+2001,September,Arizona,Greenlee County,7.4
+2001,September,Arizona,La Paz County,7.0
+2001,September,Arizona,Mohave County,5.1
+2001,September,Arizona,Yuma County,22.4
+2001,September,Arizona,Gila County,5.7
+2001,September,Arizona,Maricopa County,4.9
+2001,September,Arizona,Navajo County,7.0
+2001,September,Arizona,Graham County,6.6
+2001,September,Arizona,Pima County,4.9
+2001,September,Arizona,Apache County,8.9
+2001,September,Arizona,Coconino County,4.3
+2001,September,Arizona,Cochise County,5.2
+2001,September,Arizona,Santa Cruz County,14.3
+2001,September,Arizona,Yavapai County,4.5
+2001,April,Arizona,Pinal County,4.7
+2001,April,Arizona,Greenlee County,8.3
+2001,April,Arizona,La Paz County,6.4
+2001,April,Arizona,Mohave County,4.3
+2001,April,Arizona,Yuma County,17.3
+2001,April,Arizona,Gila County,5.6
+2001,April,Arizona,Maricopa County,3.4
+2001,April,Arizona,Navajo County,7.3
+2001,April,Arizona,Graham County,6.2
+2001,April,Arizona,Pima County,3.7
+2001,April,Arizona,Apache County,8.5
+2001,April,Arizona,Coconino County,4.3
+2001,April,Arizona,Cochise County,4.4
+2001,April,Arizona,Santa Cruz County,5.6
+2001,April,Arizona,Yavapai County,3.9
+2001,December,Arizona,Pinal County,6.3
+2001,December,Arizona,Greenlee County,8.3
+2001,December,Arizona,La Paz County,6.6
+2001,December,Arizona,Mohave County,5.2
+2001,December,Arizona,Yuma County,11.1
+2001,December,Arizona,Gila County,6.3
+2001,December,Arizona,Maricopa County,5.0
+2001,December,Arizona,Navajo County,7.1
+2001,December,Arizona,Graham County,6.6
+2001,December,Arizona,Pima County,5.0
+2001,December,Arizona,Apache County,9.2
+2001,December,Arizona,Coconino County,4.9
+2001,December,Arizona,Cochise County,5.1
+2001,December,Arizona,Santa Cruz County,7.9
+2001,December,Arizona,Yavapai County,4.9
+2001,July,Arizona,Pinal County,5.5
+2001,July,Arizona,Greenlee County,7.2
+2001,July,Arizona,La Paz County,6.6
+2001,July,Arizona,Mohave County,4.7
+2001,July,Arizona,Yuma County,23.0
+2001,July,Arizona,Gila County,5.8
+2001,July,Arizona,Maricopa County,4.2
+2001,July,Arizona,Navajo County,9.0
+2001,July,Arizona,Graham County,6.9
+2001,July,Arizona,Pima County,4.5
+2001,July,Arizona,Apache County,11.7
+2001,July,Arizona,Coconino County,5.0
+2001,July,Arizona,Cochise County,4.9
+2001,July,Arizona,Santa Cruz County,10.5
+2001,July,Arizona,Yavapai County,4.5
+2001,November,Arizona,Pinal County,6.2
+2001,November,Arizona,Greenlee County,7.3
+2001,November,Arizona,La Paz County,6.5
+2001,November,Arizona,Mohave County,5.2
+2001,November,Arizona,Yuma County,13.9
+2001,November,Arizona,Gila County,6.1
+2001,November,Arizona,Maricopa County,4.9
+2001,November,Arizona,Navajo County,6.8
+2001,November,Arizona,Graham County,6.5
+2001,November,Arizona,Pima County,4.9
+2001,November,Arizona,Apache County,8.8
+2001,November,Arizona,Coconino County,4.7
+2001,November,Arizona,Cochise County,5.0
+2001,November,Arizona,Santa Cruz County,9.5
+2001,November,Arizona,Yavapai County,4.8
+2006,February,Arizona,Pinal County,5.3
+2006,February,Arizona,Greenlee County,4.3
+2006,February,Arizona,La Paz County,6.2
+2006,February,Arizona,Mohave County,4.6
+2006,February,Arizona,Yuma County,10.2
+2006,February,Arizona,Gila County,5.8
+2006,February,Arizona,Maricopa County,3.9
+2006,February,Arizona,Navajo County,8.0
+2006,February,Arizona,Graham County,5.5
+2006,February,Arizona,Pima County,4.3
+2006,February,Arizona,Apache County,10.0
+2006,February,Arizona,Coconino County,5.0
+2006,February,Arizona,Cochise County,4.9
+2006,February,Arizona,Santa Cruz County,6.5
+2006,February,Arizona,Yavapai County,4.3
+2006,October,Arizona,Pinal County,4.9
+2006,October,Arizona,Greenlee County,3.6
+2006,October,Arizona,La Paz County,5.3
+2006,October,Arizona,Mohave County,4.3
+2006,October,Arizona,Yuma County,14.2
+2006,October,Arizona,Gila County,4.7
+2006,October,Arizona,Maricopa County,3.3
+2006,October,Arizona,Navajo County,6.5
+2006,October,Arizona,Graham County,4.5
+2006,October,Arizona,Pima County,3.8
+2006,October,Arizona,Apache County,8.8
+2006,October,Arizona,Coconino County,3.7
+2006,October,Arizona,Cochise County,4.1
+2006,October,Arizona,Santa Cruz County,9.2
+2006,October,Arizona,Yavapai County,3.8
+2006,March,Arizona,Pinal County,5.1
+2006,March,Arizona,Greenlee County,3.6
+2006,March,Arizona,La Paz County,5.9
+2006,March,Arizona,Mohave County,4.2
+2006,March,Arizona,Yuma County,10.8
+2006,March,Arizona,Gila County,5.7
+2006,March,Arizona,Maricopa County,3.7
+2006,March,Arizona,Navajo County,7.7
+2006,March,Arizona,Graham County,5.3
+2006,March,Arizona,Pima County,4.1
+2006,March,Arizona,Apache County,9.8
+2006,March,Arizona,Coconino County,4.6
+2006,March,Arizona,Cochise County,4.7
+2006,March,Arizona,Santa Cruz County,6.2
+2006,March,Arizona,Yavapai County,4.2
+2006,August,Arizona,Pinal County,5.2
+2006,August,Arizona,Greenlee County,4.0
+2006,August,Arizona,La Paz County,6.2
+2006,August,Arizona,Mohave County,4.7
+2006,August,Arizona,Yuma County,21.2
+2006,August,Arizona,Gila County,5.3
+2006,August,Arizona,Maricopa County,3.7
+2006,August,Arizona,Navajo County,7.8
+2006,August,Arizona,Graham County,5.2
+2006,August,Arizona,Pima County,4.3
+2006,August,Arizona,Apache County,11.2
+2006,August,Arizona,Coconino County,4.7
+2006,August,Arizona,Cochise County,4.7
+2006,August,Arizona,Santa Cruz County,10.3
+2006,August,Arizona,Yavapai County,4.2
+2006,May,Arizona,Pinal County,4.6
+2006,May,Arizona,Greenlee County,3.6
+2006,May,Arizona,La Paz County,5.4
+2006,May,Arizona,Mohave County,3.7
+2006,May,Arizona,Yuma County,19.4
+2006,May,Arizona,Gila County,4.9
+2006,May,Arizona,Maricopa County,3.3
+2006,May,Arizona,Navajo County,6.8
+2006,May,Arizona,Graham County,4.8
+2006,May,Arizona,Pima County,3.7
+2006,May,Arizona,Apache County,9.8
+2006,May,Arizona,Coconino County,4.0
+2006,May,Arizona,Cochise County,4.3
+2006,May,Arizona,Santa Cruz County,5.7
+2006,May,Arizona,Yavapai County,3.7
+2006,January,Arizona,Pinal County,5.5
+2006,January,Arizona,Greenlee County,4.4
+2006,January,Arizona,La Paz County,6.4
+2006,January,Arizona,Mohave County,4.7
+2006,January,Arizona,Yuma County,10.6
+2006,January,Arizona,Gila County,5.9
+2006,January,Arizona,Maricopa County,4.0
+2006,January,Arizona,Navajo County,7.8
+2006,January,Arizona,Graham County,5.6
+2006,January,Arizona,Pima County,4.4
+2006,January,Arizona,Apache County,9.5
+2006,January,Arizona,Coconino County,5.1
+2006,January,Arizona,Cochise County,4.8
+2006,January,Arizona,Santa Cruz County,6.6
+2006,January,Arizona,Yavapai County,4.6
+2006,June,Arizona,Pinal County,5.3
+2006,June,Arizona,Greenlee County,4.0
+2006,June,Arizona,La Paz County,6.2
+2006,June,Arizona,Mohave County,4.5
+2006,June,Arizona,Yuma County,17.1
+2006,June,Arizona,Gila County,5.5
+2006,June,Arizona,Maricopa County,3.8
+2006,June,Arizona,Navajo County,8.2
+2006,June,Arizona,Graham County,5.6
+2006,June,Arizona,Pima County,4.4
+2006,June,Arizona,Apache County,11.4
+2006,June,Arizona,Coconino County,4.7
+2006,June,Arizona,Cochise County,4.8
+2006,June,Arizona,Santa Cruz County,7.3
+2006,June,Arizona,Yavapai County,4.2
+2006,September,Arizona,Pinal County,5.0
+2006,September,Arizona,Greenlee County,3.6
+2006,September,Arizona,La Paz County,5.8
+2006,September,Arizona,Mohave County,4.5
+2006,September,Arizona,Yuma County,17.1
+2006,September,Arizona,Gila County,5.1
+2006,September,Arizona,Maricopa County,3.6
+2006,September,Arizona,Navajo County,6.9
+2006,September,Arizona,Graham County,5.0
+2006,September,Arizona,Pima County,4.1
+2006,September,Arizona,Apache County,9.8
+2006,September,Arizona,Coconino County,4.0
+2006,September,Arizona,Cochise County,4.4
+2006,September,Arizona,Santa Cruz County,10.1
+2006,September,Arizona,Yavapai County,4.0
+2006,April,Arizona,Pinal County,4.9
+2006,April,Arizona,Greenlee County,3.8
+2006,April,Arizona,La Paz County,5.7
+2006,April,Arizona,Mohave County,4.0
+2006,April,Arizona,Yuma County,13.6
+2006,April,Arizona,Gila County,5.2
+2006,April,Arizona,Maricopa County,3.6
+2006,April,Arizona,Navajo County,7.1
+2006,April,Arizona,Graham County,5.1
+2006,April,Arizona,Pima County,4.0
+2006,April,Arizona,Apache County,9.0
+2006,April,Arizona,Coconino County,4.1
+2006,April,Arizona,Cochise County,4.6
+2006,April,Arizona,Santa Cruz County,5.7
+2006,April,Arizona,Yavapai County,4.0
+2006,December,Arizona,Pinal County,4.3
+2006,December,Arizona,Greenlee County,3.2
+2006,December,Arizona,La Paz County,5.0
+2006,December,Arizona,Mohave County,4.2
+2006,December,Arizona,Yuma County,10.6
+2006,December,Arizona,Gila County,4.3
+2006,December,Arizona,Maricopa County,3.1
+2006,December,Arizona,Navajo County,6.6
+2006,December,Arizona,Graham County,4.4
+2006,December,Arizona,Pima County,3.5
+2006,December,Arizona,Apache County,9.3
+2006,December,Arizona,Coconino County,4.1
+2006,December,Arizona,Cochise County,4.0
+2006,December,Arizona,Santa Cruz County,6.6
+2006,December,Arizona,Yavapai County,3.5
+2006,July,Arizona,Pinal County,5.3
+2006,July,Arizona,Greenlee County,4.2
+2006,July,Arizona,La Paz County,6.1
+2006,July,Arizona,Mohave County,4.6
+2006,July,Arizona,Yuma County,20.6
+2006,July,Arizona,Gila County,5.5
+2006,July,Arizona,Maricopa County,3.8
+2006,July,Arizona,Navajo County,8.7
+2006,July,Arizona,Graham County,5.7
+2006,July,Arizona,Pima County,4.4
+2006,July,Arizona,Apache County,12.7
+2006,July,Arizona,Coconino County,4.9
+2006,July,Arizona,Cochise County,4.9
+2006,July,Arizona,Santa Cruz County,9.5
+2006,July,Arizona,Yavapai County,4.2
+2006,November,Arizona,Pinal County,4.7
+2006,November,Arizona,Greenlee County,3.5
+2006,November,Arizona,La Paz County,5.0
+2006,November,Arizona,Mohave County,4.3
+2006,November,Arizona,Yuma County,13.2
+2006,November,Arizona,Gila County,4.7
+2006,November,Arizona,Maricopa County,3.2
+2006,November,Arizona,Navajo County,6.5
+2006,November,Arizona,Graham County,4.6
+2006,November,Arizona,Pima County,3.7
+2006,November,Arizona,Apache County,9.0
+2006,November,Arizona,Coconino County,3.8
+2006,November,Arizona,Cochise County,4.1
+2006,November,Arizona,Santa Cruz County,7.7
+2006,November,Arizona,Yavapai County,3.7
+2007,February,Arizona,Pinal County,4.5
+2007,February,Arizona,Greenlee County,3.4
+2007,February,Arizona,La Paz County,5.1
+2007,February,Arizona,Mohave County,4.4
+2007,February,Arizona,Yuma County,8.9
+2007,February,Arizona,Gila County,4.4
+2007,February,Arizona,Maricopa County,3.2
+2007,February,Arizona,Navajo County,6.7
+2007,February,Arizona,Graham County,4.4
+2007,February,Arizona,Pima County,3.6
+2007,February,Arizona,Apache County,9.7
+2007,February,Arizona,Coconino County,4.1
+2007,February,Arizona,Cochise County,4.2
+2007,February,Arizona,Santa Cruz County,6.1
+2007,February,Arizona,Yavapai County,3.7
+2007,October,Arizona,Pinal County,4.7
+2007,October,Arizona,Greenlee County,2.8
+2007,October,Arizona,La Paz County,5.2
+2007,October,Arizona,Mohave County,5.0
+2007,October,Arizona,Yuma County,14.4
+2007,October,Arizona,Gila County,4.3
+2007,October,Arizona,Maricopa County,3.3
+2007,October,Arizona,Navajo County,6.1
+2007,October,Arizona,Graham County,4.1
+2007,October,Arizona,Pima County,3.8
+2007,October,Arizona,Apache County,7.7
+2007,October,Arizona,Coconino County,3.4
+2007,October,Arizona,Cochise County,4.0
+2007,October,Arizona,Santa Cruz County,9.4
+2007,October,Arizona,Yavapai County,3.8
+2007,March,Arizona,Pinal County,4.3
+2007,March,Arizona,Greenlee County,3.4
+2007,March,Arizona,La Paz County,4.9
+2007,March,Arizona,Mohave County,4.4
+2007,March,Arizona,Yuma County,9.2
+2007,March,Arizona,Gila County,4.4
+2007,March,Arizona,Maricopa County,3.1
+2007,March,Arizona,Navajo County,6.6
+2007,March,Arizona,Graham County,4.1
+2007,March,Arizona,Pima County,3.5
+2007,March,Arizona,Apache County,9.3
+2007,March,Arizona,Coconino County,3.8
+2007,March,Arizona,Cochise County,4.0
+2007,March,Arizona,Santa Cruz County,5.8
+2007,March,Arizona,Yavapai County,3.6
+2007,August,Arizona,Pinal County,4.7
+2007,August,Arizona,Greenlee County,3.0
+2007,August,Arizona,La Paz County,5.0
+2007,August,Arizona,Mohave County,4.9
+2007,August,Arizona,Yuma County,20.3
+2007,August,Arizona,Gila County,4.2
+2007,August,Arizona,Maricopa County,3.3
+2007,August,Arizona,Navajo County,6.3
+2007,August,Arizona,Graham County,4.2
+2007,August,Arizona,Pima County,3.8
+2007,August,Arizona,Apache County,9.0
+2007,August,Arizona,Coconino County,3.7
+2007,August,Arizona,Cochise County,4.1
+2007,August,Arizona,Santa Cruz County,10.2
+2007,August,Arizona,Yavapai County,3.7
+2007,May,Arizona,Pinal County,3.8
+2007,May,Arizona,Greenlee County,2.9
+2007,May,Arizona,La Paz County,4.4
+2007,May,Arizona,Mohave County,3.9
+2007,May,Arizona,Yuma County,17.6
+2007,May,Arizona,Gila County,3.6
+2007,May,Arizona,Maricopa County,2.7
+2007,May,Arizona,Navajo County,5.5
+2007,May,Arizona,Graham County,3.6
+2007,May,Arizona,Pima County,3.0
+2007,May,Arizona,Apache County,7.8
+2007,May,Arizona,Coconino County,2.9
+2007,May,Arizona,Cochise County,3.4
+2007,May,Arizona,Santa Cruz County,5.2
+2007,May,Arizona,Yavapai County,3.1
+2007,January,Arizona,Pinal County,4.9
+2007,January,Arizona,Greenlee County,3.9
+2007,January,Arizona,La Paz County,5.7
+2007,January,Arizona,Mohave County,4.8
+2007,January,Arizona,Yuma County,9.9
+2007,January,Arizona,Gila County,4.8
+2007,January,Arizona,Maricopa County,3.6
+2007,January,Arizona,Navajo County,7.2
+2007,January,Arizona,Graham County,4.6
+2007,January,Arizona,Pima County,4.0
+2007,January,Arizona,Apache County,9.9
+2007,January,Arizona,Coconino County,4.5
+2007,January,Arizona,Cochise County,4.5
+2007,January,Arizona,Santa Cruz County,6.4
+2007,January,Arizona,Yavapai County,4.1
+2007,June,Arizona,Pinal County,4.5
+2007,June,Arizona,Greenlee County,3.5
+2007,June,Arizona,La Paz County,5.1
+2007,June,Arizona,Mohave County,4.4
+2007,June,Arizona,Yuma County,16.6
+2007,June,Arizona,Gila County,4.2
+2007,June,Arizona,Maricopa County,3.2
+2007,June,Arizona,Navajo County,6.4
+2007,June,Arizona,Graham County,4.5
+2007,June,Arizona,Pima County,3.6
+2007,June,Arizona,Apache County,9.1
+2007,June,Arizona,Coconino County,3.7
+2007,June,Arizona,Cochise County,4.0
+2007,June,Arizona,Santa Cruz County,6.5
+2007,June,Arizona,Yavapai County,3.6
+2007,September,Arizona,Pinal County,4.7
+2007,September,Arizona,Greenlee County,3.0
+2007,September,Arizona,La Paz County,5.0
+2007,September,Arizona,Mohave County,4.9
+2007,September,Arizona,Yuma County,16.9
+2007,September,Arizona,Gila County,4.2
+2007,September,Arizona,Maricopa County,3.3
+2007,September,Arizona,Navajo County,6.0
+2007,September,Arizona,Graham County,4.1
+2007,September,Arizona,Pima County,3.8
+2007,September,Arizona,Apache County,7.7
+2007,September,Arizona,Coconino County,3.4
+2007,September,Arizona,Cochise County,3.9
+2007,September,Arizona,Santa Cruz County,10.2
+2007,September,Arizona,Yavapai County,3.7
+2007,April,Arizona,Pinal County,4.1
+2007,April,Arizona,Greenlee County,3.0
+2007,April,Arizona,La Paz County,4.7
+2007,April,Arizona,Mohave County,4.1
+2007,April,Arizona,Yuma County,11.9
+2007,April,Arizona,Gila County,4.0
+2007,April,Arizona,Maricopa County,3.0
+2007,April,Arizona,Navajo County,5.9
+2007,April,Arizona,Graham County,4.0
+2007,April,Arizona,Pima County,3.4
+2007,April,Arizona,Apache County,8.2
+2007,April,Arizona,Coconino County,3.3
+2007,April,Arizona,Cochise County,3.8
+2007,April,Arizona,Santa Cruz County,5.2
+2007,April,Arizona,Yavapai County,3.4
+2007,December,Arizona,Pinal County,5.1
+2007,December,Arizona,Greenlee County,3.6
+2007,December,Arizona,La Paz County,6.1
+2007,December,Arizona,Mohave County,5.5
+2007,December,Arizona,Yuma County,11.2
+2007,December,Arizona,Gila County,4.7
+2007,December,Arizona,Maricopa County,3.7
+2007,December,Arizona,Navajo County,7.2
+2007,December,Arizona,Graham County,5.1
+2007,December,Arizona,Pima County,4.1
+2007,December,Arizona,Apache County,9.0
+2007,December,Arizona,Coconino County,4.4
+2007,December,Arizona,Cochise County,4.7
+2007,December,Arizona,Santa Cruz County,7.6
+2007,December,Arizona,Yavapai County,4.2
+2007,July,Arizona,Pinal County,4.6
+2007,July,Arizona,Greenlee County,3.5
+2007,July,Arizona,La Paz County,5.0
+2007,July,Arizona,Mohave County,4.6
+2007,July,Arizona,Yuma County,19.1
+2007,July,Arizona,Gila County,4.3
+2007,July,Arizona,Maricopa County,3.2
+2007,July,Arizona,Navajo County,7.1
+2007,July,Arizona,Graham County,4.5
+2007,July,Arizona,Pima County,3.8
+2007,July,Arizona,Apache County,10.1
+2007,July,Arizona,Coconino County,3.9
+2007,July,Arizona,Cochise County,4.1
+2007,July,Arizona,Santa Cruz County,8.9
+2007,July,Arizona,Yavapai County,3.7
+2007,November,Arizona,Pinal County,4.8
+2007,November,Arizona,Greenlee County,3.0
+2007,November,Arizona,La Paz County,5.3
+2007,November,Arizona,Mohave County,5.1
+2007,November,Arizona,Yuma County,12.1
+2007,November,Arizona,Gila County,4.5
+2007,November,Arizona,Maricopa County,3.5
+2007,November,Arizona,Navajo County,6.3
+2007,November,Arizona,Graham County,4.4
+2007,November,Arizona,Pima County,3.9
+2007,November,Arizona,Apache County,7.8
+2007,November,Arizona,Coconino County,3.7
+2007,November,Arizona,Cochise County,4.2
+2007,November,Arizona,Santa Cruz County,7.4
+2007,November,Arizona,Yavapai County,3.9
+2004,February,Arizona,Pinal County,6.3
+2004,February,Arizona,Greenlee County,5.5
+2004,February,Arizona,La Paz County,6.7
+2004,February,Arizona,Mohave County,4.7
+2004,February,Arizona,Yuma County,10.2
+2004,February,Arizona,Gila County,6.6
+2004,February,Arizona,Maricopa County,4.7
+2004,February,Arizona,Navajo County,8.5
+2004,February,Arizona,Graham County,6.6
+2004,February,Arizona,Pima County,4.7
+2004,February,Arizona,Apache County,11.4
+2004,February,Arizona,Coconino County,5.6
+2004,February,Arizona,Cochise County,5.1
+2004,February,Arizona,Santa Cruz County,7.9
+2004,February,Arizona,Yavapai County,5.0
+2004,October,Arizona,Pinal County,5.4
+2004,October,Arizona,Greenlee County,4.9
+2004,October,Arizona,La Paz County,6.6
+2004,October,Arizona,Mohave County,4.1
+2004,October,Arizona,Yuma County,15.8
+2004,October,Arizona,Gila County,6.1
+2004,October,Arizona,Maricopa County,4.2
+2004,October,Arizona,Navajo County,7.6
+2004,October,Arizona,Graham County,6.3
+2004,October,Arizona,Pima County,4.5
+2004,October,Arizona,Apache County,9.7
+2004,October,Arizona,Coconino County,4.6
+2004,October,Arizona,Cochise County,4.6
+2004,October,Arizona,Santa Cruz County,11.3
+2004,October,Arizona,Yavapai County,4.3
+2004,March,Arizona,Pinal County,6.6
+2004,March,Arizona,Greenlee County,5.4
+2004,March,Arizona,La Paz County,7.0
+2004,March,Arizona,Mohave County,4.8
+2004,March,Arizona,Yuma County,11.1
+2004,March,Arizona,Gila County,6.9
+2004,March,Arizona,Maricopa County,4.7
+2004,March,Arizona,Navajo County,8.9
+2004,March,Arizona,Graham County,7.0
+2004,March,Arizona,Pima County,5.0
+2004,March,Arizona,Apache County,11.9
+2004,March,Arizona,Coconino County,5.6
+2004,March,Arizona,Cochise County,5.3
+2004,March,Arizona,Santa Cruz County,8.4
+2004,March,Arizona,Yavapai County,5.1
+2004,August,Arizona,Pinal County,6.1
+2004,August,Arizona,Greenlee County,5.3
+2004,August,Arizona,La Paz County,7.0
+2004,August,Arizona,Mohave County,4.4
+2004,August,Arizona,Yuma County,20.5
+2004,August,Arizona,Gila County,6.3
+2004,August,Arizona,Maricopa County,4.5
+2004,August,Arizona,Navajo County,9.0
+2004,August,Arizona,Graham County,6.9
+2004,August,Arizona,Pima County,4.8
+2004,August,Arizona,Apache County,12.1
+2004,August,Arizona,Coconino County,5.4
+2004,August,Arizona,Cochise County,5.1
+2004,August,Arizona,Santa Cruz County,12.1
+2004,August,Arizona,Yavapai County,4.6
+2004,May,Arizona,Pinal County,5.9
+2004,May,Arizona,Greenlee County,5.2
+2004,May,Arizona,La Paz County,6.6
+2004,May,Arizona,Mohave County,4.3
+2004,May,Arizona,Yuma County,19.0
+2004,May,Arizona,Gila County,6.1
+2004,May,Arizona,Maricopa County,4.2
+2004,May,Arizona,Navajo County,7.7
+2004,May,Arizona,Graham County,6.5
+2004,May,Arizona,Pima County,4.5
+2004,May,Arizona,Apache County,10.6
+2004,May,Arizona,Coconino County,5.0
+2004,May,Arizona,Cochise County,4.8
+2004,May,Arizona,Santa Cruz County,7.8
+2004,May,Arizona,Yavapai County,4.4
+2004,January,Arizona,Pinal County,6.9
+2004,January,Arizona,Greenlee County,5.8
+2004,January,Arizona,La Paz County,7.3
+2004,January,Arizona,Mohave County,5.3
+2004,January,Arizona,Yuma County,11.3
+2004,January,Arizona,Gila County,7.3
+2004,January,Arizona,Maricopa County,5.1
+2004,January,Arizona,Navajo County,9.2
+2004,January,Arizona,Graham County,7.1
+2004,January,Arizona,Pima County,5.2
+2004,January,Arizona,Apache County,12.3
+2004,January,Arizona,Coconino County,6.3
+2004,January,Arizona,Cochise County,5.6
+2004,January,Arizona,Santa Cruz County,8.6
+2004,January,Arizona,Yavapai County,5.6
+2004,June,Arizona,Pinal County,6.6
+2004,June,Arizona,Greenlee County,5.0
+2004,June,Arizona,La Paz County,7.0
+2004,June,Arizona,Mohave County,4.6
+2004,June,Arizona,Yuma County,19.4
+2004,June,Arizona,Gila County,6.8
+2004,June,Arizona,Maricopa County,4.7
+2004,June,Arizona,Navajo County,9.7
+2004,June,Arizona,Graham County,7.2
+2004,June,Arizona,Pima County,5.0
+2004,June,Arizona,Apache County,13.9
+2004,June,Arizona,Coconino County,5.8
+2004,June,Arizona,Cochise County,5.2
+2004,June,Arizona,Santa Cruz County,9.5
+2004,June,Arizona,Yavapai County,4.8
+2004,September,Arizona,Pinal County,5.7
+2004,September,Arizona,Greenlee County,5.1
+2004,September,Arizona,La Paz County,6.7
+2004,September,Arizona,Mohave County,4.2
+2004,September,Arizona,Yuma County,17.1
+2004,September,Arizona,Gila County,6.2
+2004,September,Arizona,Maricopa County,4.3
+2004,September,Arizona,Navajo County,7.9
+2004,September,Arizona,Graham County,6.6
+2004,September,Arizona,Pima County,4.6
+2004,September,Arizona,Apache County,10.0
+2004,September,Arizona,Coconino County,4.7
+2004,September,Arizona,Cochise County,4.8
+2004,September,Arizona,Santa Cruz County,11.7
+2004,September,Arizona,Yavapai County,4.4
+2004,April,Arizona,Pinal County,6.2
+2004,April,Arizona,Greenlee County,5.4
+2004,April,Arizona,La Paz County,6.8
+2004,April,Arizona,Mohave County,4.6
+2004,April,Arizona,Yuma County,16.4
+2004,April,Arizona,Gila County,6.5
+2004,April,Arizona,Maricopa County,4.5
+2004,April,Arizona,Navajo County,8.3
+2004,April,Arizona,Graham County,6.5
+2004,April,Arizona,Pima County,4.7
+2004,April,Arizona,Apache County,11.0
+2004,April,Arizona,Coconino County,5.3
+2004,April,Arizona,Cochise County,5.2
+2004,April,Arizona,Santa Cruz County,7.9
+2004,April,Arizona,Yavapai County,4.7
+2004,December,Arizona,Pinal County,5.2
+2004,December,Arizona,Greenlee County,4.4
+2004,December,Arizona,La Paz County,6.3
+2004,December,Arizona,Mohave County,3.9
+2004,December,Arizona,Yuma County,12.0
+2004,December,Arizona,Gila County,5.9
+2004,December,Arizona,Maricopa County,3.9
+2004,December,Arizona,Navajo County,7.8
+2004,December,Arizona,Graham County,6.0
+2004,December,Arizona,Pima County,4.2
+2004,December,Arizona,Apache County,10.2
+2004,December,Arizona,Coconino County,5.2
+2004,December,Arizona,Cochise County,4.4
+2004,December,Arizona,Santa Cruz County,7.8
+2004,December,Arizona,Yavapai County,4.1
+2004,July,Arizona,Pinal County,6.4
+2004,July,Arizona,Greenlee County,5.7
+2004,July,Arizona,La Paz County,6.9
+2004,July,Arizona,Mohave County,4.4
+2004,July,Arizona,Yuma County,22.4
+2004,July,Arizona,Gila County,6.7
+2004,July,Arizona,Maricopa County,4.5
+2004,July,Arizona,Navajo County,10.3
+2004,July,Arizona,Graham County,7.3
+2004,July,Arizona,Pima County,5.0
+2004,July,Arizona,Apache County,14.5
+2004,July,Arizona,Coconino County,5.9
+2004,July,Arizona,Cochise County,5.3
+2004,July,Arizona,Santa Cruz County,12.7
+2004,July,Arizona,Yavapai County,4.6
+2004,November,Arizona,Pinal County,5.2
+2004,November,Arizona,Greenlee County,4.3
+2004,November,Arizona,La Paz County,6.0
+2004,November,Arizona,Mohave County,3.9
+2004,November,Arizona,Yuma County,14.2
+2004,November,Arizona,Gila County,5.8
+2004,November,Arizona,Maricopa County,4.0
+2004,November,Arizona,Navajo County,7.7
+2004,November,Arizona,Graham County,6.2
+2004,November,Arizona,Pima County,4.3
+2004,November,Arizona,Apache County,10.3
+2004,November,Arizona,Coconino County,4.9
+2004,November,Arizona,Cochise County,4.5
+2004,November,Arizona,Santa Cruz County,9.0
+2004,November,Arizona,Yavapai County,4.1
+2005,February,Arizona,Pinal County,5.7
+2005,February,Arizona,Greenlee County,5.6
+2005,February,Arizona,La Paz County,6.9
+2005,February,Arizona,Mohave County,4.5
+2005,February,Arizona,Yuma County,10.7
+2005,February,Arizona,Gila County,6.4
+2005,February,Arizona,Maricopa County,4.3
+2005,February,Arizona,Navajo County,8.8
+2005,February,Arizona,Graham County,6.2
+2005,February,Arizona,Pima County,4.6
+2005,February,Arizona,Apache County,10.3
+2005,February,Arizona,Coconino County,5.5
+2005,February,Arizona,Cochise County,5.0
+2005,February,Arizona,Santa Cruz County,7.4
+2005,February,Arizona,Yavapai County,4.8
+2005,October,Arizona,Pinal County,5.4
+2005,October,Arizona,Greenlee County,4.5
+2005,October,Arizona,La Paz County,6.8
+2005,October,Arizona,Mohave County,4.3
+2005,October,Arizona,Yuma County,15.4
+2005,October,Arizona,Gila County,5.7
+2005,October,Arizona,Maricopa County,3.9
+2005,October,Arizona,Navajo County,6.9
+2005,October,Arizona,Graham County,5.6
+2005,October,Arizona,Pima County,4.4
+2005,October,Arizona,Apache County,9.2
+2005,October,Arizona,Coconino County,4.2
+2005,October,Arizona,Cochise County,4.7
+2005,October,Arizona,Santa Cruz County,10.4
+2005,October,Arizona,Yavapai County,4.3
+2005,March,Arizona,Pinal County,5.7
+2005,March,Arizona,Greenlee County,5.2
+2005,March,Arizona,La Paz County,6.7
+2005,March,Arizona,Mohave County,4.5
+2005,March,Arizona,Yuma County,11.1
+2005,March,Arizona,Gila County,6.2
+2005,March,Arizona,Maricopa County,4.2
+2005,March,Arizona,Navajo County,8.6
+2005,March,Arizona,Graham County,6.2
+2005,March,Arizona,Pima County,4.5
+2005,March,Arizona,Apache County,10.3
+2005,March,Arizona,Coconino County,5.2
+2005,March,Arizona,Cochise County,4.9
+2005,March,Arizona,Santa Cruz County,7.3
+2005,March,Arizona,Yavapai County,4.7
+2005,August,Arizona,Pinal County,5.8
+2005,August,Arizona,Greenlee County,4.6
+2005,August,Arizona,La Paz County,7.0
+2005,August,Arizona,Mohave County,4.4
+2005,August,Arizona,Yuma County,20.7
+2005,August,Arizona,Gila County,6.0
+2005,August,Arizona,Maricopa County,4.2
+2005,August,Arizona,Navajo County,8.1
+2005,August,Arizona,Graham County,6.3
+2005,August,Arizona,Pima County,4.7
+2005,August,Arizona,Apache County,10.7
+2005,August,Arizona,Coconino County,4.9
+2005,August,Arizona,Cochise County,5.0
+2005,August,Arizona,Santa Cruz County,10.9
+2005,August,Arizona,Yavapai County,4.6
+2005,May,Arizona,Pinal County,5.3
+2005,May,Arizona,Greenlee County,4.3
+2005,May,Arizona,La Paz County,6.0
+2005,May,Arizona,Mohave County,3.9
+2005,May,Arizona,Yuma County,18.8
+2005,May,Arizona,Gila County,5.4
+2005,May,Arizona,Maricopa County,3.8
+2005,May,Arizona,Navajo County,7.2
+2005,May,Arizona,Graham County,5.6
+2005,May,Arizona,Pima County,4.1
+2005,May,Arizona,Apache County,9.2
+2005,May,Arizona,Coconino County,4.3
+2005,May,Arizona,Cochise County,4.3
+2005,May,Arizona,Santa Cruz County,6.7
+2005,May,Arizona,Yavapai County,4.0
+2005,January,Arizona,Pinal County,5.9
+2005,January,Arizona,Greenlee County,5.2
+2005,January,Arizona,La Paz County,7.2
+2005,January,Arizona,Mohave County,4.6
+2005,January,Arizona,Yuma County,11.3
+2005,January,Arizona,Gila County,6.5
+2005,January,Arizona,Maricopa County,4.4
+2005,January,Arizona,Navajo County,9.0
+2005,January,Arizona,Graham County,6.5
+2005,January,Arizona,Pima County,4.7
+2005,January,Arizona,Apache County,10.9
+2005,January,Arizona,Coconino County,6.0
+2005,January,Arizona,Cochise County,4.9
+2005,January,Arizona,Santa Cruz County,7.7
+2005,January,Arizona,Yavapai County,4.9
+2005,June,Arizona,Pinal County,5.9
+2005,June,Arizona,Greenlee County,5.0
+2005,June,Arizona,La Paz County,7.3
+2005,June,Arizona,Mohave County,4.2
+2005,June,Arizona,Yuma County,19.5
+2005,June,Arizona,Gila County,5.9
+2005,June,Arizona,Maricopa County,4.1
+2005,June,Arizona,Navajo County,8.8
+2005,June,Arizona,Graham County,6.3
+2005,June,Arizona,Pima County,4.7
+2005,June,Arizona,Apache County,12.6
+2005,June,Arizona,Coconino County,5.2
+2005,June,Arizona,Cochise County,4.9
+2005,June,Arizona,Santa Cruz County,8.6
+2005,June,Arizona,Yavapai County,4.4
+2005,September,Arizona,Pinal County,5.6
+2005,September,Arizona,Greenlee County,4.8
+2005,September,Arizona,La Paz County,7.1
+2005,September,Arizona,Mohave County,4.4
+2005,September,Arizona,Yuma County,17.8
+2005,September,Arizona,Gila County,5.9
+2005,September,Arizona,Maricopa County,4.1
+2005,September,Arizona,Navajo County,7.3
+2005,September,Arizona,Graham County,6.0
+2005,September,Arizona,Pima County,4.6
+2005,September,Arizona,Apache County,9.8
+2005,September,Arizona,Coconino County,4.4
+2005,September,Arizona,Cochise County,4.9
+2005,September,Arizona,Santa Cruz County,11.2
+2005,September,Arizona,Yavapai County,4.6
+2005,April,Arizona,Pinal County,5.4
+2005,April,Arizona,Greenlee County,4.9
+2005,April,Arizona,La Paz County,6.5
+2005,April,Arizona,Mohave County,4.2
+2005,April,Arizona,Yuma County,15.3
+2005,April,Arizona,Gila County,5.8
+2005,April,Arizona,Maricopa County,4.0
+2005,April,Arizona,Navajo County,7.8
+2005,April,Arizona,Graham County,5.9
+2005,April,Arizona,Pima County,4.3
+2005,April,Arizona,Apache County,9.7
+2005,April,Arizona,Coconino County,4.6
+2005,April,Arizona,Cochise County,4.7
+2005,April,Arizona,Santa Cruz County,6.7
+2005,April,Arizona,Yavapai County,4.4
+2005,December,Arizona,Pinal County,5.0
+2005,December,Arizona,Greenlee County,4.3
+2005,December,Arizona,La Paz County,6.3
+2005,December,Arizona,Mohave County,4.0
+2005,December,Arizona,Yuma County,12.1
+2005,December,Arizona,Gila County,5.5
+2005,December,Arizona,Maricopa County,3.6
+2005,December,Arizona,Navajo County,7.4
+2005,December,Arizona,Graham County,5.4
+2005,December,Arizona,Pima County,4.1
+2005,December,Arizona,Apache County,9.8
+2005,December,Arizona,Coconino County,4.8
+2005,December,Arizona,Cochise County,4.6
+2005,December,Arizona,Santa Cruz County,7.2
+2005,December,Arizona,Yavapai County,3.9
+2005,July,Arizona,Pinal County,5.8
+2005,July,Arizona,Greenlee County,5.1
+2005,July,Arizona,La Paz County,7.1
+2005,July,Arizona,Mohave County,4.2
+2005,July,Arizona,Yuma County,21.8
+2005,July,Arizona,Gila County,6.0
+2005,July,Arizona,Maricopa County,4.1
+2005,July,Arizona,Navajo County,9.2
+2005,July,Arizona,Graham County,6.4
+2005,July,Arizona,Pima County,4.7
+2005,July,Arizona,Apache County,13.1
+2005,July,Arizona,Coconino County,5.2
+2005,July,Arizona,Cochise County,5.0
+2005,July,Arizona,Santa Cruz County,10.3
+2005,July,Arizona,Yavapai County,4.4
+2005,November,Arizona,Pinal County,5.4
+2005,November,Arizona,Greenlee County,4.7
+2005,November,Arizona,La Paz County,6.5
+2005,November,Arizona,Mohave County,4.2
+2005,November,Arizona,Yuma County,14.7
+2005,November,Arizona,Gila County,5.8
+2005,November,Arizona,Maricopa County,3.8
+2005,November,Arizona,Navajo County,7.6
+2005,November,Arizona,Graham County,5.7
+2005,November,Arizona,Pima County,4.4
+2005,November,Arizona,Apache County,10.2
+2005,November,Arizona,Coconino County,4.6
+2005,November,Arizona,Cochise County,4.7
+2005,November,Arizona,Santa Cruz County,8.7
+2005,November,Arizona,Yavapai County,4.2
+2008,February,Arizona,Pinal County,5.4
+2008,February,Arizona,Greenlee County,3.8
+2008,February,Arizona,La Paz County,5.5
+2008,February,Arizona,Mohave County,6.1
+2008,February,Arizona,Yuma County,10.2
+2008,February,Arizona,Gila County,5.1
+2008,February,Arizona,Maricopa County,3.9
+2008,February,Arizona,Navajo County,8.4
+2008,February,Arizona,Graham County,5.5
+2008,February,Arizona,Pima County,4.4
+2008,February,Arizona,Apache County,9.6
+2008,February,Arizona,Coconino County,4.8
+2008,February,Arizona,Cochise County,4.9
+2008,February,Arizona,Santa Cruz County,7.1
+2008,February,Arizona,Yavapai County,4.6
+2008,October,Arizona,Pinal County,8.6
+2008,October,Arizona,Greenlee County,4.9
+2008,October,Arizona,La Paz County,9.4
+2008,October,Arizona,Mohave County,9.0
+2008,October,Arizona,Yuma County,21.5
+2008,October,Arizona,Gila County,7.6
+2008,October,Arizona,Maricopa County,6.4
+2008,October,Arizona,Navajo County,11.6
+2008,October,Arizona,Graham County,7.3
+2008,October,Arizona,Pima County,6.7
+2008,October,Arizona,Apache County,13.3
+2008,October,Arizona,Coconino County,6.0
+2008,October,Arizona,Cochise County,6.4
+2008,October,Arizona,Santa Cruz County,15.5
+2008,October,Arizona,Yavapai County,7.4
+2008,March,Arizona,Pinal County,5.8
+2008,March,Arizona,Greenlee County,4.1
+2008,March,Arizona,La Paz County,5.7
+2008,March,Arizona,Mohave County,6.4
+2008,March,Arizona,Yuma County,10.7
+2008,March,Arizona,Gila County,5.3
+2008,March,Arizona,Maricopa County,4.2
+2008,March,Arizona,Navajo County,8.4
+2008,March,Arizona,Graham County,5.8
+2008,March,Arizona,Pima County,4.7
+2008,March,Arizona,Apache County,9.5
+2008,March,Arizona,Coconino County,4.8
+2008,March,Arizona,Cochise County,5.0
+2008,March,Arizona,Santa Cruz County,7.2
+2008,March,Arizona,Yavapai County,4.9
+2008,August,Arizona,Pinal County,8.4
+2008,August,Arizona,Greenlee County,5.2
+2008,August,Arizona,La Paz County,9.4
+2008,August,Arizona,Mohave County,8.6
+2008,August,Arizona,Yuma County,26.1
+2008,August,Arizona,Gila County,7.4
+2008,August,Arizona,Maricopa County,6.2
+2008,August,Arizona,Navajo County,11.4
+2008,August,Arizona,Graham County,7.5
+2008,August,Arizona,Pima County,6.6
+2008,August,Arizona,Apache County,13.2
+2008,August,Arizona,Coconino County,6.2
+2008,August,Arizona,Cochise County,6.5
+2008,August,Arizona,Santa Cruz County,15.6
+2008,August,Arizona,Yavapai County,7.0
+2008,May,Arizona,Pinal County,6.3
+2008,May,Arizona,Greenlee County,4.3
+2008,May,Arizona,La Paz County,6.4
+2008,May,Arizona,Mohave County,6.7
+2008,May,Arizona,Yuma County,21.7
+2008,May,Arizona,Gila County,5.1
+2008,May,Arizona,Maricopa County,4.5
+2008,May,Arizona,Navajo County,8.3
+2008,May,Arizona,Graham County,6.2
+2008,May,Arizona,Pima County,5.0
+2008,May,Arizona,Apache County,9.5
+2008,May,Arizona,Coconino County,4.5
+2008,May,Arizona,Cochise County,5.2
+2008,May,Arizona,Santa Cruz County,7.6
+2008,May,Arizona,Yavapai County,5.1
+2008,January,Arizona,Pinal County,5.8
+2008,January,Arizona,Greenlee County,4.0
+2008,January,Arizona,La Paz County,6.2
+2008,January,Arizona,Mohave County,6.3
+2008,January,Arizona,Yuma County,10.9
+2008,January,Arizona,Gila County,5.2
+2008,January,Arizona,Maricopa County,4.1
+2008,January,Arizona,Navajo County,8.3
+2008,January,Arizona,Graham County,5.8
+2008,January,Arizona,Pima County,4.7
+2008,January,Arizona,Apache County,9.8
+2008,January,Arizona,Coconino County,5.1
+2008,January,Arizona,Cochise County,5.1
+2008,January,Arizona,Santa Cruz County,7.4
+2008,January,Arizona,Yavapai County,4.8
+2008,June,Arizona,Pinal County,7.5
+2008,June,Arizona,Greenlee County,4.9
+2008,June,Arizona,La Paz County,7.9
+2008,June,Arizona,Mohave County,7.0
+2008,June,Arizona,Yuma County,20.6
+2008,June,Arizona,Gila County,6.2
+2008,June,Arizona,Maricopa County,5.3
+2008,June,Arizona,Navajo County,10.1
+2008,June,Arizona,Graham County,7.2
+2008,June,Arizona,Pima County,5.9
+2008,June,Arizona,Apache County,12.1
+2008,June,Arizona,Coconino County,5.6
+2008,June,Arizona,Cochise County,5.8
+2008,June,Arizona,Santa Cruz County,9.6
+2008,June,Arizona,Yavapai County,5.8
+2008,September,Arizona,Pinal County,8.6
+2008,September,Arizona,Greenlee County,5.2
+2008,September,Arizona,La Paz County,9.6
+2008,September,Arizona,Mohave County,8.7
+2008,September,Arizona,Yuma County,22.9
+2008,September,Arizona,Gila County,7.4
+2008,September,Arizona,Maricopa County,6.3
+2008,September,Arizona,Navajo County,11.0
+2008,September,Arizona,Graham County,7.3
+2008,September,Arizona,Pima County,6.7
+2008,September,Arizona,Apache County,12.7
+2008,September,Arizona,Coconino County,5.9
+2008,September,Arizona,Cochise County,6.5
+2008,September,Arizona,Santa Cruz County,15.6
+2008,September,Arizona,Yavapai County,7.1
+2008,April,Arizona,Pinal County,5.8
+2008,April,Arizona,Greenlee County,4.3
+2008,April,Arizona,La Paz County,5.5
+2008,April,Arizona,Mohave County,6.1
+2008,April,Arizona,Yuma County,14.5
+2008,April,Arizona,Gila County,4.9
+2008,April,Arizona,Maricopa County,4.1
+2008,April,Arizona,Navajo County,7.8
+2008,April,Arizona,Graham County,5.6
+2008,April,Arizona,Pima County,4.6
+2008,April,Arizona,Apache County,9.0
+2008,April,Arizona,Coconino County,4.3
+2008,April,Arizona,Cochise County,4.8
+2008,April,Arizona,Santa Cruz County,6.9
+2008,April,Arizona,Yavapai County,4.7
+2008,December,Arizona,Pinal County,9.6
+2008,December,Arizona,Greenlee County,9.9
+2008,December,Arizona,La Paz County,9.2
+2008,December,Arizona,Mohave County,10.0
+2008,December,Arizona,Yuma County,16.6
+2008,December,Arizona,Gila County,8.7
+2008,December,Arizona,Maricopa County,7.1
+2008,December,Arizona,Navajo County,13.0
+2008,December,Arizona,Graham County,10.3
+2008,December,Arizona,Pima County,7.3
+2008,December,Arizona,Apache County,14.0
+2008,December,Arizona,Coconino County,7.3
+2008,December,Arizona,Cochise County,7.1
+2008,December,Arizona,Santa Cruz County,13.0
+2008,December,Arizona,Yavapai County,8.4
+2008,July,Arizona,Pinal County,8.0
+2008,July,Arizona,Greenlee County,5.3
+2008,July,Arizona,La Paz County,8.8
+2008,July,Arizona,Mohave County,7.6
+2008,July,Arizona,Yuma County,22.9
+2008,July,Arizona,Gila County,6.7
+2008,July,Arizona,Maricopa County,5.7
+2008,July,Arizona,Navajo County,10.6
+2008,July,Arizona,Graham County,7.5
+2008,July,Arizona,Pima County,6.2
+2008,July,Arizona,Apache County,12.5
+2008,July,Arizona,Coconino County,5.9
+2008,July,Arizona,Cochise County,6.3
+2008,July,Arizona,Santa Cruz County,12.6
+2008,July,Arizona,Yavapai County,6.3
+2008,November,Arizona,Pinal County,8.8
+2008,November,Arizona,Greenlee County,7.5
+2008,November,Arizona,La Paz County,9.1
+2008,November,Arizona,Mohave County,9.6
+2008,November,Arizona,Yuma County,19.7
+2008,November,Arizona,Gila County,7.9
+2008,November,Arizona,Maricopa County,6.6
+2008,November,Arizona,Navajo County,12.2
+2008,November,Arizona,Graham County,8.6
+2008,November,Arizona,Pima County,6.8
+2008,November,Arizona,Apache County,13.6
+2008,November,Arizona,Coconino County,6.6
+2008,November,Arizona,Cochise County,6.6
+2008,November,Arizona,Santa Cruz County,13.5
+2008,November,Arizona,Yavapai County,7.7
+2009,February,Arizona,Pinal County,10.7
+2009,February,Arizona,Greenlee County,13.6
+2009,February,Arizona,La Paz County,9.7
+2009,February,Arizona,Mohave County,10.8
+2009,February,Arizona,Yuma County,15.8
+2009,February,Arizona,Gila County,10.2
+2009,February,Arizona,Maricopa County,8.0
+2009,February,Arizona,Navajo County,14.5
+2009,February,Arizona,Graham County,13.2
+2009,February,Arizona,Pima County,7.9
+2009,February,Arizona,Apache County,15.2
+2009,February,Arizona,Coconino County,8.1
+2009,February,Arizona,Cochise County,7.6
+2009,February,Arizona,Santa Cruz County,12.7
+2009,February,Arizona,Yavapai County,9.8
+2009,October,Arizona,Pinal County,13.5
+2009,October,Arizona,Greenlee County,21.7
+2009,October,Arizona,La Paz County,10.4
+2009,October,Arizona,Mohave County,12.2
+2009,October,Arizona,Yuma County,25.4
+2009,October,Arizona,Gila County,12.4
+2009,October,Arizona,Maricopa County,10.1
+2009,October,Arizona,Navajo County,16.4
+2009,October,Arizona,Graham County,15.4
+2009,October,Arizona,Pima County,10.0
+2009,October,Arizona,Apache County,17.1
+2009,October,Arizona,Coconino County,9.3
+2009,October,Arizona,Cochise County,8.4
+2009,October,Arizona,Santa Cruz County,19.6
+2009,October,Arizona,Yavapai County,11.2
+2009,March,Arizona,Pinal County,11.3
+2009,March,Arizona,Greenlee County,14.0
+2009,March,Arizona,La Paz County,10.0
+2009,March,Arizona,Mohave County,11.0
+2009,March,Arizona,Yuma County,16.2
+2009,March,Arizona,Gila County,10.9
+2009,March,Arizona,Maricopa County,8.2
+2009,March,Arizona,Navajo County,14.2
+2009,March,Arizona,Graham County,13.5
+2009,March,Arizona,Pima County,8.2
+2009,March,Arizona,Apache County,14.4
+2009,March,Arizona,Coconino County,7.5
+2009,March,Arizona,Cochise County,7.5
+2009,March,Arizona,Santa Cruz County,12.7
+2009,March,Arizona,Yavapai County,10.1
+2009,August,Arizona,Pinal County,13.5
+2009,August,Arizona,Greenlee County,22.8
+2009,August,Arizona,La Paz County,9.9
+2009,August,Arizona,Mohave County,11.9
+2009,August,Arizona,Yuma County,28.4
+2009,August,Arizona,Gila County,11.7
+2009,August,Arizona,Maricopa County,10.0
+2009,August,Arizona,Navajo County,15.8
+2009,August,Arizona,Graham County,16.3
+2009,August,Arizona,Pima County,9.9
+2009,August,Arizona,Apache County,16.6
+2009,August,Arizona,Coconino County,9.0
+2009,August,Arizona,Cochise County,8.4
+2009,August,Arizona,Santa Cruz County,19.1
+2009,August,Arizona,Yavapai County,10.9
+2009,May,Arizona,Pinal County,11.6
+2009,May,Arizona,Greenlee County,22.6
+2009,May,Arizona,La Paz County,8.9
+2009,May,Arizona,Mohave County,10.5
+2009,May,Arizona,Yuma County,25.2
+2009,May,Arizona,Gila County,10.8
+2009,May,Arizona,Maricopa County,8.5
+2009,May,Arizona,Navajo County,13.7
+2009,May,Arizona,Graham County,16.0
+2009,May,Arizona,Pima County,8.4
+2009,May,Arizona,Apache County,13.6
+2009,May,Arizona,Coconino County,7.1
+2009,May,Arizona,Cochise County,7.3
+2009,May,Arizona,Santa Cruz County,13.0
+2009,May,Arizona,Yavapai County,9.7
+2009,January,Arizona,Pinal County,10.5
+2009,January,Arizona,Greenlee County,12.6
+2009,January,Arizona,La Paz County,9.8
+2009,January,Arizona,Mohave County,11.2
+2009,January,Arizona,Yuma County,16.8
+2009,January,Arizona,Gila County,9.9
+2009,January,Arizona,Maricopa County,7.8
+2009,January,Arizona,Navajo County,14.6
+2009,January,Arizona,Graham County,12.1
+2009,January,Arizona,Pima County,7.8
+2009,January,Arizona,Apache County,14.9
+2009,January,Arizona,Coconino County,8.2
+2009,January,Arizona,Cochise County,7.4
+2009,January,Arizona,Santa Cruz County,12.7
+2009,January,Arizona,Yavapai County,9.7
+2009,June,Arizona,Pinal County,12.7
+2009,June,Arizona,Greenlee County,21.4
+2009,June,Arizona,La Paz County,9.9
+2009,June,Arizona,Mohave County,11.1
+2009,June,Arizona,Yuma County,24.6
+2009,June,Arizona,Gila County,11.6
+2009,June,Arizona,Maricopa County,9.3
+2009,June,Arizona,Navajo County,15.3
+2009,June,Arizona,Graham County,16.1
+2009,June,Arizona,Pima County,9.4
+2009,June,Arizona,Apache County,16.1
+2009,June,Arizona,Coconino County,8.3
+2009,June,Arizona,Cochise County,8.2
+2009,June,Arizona,Santa Cruz County,15.4
+2009,June,Arizona,Yavapai County,10.2
+2009,September,Arizona,Pinal County,13.2
+2009,September,Arizona,Greenlee County,23.0
+2009,September,Arizona,La Paz County,10.0
+2009,September,Arizona,Mohave County,11.9
+2009,September,Arizona,Yuma County,26.8
+2009,September,Arizona,Gila County,12.1
+2009,September,Arizona,Maricopa County,10.1
+2009,September,Arizona,Navajo County,15.8
+2009,September,Arizona,Graham County,15.9
+2009,September,Arizona,Pima County,10.0
+2009,September,Arizona,Apache County,16.5
+2009,September,Arizona,Coconino County,9.0
+2009,September,Arizona,Cochise County,8.6
+2009,September,Arizona,Santa Cruz County,19.6
+2009,September,Arizona,Yavapai County,11.2
+2009,April,Arizona,Pinal County,11.2
+2009,April,Arizona,Greenlee County,17.6
+2009,April,Arizona,La Paz County,9.1
+2009,April,Arizona,Mohave County,10.6
+2009,April,Arizona,Yuma County,22.3
+2009,April,Arizona,Gila County,10.6
+2009,April,Arizona,Maricopa County,8.1
+2009,April,Arizona,Navajo County,13.7
+2009,April,Arizona,Graham County,14.7
+2009,April,Arizona,Pima County,8.1
+2009,April,Arizona,Apache County,13.6
+2009,April,Arizona,Coconino County,6.9
+2009,April,Arizona,Cochise County,7.2
+2009,April,Arizona,Santa Cruz County,12.4
+2009,April,Arizona,Yavapai County,9.7
+2009,December,Arizona,Pinal County,12.9
+2009,December,Arizona,Greenlee County,16.5
+2009,December,Arizona,La Paz County,10.3
+2009,December,Arizona,Mohave County,12.3
+2009,December,Arizona,Yuma County,21.4
+2009,December,Arizona,Gila County,12.4
+2009,December,Arizona,Maricopa County,9.8
+2009,December,Arizona,Navajo County,17.0
+2009,December,Arizona,Graham County,15.6
+2009,December,Arizona,Pima County,9.7
+2009,December,Arizona,Apache County,17.3
+2009,December,Arizona,Coconino County,10.2
+2009,December,Arizona,Cochise County,8.4
+2009,December,Arizona,Santa Cruz County,16.4
+2009,December,Arizona,Yavapai County,11.2
+2009,July,Arizona,Pinal County,13.2
+2009,July,Arizona,Greenlee County,22.6
+2009,July,Arizona,La Paz County,10.2
+2009,July,Arizona,Mohave County,11.3
+2009,July,Arizona,Yuma County,27.6
+2009,July,Arizona,Gila County,11.7
+2009,July,Arizona,Maricopa County,9.6
+2009,July,Arizona,Navajo County,15.7
+2009,July,Arizona,Graham County,16.5
+2009,July,Arizona,Pima County,9.7
+2009,July,Arizona,Apache County,16.6
+2009,July,Arizona,Coconino County,8.9
+2009,July,Arizona,Cochise County,8.3
+2009,July,Arizona,Santa Cruz County,18.3
+2009,July,Arizona,Yavapai County,10.7
+2009,November,Arizona,Pinal County,13.1
+2009,November,Arizona,Greenlee County,18.3
+2009,November,Arizona,La Paz County,10.3
+2009,November,Arizona,Mohave County,11.8
+2009,November,Arizona,Yuma County,23.7
+2009,November,Arizona,Gila County,12.1
+2009,November,Arizona,Maricopa County,9.8
+2009,November,Arizona,Navajo County,16.8
+2009,November,Arizona,Graham County,15.5
+2009,November,Arizona,Pima County,9.7
+2009,November,Arizona,Apache County,17.1
+2009,November,Arizona,Coconino County,9.7
+2009,November,Arizona,Cochise County,8.4
+2009,November,Arizona,Santa Cruz County,17.3
+2009,November,Arizona,Yavapai County,11.1
