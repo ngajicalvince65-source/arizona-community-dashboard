@@ -7,7 +7,7 @@
 ```math
 \begin{aligned}
 &\textbf{Geospatial dashboard for Arizona's 15 counties} \\[4pt]
-&V_c = \operatorname{rank}(\text{Unemployment}_c) + \operatorname{rank}(\text{Less than high school}_c) + \operatorname{rank}(\text{Violent crime}_c) - \operatorname{rank}(\text{Resources}_c) \\[4pt]
+&V_c = \mathrm{rank}(\text{Unemployment}_c) + \mathrm{rank}(\text{Less than high school}_c) + \mathrm{rank}(\text{Violent crime}_c) - \mathrm{rank}(\text{Resources}_c) \\[4pt]
 &\text{Higher } V_c \text{ means greater need and fewer community resources}
 \end{aligned}
 ```
